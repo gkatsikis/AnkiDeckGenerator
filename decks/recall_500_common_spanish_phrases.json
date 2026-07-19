@@ -1,0 +1,2081 @@
+{
+    "deck_name": "Recall 500 Common Spanish Phrases",
+    "cards": [
+        {
+            "front": "Hello",
+            "back": "Hola"
+        },
+        {
+            "front": "Good morning",
+            "back": "Buenos días"
+        },
+        {
+            "front": "Good afternoon",
+            "back": "Buenas tardes"
+        },
+        {
+            "front": "Good evening / Good night",
+            "back": "Buenas noches"
+        },
+        {
+            "front": "How are you?",
+            "back": "¿Cómo estás?"
+        },
+        {
+            "front": "How's it going?",
+            "back": "¿Qué onda?"
+        },
+        {
+            "front": "What's up?",
+            "back": "¿Qué hubo?"
+        },
+        {
+            "front": "What's going on?",
+            "back": "¿Qué pasa?"
+        },
+        {
+            "front": "What's new?",
+            "back": "¿Qué hay de nuevo?"
+        },
+        {
+            "front": "Very well, thank you",
+            "back": "Muy bien, gracias"
+        },
+        {
+            "front": "Not bad",
+            "back": "No está mal"
+        },
+        {
+            "front": "So-so",
+            "back": "Más o menos"
+        },
+        {
+            "front": "Fine, and you?",
+            "back": "Bien, ¿y tú?"
+        },
+        {
+            "front": "Everything good",
+            "back": "Todo bien"
+        },
+        {
+            "front": "Goodbye",
+            "back": "Adiós"
+        },
+        {
+            "front": "See you later",
+            "back": "Nos vemos"
+        },
+        {
+            "front": "See you tomorrow",
+            "back": "Hasta mañana"
+        },
+        {
+            "front": "See you soon",
+            "back": "Hasta pronto"
+        },
+        {
+            "front": "Take care",
+            "back": "Cuídate"
+        },
+        {
+            "front": "Have a good day",
+            "back": "Que te vaya bien"
+        },
+        {
+            "front": "Have a good one (casual)",
+            "back": "Que la pases bien"
+        },
+        {
+            "front": "Please",
+            "back": "Por favor"
+        },
+        {
+            "front": "Thank you",
+            "back": "Gracias"
+        },
+        {
+            "front": "Thank you very much",
+            "back": "Muchas gracias"
+        },
+        {
+            "front": "Thanks a lot (casual)",
+            "back": "Mil gracias"
+        },
+        {
+            "front": "You're welcome",
+            "back": "De nada"
+        },
+        {
+            "front": "Don't worry about it",
+            "back": "No te preocupes"
+        },
+        {
+            "front": "It's nothing / No problem",
+            "back": "No hay de qué"
+        },
+        {
+            "front": "Excuse me (to get attention)",
+            "back": "Disculpe"
+        },
+        {
+            "front": "Excuse me (to pass by)",
+            "back": "Con permiso"
+        },
+        {
+            "front": "Sorry / I'm sorry",
+            "back": "Lo siento"
+        },
+        {
+            "front": "My bad / Forgive me",
+            "back": "Perdón"
+        },
+        {
+            "front": "I apologize",
+            "back": "Disculpa"
+        },
+        {
+            "front": "Yes",
+            "back": "Sí"
+        },
+        {
+            "front": "No",
+            "back": "No"
+        },
+        {
+            "front": "Of course",
+            "back": "Claro"
+        },
+        {
+            "front": "Of course! (emphatic)",
+            "back": "¡Claro que sí!"
+        },
+        {
+            "front": "Sure, go ahead",
+            "back": "Dale"
+        },
+        {
+            "front": "Alright / OK",
+            "back": "Órale"
+        },
+        {
+            "front": "Cool! / Awesome!",
+            "back": "¡Qué padre!"
+        },
+        {
+            "front": "That's great!",
+            "back": "¡Qué chido!"
+        },
+        {
+            "front": "How cool!",
+            "back": "¡Qué chévere!"
+        },
+        {
+            "front": "Wow!",
+            "back": "¡Híjole!"
+        },
+        {
+            "front": "No way! (disbelief)",
+            "back": "¡No manches!"
+        },
+        {
+            "front": "Are you serious?",
+            "back": "¿En serio?"
+        },
+        {
+            "front": "Seriously?",
+            "back": "¿Neta?"
+        },
+        {
+            "front": "For real / Truly",
+            "back": "De verdad"
+        },
+        {
+            "front": "I swear",
+            "back": "Te lo juro"
+        },
+        {
+            "front": "I'm telling you the truth",
+            "back": "Te digo la neta"
+        },
+        {
+            "front": "What a drag / What a pain",
+            "back": "¡Qué hueva!"
+        },
+        {
+            "front": "That's annoying",
+            "back": "Qué lata"
+        },
+        {
+            "front": "How embarrassing!",
+            "back": "¡Qué pena!"
+        },
+        {
+            "front": "What a shame",
+            "back": "Qué lástima"
+        },
+        {
+            "front": "That sucks",
+            "back": "Qué gacho"
+        },
+        {
+            "front": "How awful!",
+            "back": "¡Qué horrible!"
+        },
+        {
+            "front": "What a mess!",
+            "back": "¡Qué desmadre!"
+        },
+        {
+            "front": "It's not a big deal",
+            "back": "No es para tanto"
+        },
+        {
+            "front": "Don't exaggerate",
+            "back": "No exageres"
+        },
+        {
+            "front": "Calm down",
+            "back": "Cálmate"
+        },
+        {
+            "front": "Relax / Take it easy",
+            "back": "Tranquilo"
+        },
+        {
+            "front": "Easy does it",
+            "back": "Con calma"
+        },
+        {
+            "front": "Chill out",
+            "back": "Relájate"
+        },
+        {
+            "front": "Don't stress",
+            "back": "No te agüites"
+        },
+        {
+            "front": "What do you think?",
+            "back": "¿Qué opinas?"
+        },
+        {
+            "front": "What do you say?",
+            "back": "¿Qué dices?"
+        },
+        {
+            "front": "Do you agree?",
+            "back": "¿Estás de acuerdo?"
+        },
+        {
+            "front": "I agree",
+            "back": "Estoy de acuerdo"
+        },
+        {
+            "front": "I disagree",
+            "back": "No estoy de acuerdo"
+        },
+        {
+            "front": "I think so",
+            "back": "Creo que sí"
+        },
+        {
+            "front": "I don't think so",
+            "back": "Creo que no"
+        },
+        {
+            "front": "Maybe",
+            "back": "Tal vez"
+        },
+        {
+            "front": "It depends",
+            "back": "Depende"
+        },
+        {
+            "front": "I don't know",
+            "back": "No sé"
+        },
+        {
+            "front": "Who knows",
+            "back": "Quién sabe"
+        },
+        {
+            "front": "I have no idea",
+            "back": "No tengo idea"
+        },
+        {
+            "front": "I have no clue",
+            "back": "Ni idea"
+        },
+        {
+            "front": "Let me think about it",
+            "back": "Déjame pensarlo"
+        },
+        {
+            "front": "I'll think about it",
+            "back": "Lo voy a pensar"
+        },
+        {
+            "front": "What's your name?",
+            "back": "¿Cómo te llamas?"
+        },
+        {
+            "front": "My name is...",
+            "back": "Me llamo..."
+        },
+        {
+            "front": "Nice to meet you",
+            "back": "Mucho gusto"
+        },
+        {
+            "front": "The pleasure is mine",
+            "back": "El gusto es mío"
+        },
+        {
+            "front": "Where are you from?",
+            "back": "¿De dónde eres?"
+        },
+        {
+            "front": "I'm from...",
+            "back": "Soy de..."
+        },
+        {
+            "front": "How old are you?",
+            "back": "¿Cuántos años tienes?"
+        },
+        {
+            "front": "What do you do for a living?",
+            "back": "¿A qué te dedicas?"
+        },
+        {
+            "front": "I work in...",
+            "back": "Trabajo en..."
+        },
+        {
+            "front": "Do you speak English?",
+            "back": "¿Hablas inglés?"
+        },
+        {
+            "front": "I speak a little Spanish",
+            "back": "Hablo un poco de español"
+        },
+        {
+            "front": "I'm learning Spanish",
+            "back": "Estoy aprendiendo español"
+        },
+        {
+            "front": "Can you repeat that?",
+            "back": "¿Puedes repetir?"
+        },
+        {
+            "front": "Can you speak more slowly?",
+            "back": "¿Puedes hablar más despacio?"
+        },
+        {
+            "front": "I don't understand",
+            "back": "No entiendo"
+        },
+        {
+            "front": "I didn't catch that",
+            "back": "No le entendí"
+        },
+        {
+            "front": "What does that mean?",
+            "back": "¿Qué significa eso?"
+        },
+        {
+            "front": "How do you say...?",
+            "back": "¿Cómo se dice...?"
+        },
+        {
+            "front": "What did you say?",
+            "back": "¿Qué dijiste?"
+        },
+        {
+            "front": "Could you explain?",
+            "back": "¿Me puedes explicar?"
+        },
+        {
+            "front": "I need help",
+            "back": "Necesito ayuda"
+        },
+        {
+            "front": "Can you help me?",
+            "back": "¿Me puedes ayudar?"
+        },
+        {
+            "front": "Where is...?",
+            "back": "¿Dónde está...?"
+        },
+        {
+            "front": "Where is the bathroom?",
+            "back": "¿Dónde está el baño?"
+        },
+        {
+            "front": "How much does it cost?",
+            "back": "¿Cuánto cuesta?"
+        },
+        {
+            "front": "That's too expensive",
+            "back": "Está muy caro"
+        },
+        {
+            "front": "Can you give me a discount?",
+            "back": "¿Me hace precio?"
+        },
+        {
+            "front": "What's the best price?",
+            "back": "¿Cuál es su mejor precio?"
+        },
+        {
+            "front": "I'll take it",
+            "back": "Me lo llevo"
+        },
+        {
+            "front": "I'm just looking",
+            "back": "Solo estoy viendo"
+        },
+        {
+            "front": "The check, please",
+            "back": "La cuenta, por favor"
+        },
+        {
+            "front": "Keep the change",
+            "back": "Quédese con el cambio"
+        },
+        {
+            "front": "I'm hungry",
+            "back": "Tengo hambre"
+        },
+        {
+            "front": "I'm thirsty",
+            "back": "Tengo sed"
+        },
+        {
+            "front": "I'm tired",
+            "back": "Estoy cansado"
+        },
+        {
+            "front": "I'm sleepy",
+            "back": "Tengo sueño"
+        },
+        {
+            "front": "I'm cold",
+            "back": "Tengo frío"
+        },
+        {
+            "front": "I'm hot",
+            "back": "Tengo calor"
+        },
+        {
+            "front": "I'm in a hurry",
+            "back": "Tengo prisa"
+        },
+        {
+            "front": "I'm late",
+            "back": "Voy tarde"
+        },
+        {
+            "front": "I'm lost",
+            "back": "Estoy perdido"
+        },
+        {
+            "front": "I'm bored",
+            "back": "Estoy aburrido"
+        },
+        {
+            "front": "I'm busy",
+            "back": "Estoy ocupado"
+        },
+        {
+            "front": "I'm sick",
+            "back": "Estoy enfermo"
+        },
+        {
+            "front": "I feel bad",
+            "back": "Me siento mal"
+        },
+        {
+            "front": "I'm fine",
+            "back": "Estoy bien"
+        },
+        {
+            "front": "I'm ready",
+            "back": "Estoy listo"
+        },
+        {
+            "front": "I'm happy",
+            "back": "Estoy contento"
+        },
+        {
+            "front": "I'm excited",
+            "back": "Estoy emocionado"
+        },
+        {
+            "front": "I'm worried",
+            "back": "Estoy preocupado"
+        },
+        {
+            "front": "I'm angry",
+            "back": "Estoy enojado"
+        },
+        {
+            "front": "I'm scared",
+            "back": "Tengo miedo"
+        },
+        {
+            "front": "I'm fed up",
+            "back": "Estoy harto"
+        },
+        {
+            "front": "I'm doing my best",
+            "back": "Estoy haciendo lo que puedo"
+        },
+        {
+            "front": "I want...",
+            "back": "Quiero..."
+        },
+        {
+            "front": "I would like...",
+            "back": "Me gustaría..."
+        },
+        {
+            "front": "I need...",
+            "back": "Necesito..."
+        },
+        {
+            "front": "I can",
+            "back": "Puedo"
+        },
+        {
+            "front": "I can't",
+            "back": "No puedo"
+        },
+        {
+            "front": "I have to go",
+            "back": "Me tengo que ir"
+        },
+        {
+            "front": "I don't want to",
+            "back": "No quiero"
+        },
+        {
+            "front": "I don't feel like it",
+            "back": "No tengo ganas"
+        },
+        {
+            "front": "I'm not in the mood",
+            "back": "No estoy de humor"
+        },
+        {
+            "front": "I like it",
+            "back": "Me gusta"
+        },
+        {
+            "front": "I love it",
+            "back": "Me encanta"
+        },
+        {
+            "front": "I don't like it",
+            "back": "No me gusta"
+        },
+        {
+            "front": "I hate it",
+            "back": "Lo odio"
+        },
+        {
+            "front": "I don't care",
+            "back": "No me importa"
+        },
+        {
+            "front": "It doesn't matter",
+            "back": "No importa"
+        },
+        {
+            "front": "Whatever you say",
+            "back": "Lo que tú digas"
+        },
+        {
+            "front": "It's up to you",
+            "back": "Tú decides"
+        },
+        {
+            "front": "I forgot",
+            "back": "Se me olvidó"
+        },
+        {
+            "front": "I remember",
+            "back": "Me acuerdo"
+        },
+        {
+            "front": "I didn't know",
+            "back": "No sabía"
+        },
+        {
+            "front": "I already knew",
+            "back": "Ya sabía"
+        },
+        {
+            "front": "I told you so",
+            "back": "Te lo dije"
+        },
+        {
+            "front": "Leave me alone",
+            "back": "Déjame en paz"
+        },
+        {
+            "front": "Mind your own business",
+            "back": "No te metas"
+        },
+        {
+            "front": "That's none of your business",
+            "back": "Eso no te incumbe"
+        },
+        {
+            "front": "Shut up (casual)",
+            "back": "Cállate"
+        },
+        {
+            "front": "Stop it",
+            "back": "Ya basta"
+        },
+        {
+            "front": "Enough!",
+            "back": "¡Ya estuvo!"
+        },
+        {
+            "front": "Cut it out",
+            "back": "Ya párale"
+        },
+        {
+            "front": "Get out of here",
+            "back": "Vete de aquí"
+        },
+        {
+            "front": "Don't be like that",
+            "back": "No seas así"
+        },
+        {
+            "front": "Don't be mean",
+            "back": "No seas gacho"
+        },
+        {
+            "front": "Don't be silly",
+            "back": "No seas tonto"
+        },
+        {
+            "front": "Stop fooling around",
+            "back": "Deja de payasear"
+        },
+        {
+            "front": "You're kidding",
+            "back": "Estás bromeando"
+        },
+        {
+            "front": "You're crazy",
+            "back": "Estás loco"
+        },
+        {
+            "front": "You're nuts (casual)",
+            "back": "Estás bien zafado"
+        },
+        {
+            "front": "Don't mess with me",
+            "back": "No te metas conmigo"
+        },
+        {
+            "front": "Watch out!",
+            "back": "¡Aguas!"
+        },
+        {
+            "front": "Be careful",
+            "back": "Ten cuidado"
+        },
+        {
+            "front": "Look!",
+            "back": "¡Mira!"
+        },
+        {
+            "front": "Listen!",
+            "back": "¡Oye!"
+        },
+        {
+            "front": "Wait",
+            "back": "Espera"
+        },
+        {
+            "front": "Wait a moment",
+            "back": "Espérame tantito"
+        },
+        {
+            "front": "Just a second",
+            "back": "Un segundito"
+        },
+        {
+            "front": "Hurry up",
+            "back": "Apúrale"
+        },
+        {
+            "front": "Let's go",
+            "back": "Vámonos"
+        },
+        {
+            "front": "Let's do it",
+            "back": "Ándale pues"
+        },
+        {
+            "front": "Come on!",
+            "back": "¡Ándale!"
+        },
+        {
+            "front": "Let's go eat",
+            "back": "Vamos a comer"
+        },
+        {
+            "front": "Do you want to go?",
+            "back": "¿Quieres ir?"
+        },
+        {
+            "front": "Where are we going?",
+            "back": "¿A dónde vamos?"
+        },
+        {
+            "front": "I'm on my way",
+            "back": "Ya voy"
+        },
+        {
+            "front": "I'm almost there",
+            "back": "Ya mero llego"
+        },
+        {
+            "front": "I just arrived",
+            "back": "Acabo de llegar"
+        },
+        {
+            "front": "I'm here",
+            "back": "Ya llegué"
+        },
+        {
+            "front": "It's close",
+            "back": "Está cerca"
+        },
+        {
+            "front": "It's far",
+            "back": "Está lejos"
+        },
+        {
+            "front": "Turn right",
+            "back": "Vuelta a la derecha"
+        },
+        {
+            "front": "Turn left",
+            "back": "Vuelta a la izquierda"
+        },
+        {
+            "front": "Go straight",
+            "back": "Derecho"
+        },
+        {
+            "front": "On the corner",
+            "back": "En la esquina"
+        },
+        {
+            "front": "Over there",
+            "back": "Por allá"
+        },
+        {
+            "front": "Right here",
+            "back": "Aquí mero"
+        },
+        {
+            "front": "What time is it?",
+            "back": "¿Qué hora es?"
+        },
+        {
+            "front": "It's early",
+            "back": "Es temprano"
+        },
+        {
+            "front": "It's late",
+            "back": "Es tarde"
+        },
+        {
+            "front": "Right now",
+            "back": "Ahorita"
+        },
+        {
+            "front": "In a little bit",
+            "back": "Al rato"
+        },
+        {
+            "front": "Later",
+            "back": "Luego"
+        },
+        {
+            "front": "Yesterday",
+            "back": "Ayer"
+        },
+        {
+            "front": "Today",
+            "back": "Hoy"
+        },
+        {
+            "front": "Tomorrow",
+            "back": "Mañana"
+        },
+        {
+            "front": "The day after tomorrow",
+            "back": "Pasado mañana"
+        },
+        {
+            "front": "Last week",
+            "back": "La semana pasada"
+        },
+        {
+            "front": "Next week",
+            "back": "La próxima semana"
+        },
+        {
+            "front": "From time to time",
+            "back": "De vez en cuando"
+        },
+        {
+            "front": "Always",
+            "back": "Siempre"
+        },
+        {
+            "front": "Never",
+            "back": "Nunca"
+        },
+        {
+            "front": "Almost never",
+            "back": "Casi nunca"
+        },
+        {
+            "front": "Sometimes",
+            "back": "A veces"
+        },
+        {
+            "front": "Often",
+            "back": "Seguido"
+        },
+        {
+            "front": "All the time",
+            "back": "Todo el tiempo"
+        },
+        {
+            "front": "It's delicious",
+            "back": "Está riquísimo"
+        },
+        {
+            "front": "It's very tasty",
+            "back": "Está bien sabroso"
+        },
+        {
+            "front": "I'm stuffed (full)",
+            "back": "Estoy bien lleno"
+        },
+        {
+            "front": "Cheers!",
+            "back": "¡Salud!"
+        },
+        {
+            "front": "Bon appétit",
+            "back": "Buen provecho"
+        },
+        {
+            "front": "One more (drink)",
+            "back": "Otra más"
+        },
+        {
+            "front": "The food is amazing",
+            "back": "La comida está increíble"
+        },
+        {
+            "front": "I'm craving...",
+            "back": "Se me antoja..."
+        },
+        {
+            "front": "What do you recommend?",
+            "back": "¿Qué me recomiendas?"
+        },
+        {
+            "front": "I'll have the same",
+            "back": "Yo lo mismo"
+        },
+        {
+            "front": "Nothing for me, thanks",
+            "back": "Yo así estoy bien, gracias"
+        },
+        {
+            "front": "With everything (toppings)",
+            "back": "Con todo"
+        },
+        {
+            "front": "Without spice",
+            "back": "Sin picante"
+        },
+        {
+            "front": "It's spicy",
+            "back": "Está picoso"
+        },
+        {
+            "front": "Can you handle spicy food?",
+            "back": "¿Aguantas lo picoso?"
+        },
+        {
+            "front": "It's really good (food)",
+            "back": "Está buenísimo"
+        },
+        {
+            "front": "That looks good",
+            "back": "Se ve bueno"
+        },
+        {
+            "front": "I'm on a diet",
+            "back": "Estoy a dieta"
+        },
+        {
+            "front": "That's life",
+            "back": "Así es la vida"
+        },
+        {
+            "front": "Life goes on",
+            "back": "La vida sigue"
+        },
+        {
+            "front": "That's how it is",
+            "back": "Así es"
+        },
+        {
+            "front": "It is what it is",
+            "back": "Ni modo"
+        },
+        {
+            "front": "What can you do?",
+            "back": "¿Qué le vamos a hacer?"
+        },
+        {
+            "front": "There's no other choice",
+            "back": "No hay de otra"
+        },
+        {
+            "front": "You have to deal with it",
+            "back": "Hay que aguantar"
+        },
+        {
+            "front": "It could be worse",
+            "back": "Podría ser peor"
+        },
+        {
+            "front": "Every cloud has a silver lining",
+            "back": "No hay mal que por bien no venga"
+        },
+        {
+            "front": "Practice makes perfect",
+            "back": "La práctica hace al maestro"
+        },
+        {
+            "front": "Better late than never",
+            "back": "Más vale tarde que nunca"
+        },
+        {
+            "front": "Better safe than sorry",
+            "back": "Más vale prevenir que lamentar"
+        },
+        {
+            "front": "Actions speak louder than words",
+            "back": "Hechos, no palabras"
+        },
+        {
+            "front": "The early bird gets the worm",
+            "back": "Al que madruga, Dios le ayuda"
+        },
+        {
+            "front": "What goes around comes around",
+            "back": "El que la hace, la paga"
+        },
+        {
+            "front": "You reap what you sow",
+            "back": "Lo que siembras, cosechas"
+        },
+        {
+            "front": "Money doesn't grow on trees",
+            "back": "El dinero no crece en los árboles"
+        },
+        {
+            "front": "There's no free lunch",
+            "back": "No hay lonche gratis"
+        },
+        {
+            "front": "Don't count your chickens before they hatch",
+            "back": "No vendas la piel del oso antes de cazarlo"
+        },
+        {
+            "front": "Speak of the devil",
+            "back": "Hablando del rey de Roma"
+        },
+        {
+            "front": "It costs an arm and a leg",
+            "back": "Cuesta un ojo de la cara"
+        },
+        {
+            "front": "To be broke",
+            "back": "Estar sin lana"
+        },
+        {
+            "front": "To be loaded / rich",
+            "back": "Estar forrado"
+        },
+        {
+            "front": "He's a freeloader",
+            "back": "Es bien codo"
+        },
+        {
+            "front": "He's stingy",
+            "back": "Es bien agarrado"
+        },
+        {
+            "front": "He's generous",
+            "back": "Es bien desprendido"
+        },
+        {
+            "front": "Stop beating around the bush",
+            "back": "No le des vueltas al asunto"
+        },
+        {
+            "front": "Get to the point",
+            "back": "Ve al grano"
+        },
+        {
+            "front": "Give it to me straight",
+            "back": "Dímelo sin rodeos"
+        },
+        {
+            "front": "Spill the beans / Tell me the gossip",
+            "back": "Suelta la sopa"
+        },
+        {
+            "front": "What's the gossip?",
+            "back": "¿Qué chisme me cuentas?"
+        },
+        {
+            "front": "Don't tell anyone",
+            "back": "No le digas a nadie"
+        },
+        {
+            "front": "It's a secret",
+            "back": "Es un secreto"
+        },
+        {
+            "front": "Between you and me",
+            "back": "Entre tú y yo"
+        },
+        {
+            "front": "I'm just saying",
+            "back": "Nada más digo"
+        },
+        {
+            "front": "To each their own",
+            "back": "Cada quien"
+        },
+        {
+            "front": "Everybody's different",
+            "back": "Cada cabeza es un mundo"
+        },
+        {
+            "front": "I don't want to get involved",
+            "back": "No me quiero meter"
+        },
+        {
+            "front": "It's not my problem",
+            "back": "No es mi bronca"
+        },
+        {
+            "front": "He's got a problem",
+            "back": "Tiene un pedo"
+        },
+        {
+            "front": "There's a problem",
+            "back": "Hay un problema"
+        },
+        {
+            "front": "It went wrong",
+            "back": "Salió mal"
+        },
+        {
+            "front": "It turned out great",
+            "back": "Salió muy bien"
+        },
+        {
+            "front": "Congratulations!",
+            "back": "¡Felicidades!"
+        },
+        {
+            "front": "Happy birthday!",
+            "back": "¡Feliz cumpleaños!"
+        },
+        {
+            "front": "Happy New Year!",
+            "back": "¡Feliz año nuevo!"
+        },
+        {
+            "front": "Merry Christmas!",
+            "back": "¡Feliz Navidad!"
+        },
+        {
+            "front": "Good luck!",
+            "back": "¡Buena suerte!"
+        },
+        {
+            "front": "Break a leg!",
+            "back": "¡Mucha mierda!"
+        },
+        {
+            "front": "You can do it!",
+            "back": "¡Tú puedes!"
+        },
+        {
+            "front": "Go for it!",
+            "back": "¡Échale ganas!"
+        },
+        {
+            "front": "Don't give up",
+            "back": "No te rindas"
+        },
+        {
+            "front": "Keep going",
+            "back": "Sigue adelante"
+        },
+        {
+            "front": "Hang in there",
+            "back": "Aguanta"
+        },
+        {
+            "front": "I believe in you",
+            "back": "Creo en ti"
+        },
+        {
+            "front": "You did great",
+            "back": "Lo hiciste muy bien"
+        },
+        {
+            "front": "Well done!",
+            "back": "¡Bien hecho!"
+        },
+        {
+            "front": "Way to go!",
+            "back": "¡Así se hace!"
+        },
+        {
+            "front": "I'm proud of you",
+            "back": "Estoy orgulloso de ti"
+        },
+        {
+            "front": "Welcome!",
+            "back": "¡Bienvenido!"
+        },
+        {
+            "front": "Make yourself at home",
+            "back": "Estás en tu casa"
+        },
+        {
+            "front": "Come in",
+            "back": "Pásale"
+        },
+        {
+            "front": "Have a seat",
+            "back": "Siéntate"
+        },
+        {
+            "front": "Would you like something to drink?",
+            "back": "¿Quieres algo de tomar?"
+        },
+        {
+            "front": "Help yourself",
+            "back": "Sírvete"
+        },
+        {
+            "front": "With pleasure",
+            "back": "Con mucho gusto"
+        },
+        {
+            "front": "At your service",
+            "back": "Para servirte"
+        },
+        {
+            "front": "What a surprise!",
+            "back": "¡Qué sorpresa!"
+        },
+        {
+            "front": "I can't believe it",
+            "back": "No lo puedo creer"
+        },
+        {
+            "front": "That's incredible",
+            "back": "Eso es increíble"
+        },
+        {
+            "front": "That's amazing",
+            "back": "Está padrísimo"
+        },
+        {
+            "front": "That's hilarious",
+            "back": "Está chistosísimo"
+        },
+        {
+            "front": "I'm dying of laughter",
+            "back": "Me muero de risa"
+        },
+        {
+            "front": "You're so funny",
+            "back": "Eres bien chistoso"
+        },
+        {
+            "front": "Stop making me laugh",
+            "back": "Ya no me hagas reír"
+        },
+        {
+            "front": "I'm just kidding",
+            "back": "Es broma"
+        },
+        {
+            "front": "I was joking",
+            "back": "Estaba bromeando"
+        },
+        {
+            "front": "Don't take it personally",
+            "back": "No te lo tomes a pecho"
+        },
+        {
+            "front": "I didn't mean it",
+            "back": "No fue mi intención"
+        },
+        {
+            "front": "It was an accident",
+            "back": "Fue sin querer"
+        },
+        {
+            "front": "It's not what it looks like",
+            "back": "No es lo que parece"
+        },
+        {
+            "front": "Let me explain",
+            "back": "Déjame explicar"
+        },
+        {
+            "front": "You misunderstood",
+            "back": "Me entendiste mal"
+        },
+        {
+            "front": "I was wrong",
+            "back": "Estaba equivocado"
+        },
+        {
+            "front": "You're right",
+            "back": "Tienes razón"
+        },
+        {
+            "front": "That makes sense",
+            "back": "Tiene sentido"
+        },
+        {
+            "front": "That doesn't make sense",
+            "back": "No tiene sentido"
+        },
+        {
+            "front": "Exactly",
+            "back": "Exacto"
+        },
+        {
+            "front": "Obviously",
+            "back": "Obviamente"
+        },
+        {
+            "front": "Clearly",
+            "back": "Claramente"
+        },
+        {
+            "front": "Apparently",
+            "back": "Al parecer"
+        },
+        {
+            "front": "In other words",
+            "back": "O sea"
+        },
+        {
+            "front": "I mean...",
+            "back": "Es decir..."
+        },
+        {
+            "front": "For example",
+            "back": "Por ejemplo"
+        },
+        {
+            "front": "In my opinion",
+            "back": "En mi opinión"
+        },
+        {
+            "front": "On the other hand",
+            "back": "Por otro lado"
+        },
+        {
+            "front": "At the end of the day",
+            "back": "Al fin y al cabo"
+        },
+        {
+            "front": "In the end",
+            "back": "Al final"
+        },
+        {
+            "front": "All of a sudden",
+            "back": "De repente"
+        },
+        {
+            "front": "Just in case",
+            "back": "Por si acaso"
+        },
+        {
+            "front": "By the way",
+            "back": "Por cierto"
+        },
+        {
+            "front": "Speaking of which",
+            "back": "A propósito"
+        },
+        {
+            "front": "Anyway / In any case",
+            "back": "De todos modos"
+        },
+        {
+            "front": "More or less",
+            "back": "Más o menos"
+        },
+        {
+            "front": "At least",
+            "back": "Por lo menos"
+        },
+        {
+            "front": "As much as possible",
+            "back": "Lo más que se pueda"
+        },
+        {
+            "front": "As soon as possible",
+            "back": "Lo más pronto posible"
+        },
+        {
+            "front": "On purpose",
+            "back": "A propósito"
+        },
+        {
+            "front": "By accident",
+            "back": "Sin querer"
+        },
+        {
+            "front": "Little by little",
+            "back": "Poco a poco"
+        },
+        {
+            "front": "Once and for all",
+            "back": "De una vez por todas"
+        },
+        {
+            "front": "Sooner or later",
+            "back": "Tarde o temprano"
+        },
+        {
+            "front": "One way or another",
+            "back": "De un modo u otro"
+        },
+        {
+            "front": "Without a doubt",
+            "back": "Sin duda"
+        },
+        {
+            "front": "Nothing is certain",
+            "back": "Nada es seguro"
+        },
+        {
+            "front": "I have a feeling that...",
+            "back": "Tengo el presentimiento de que..."
+        },
+        {
+            "front": "I'm sure",
+            "back": "Estoy seguro"
+        },
+        {
+            "front": "I'm not sure",
+            "back": "No estoy seguro"
+        },
+        {
+            "front": "I hope so",
+            "back": "Ojalá"
+        },
+        {
+            "front": "God willing",
+            "back": "Si Dios quiere"
+        },
+        {
+            "front": "I hope everything goes well",
+            "back": "Espero que todo salga bien"
+        },
+        {
+            "front": "Fingers crossed",
+            "back": "Crucemos los dedos"
+        },
+        {
+            "front": "It can't hurt to try",
+            "back": "No se pierde nada con intentar"
+        },
+        {
+            "front": "What's the worst that can happen?",
+            "back": "¿Qué es lo peor que puede pasar?"
+        },
+        {
+            "front": "It's worth it",
+            "back": "Vale la pena"
+        },
+        {
+            "front": "It's not worth it",
+            "back": "No vale la pena"
+        },
+        {
+            "front": "It's a waste of time",
+            "back": "Es una pérdida de tiempo"
+        },
+        {
+            "front": "We're wasting time",
+            "back": "Estamos perdiendo el tiempo"
+        },
+        {
+            "front": "Time flies",
+            "back": "El tiempo vuela"
+        },
+        {
+            "front": "I lost track of time",
+            "back": "Se me fue el tiempo"
+        },
+        {
+            "front": "There's still time",
+            "back": "Todavía hay tiempo"
+        },
+        {
+            "front": "We're running out of time",
+            "back": "Se nos acaba el tiempo"
+        },
+        {
+            "front": "I'm running late",
+            "back": "Se me hizo tarde"
+        },
+        {
+            "front": "Sorry for the delay",
+            "back": "Perdón por la tardanza"
+        },
+        {
+            "front": "Thanks for waiting",
+            "back": "Gracias por esperar"
+        },
+        {
+            "front": "Thanks for everything",
+            "back": "Gracias por todo"
+        },
+        {
+            "front": "I owe you one",
+            "back": "Te debo una"
+        },
+        {
+            "front": "You saved my life",
+            "back": "Me salvaste la vida"
+        },
+        {
+            "front": "I really appreciate it",
+            "back": "Te lo agradezco mucho"
+        },
+        {
+            "front": "That's very kind of you",
+            "back": "Qué amable de tu parte"
+        },
+        {
+            "front": "You shouldn't have",
+            "back": "No te hubieras molestado"
+        },
+        {
+            "front": "Don't worry about it",
+            "back": "No te apures"
+        },
+        {
+            "front": "It's fine",
+            "back": "Está bien"
+        },
+        {
+            "front": "Don't even mention it",
+            "back": "Ni lo menciones"
+        },
+        {
+            "front": "Forget about it",
+            "back": "Olvídalo"
+        },
+        {
+            "front": "Let it go",
+            "back": "Déjalo ir"
+        },
+        {
+            "front": "It's water under the bridge",
+            "back": "Ya pasó, ya fue"
+        },
+        {
+            "front": "Let's move on",
+            "back": "Ya hay que seguir"
+        },
+        {
+            "front": "Let's change the subject",
+            "back": "Cambiemos de tema"
+        },
+        {
+            "front": "What were you saying?",
+            "back": "¿Qué decías?"
+        },
+        {
+            "front": "Go on, I'm listening",
+            "back": "Sigue, te escucho"
+        },
+        {
+            "front": "Tell me more",
+            "back": "Cuéntame más"
+        },
+        {
+            "front": "What happened?",
+            "back": "¿Qué pasó?"
+        },
+        {
+            "front": "What happened to you?",
+            "back": "¿Qué te pasó?"
+        },
+        {
+            "front": "Are you okay?",
+            "back": "¿Estás bien?"
+        },
+        {
+            "front": "What's wrong?",
+            "back": "¿Qué tienes?"
+        },
+        {
+            "front": "What's bothering you?",
+            "back": "¿Qué te molesta?"
+        },
+        {
+            "front": "Can I help you with something?",
+            "back": "¿Te puedo ayudar en algo?"
+        },
+        {
+            "front": "I need a favor",
+            "back": "Necesito un favor"
+        },
+        {
+            "front": "Could you do me a favor?",
+            "back": "¿Me puedes hacer un favor?"
+        },
+        {
+            "front": "Of course, whatever you need",
+            "back": "Claro, lo que necesites"
+        },
+        {
+            "front": "Count on me",
+            "back": "Cuenta conmigo"
+        },
+        {
+            "front": "I'm here for you",
+            "back": "Aquí estoy para ti"
+        },
+        {
+            "front": "You're not alone",
+            "back": "No estás solo"
+        },
+        {
+            "front": "I understand how you feel",
+            "back": "Entiendo cómo te sientes"
+        },
+        {
+            "front": "I'm sorry to hear that",
+            "back": "Lamento mucho eso"
+        },
+        {
+            "front": "My condolences",
+            "back": "Mi más sentido pésame"
+        },
+        {
+            "front": "Take care of yourself",
+            "back": "Cuídate mucho"
+        },
+        {
+            "front": "Get well soon",
+            "back": "Que te mejores pronto"
+        },
+        {
+            "front": "Bless you (after a sneeze)",
+            "back": "Salud"
+        },
+        {
+            "front": "God bless you",
+            "back": "Que Dios te bendiga"
+        },
+        {
+            "front": "I miss you",
+            "back": "Te extraño"
+        },
+        {
+            "front": "I love you",
+            "back": "Te quiero"
+        },
+        {
+            "front": "I love you (deep/romantic)",
+            "back": "Te amo"
+        },
+        {
+            "front": "I care about you",
+            "back": "Me importas"
+        },
+        {
+            "front": "You mean a lot to me",
+            "back": "Significas mucho para mí"
+        },
+        {
+            "front": "You make me happy",
+            "back": "Me haces feliz"
+        },
+        {
+            "front": "He/she is my best friend",
+            "back": "Es mi mejor amigo/amiga"
+        },
+        {
+            "front": "We're close friends",
+            "back": "Somos bien cuates"
+        },
+        {
+            "front": "He's a good guy",
+            "back": "Es buena onda"
+        },
+        {
+            "front": "She's really cool",
+            "back": "Es muy buena onda"
+        },
+        {
+            "front": "He's a great person",
+            "back": "Es una gran persona"
+        },
+        {
+            "front": "He's trustworthy",
+            "back": "Es de confianza"
+        },
+        {
+            "front": "He's shady / not trustworthy",
+            "back": "Es medio raro"
+        },
+        {
+            "front": "He's annoying",
+            "back": "Es bien latoso"
+        },
+        {
+            "front": "He's a show-off",
+            "back": "Es bien presumido"
+        },
+        {
+            "front": "He thinks he's all that",
+            "back": "Se cree mucho"
+        },
+        {
+            "front": "Don't pay attention to him",
+            "back": "No le hagas caso"
+        },
+        {
+            "front": "Ignore it",
+            "back": "No le hagas caso"
+        },
+        {
+            "front": "It's none of my business",
+            "back": "No es asunto mío"
+        },
+        {
+            "front": "I'll stay out of it",
+            "back": "Yo no me meto"
+        },
+        {
+            "front": "I didn't see anything",
+            "back": "Yo no vi nada"
+        },
+        {
+            "front": "I don't know anything about that",
+            "back": "Yo no sé nada de eso"
+        },
+        {
+            "front": "I don't remember",
+            "back": "No me acuerdo"
+        },
+        {
+            "front": "It's on the tip of my tongue",
+            "back": "Lo tengo en la punta de la lengua"
+        },
+        {
+            "front": "It rings a bell",
+            "back": "Me suena"
+        },
+        {
+            "front": "That reminds me",
+            "back": "Eso me recuerda"
+        },
+        {
+            "front": "Now I remember",
+            "back": "Ya me acordé"
+        },
+        {
+            "front": "I have a bad memory",
+            "back": "Tengo mala memoria"
+        },
+        {
+            "front": "Don't forget",
+            "back": "No se te olvide"
+        },
+        {
+            "front": "Remind me later",
+            "back": "Recuérdamelo después"
+        },
+        {
+            "front": "Write it down",
+            "back": "Apúntalo"
+        },
+        {
+            "front": "Are you sure?",
+            "back": "¿Estás seguro?"
+        },
+        {
+            "front": "Think about it",
+            "back": "Piénsalo"
+        },
+        {
+            "front": "Be smart about it",
+            "back": "Sé inteligente"
+        },
+        {
+            "front": "Don't rush",
+            "back": "No te apresures"
+        },
+        {
+            "front": "Take your time",
+            "back": "Tómate tu tiempo"
+        },
+        {
+            "front": "There's no rush",
+            "back": "No hay prisa"
+        },
+        {
+            "front": "Whenever you can",
+            "back": "Cuando puedas"
+        },
+        {
+            "front": "When you get a chance",
+            "back": "Cuando tengas oportunidad"
+        },
+        {
+            "front": "Are you free?",
+            "back": "¿Estás libre?"
+        },
+        {
+            "front": "Do you have plans?",
+            "back": "¿Tienes planes?"
+        },
+        {
+            "front": "What are you doing later?",
+            "back": "¿Qué vas a hacer al rato?"
+        },
+        {
+            "front": "Do you want to hang out?",
+            "back": "¿Quieres salir?"
+        },
+        {
+            "front": "Sounds good to me",
+            "back": "Me parece bien"
+        },
+        {
+            "front": "I'm down for that",
+            "back": "Le entro"
+        },
+        {
+            "front": "Count me in",
+            "back": "Yo le entro"
+        },
+        {
+            "front": "Count me out",
+            "back": "Yo paso"
+        },
+        {
+            "front": "I'll pass",
+            "back": "Paso"
+        },
+        {
+            "front": "Maybe next time",
+            "back": "Será para la próxima"
+        },
+        {
+            "front": "Rain check",
+            "back": "Queda pendiente"
+        },
+        {
+            "front": "We should do this more often",
+            "back": "Deberíamos hacer esto más seguido"
+        },
+        {
+            "front": "I had a great time",
+            "back": "La pasé muy bien"
+        },
+        {
+            "front": "We had a blast",
+            "back": "La pasamos increíble"
+        },
+        {
+            "front": "It was fun",
+            "back": "Estuvo divertido"
+        },
+        {
+            "front": "It was boring",
+            "back": "Estuvo aburrido"
+        },
+        {
+            "front": "What a party!",
+            "back": "¡Qué fiestón!"
+        },
+        {
+            "front": "The party was great",
+            "back": "La fiesta estuvo buenísima"
+        },
+        {
+            "front": "Can I borrow this?",
+            "back": "¿Me prestas esto?"
+        },
+        {
+            "front": "I'll give it back",
+            "back": "Te lo devuelvo"
+        },
+        {
+            "front": "Can you lend me money?",
+            "back": "¿Me prestas dinero?"
+        },
+        {
+            "front": "I'll pay you back",
+            "back": "Te lo pago después"
+        },
+        {
+            "front": "We'll split it",
+            "back": "Vamos a medias"
+        },
+        {
+            "front": "It's on me",
+            "back": "Yo invito"
+        },
+        {
+            "front": "I'll treat you",
+            "back": "Te invito yo"
+        },
+        {
+            "front": "Next time it's on you",
+            "back": "La próxima te toca a ti"
+        },
+        {
+            "front": "I can't afford it",
+            "back": "No me alcanza"
+        },
+        {
+            "front": "It's very common",
+            "back": "Es muy común"
+        },
+        {
+            "front": "It's normal",
+            "back": "Es normal"
+        },
+        {
+            "front": "It's strange",
+            "back": "Está raro"
+        },
+        {
+            "front": "It's weird",
+            "back": "Es extraño"
+        },
+        {
+            "front": "That's suspicious",
+            "back": "Eso está sospechoso"
+        },
+        {
+            "front": "Something's off",
+            "back": "Algo no cuadra"
+        },
+        {
+            "front": "That doesn't add up",
+            "back": "No me cuadra"
+        },
+        {
+            "front": "I have a bad feeling",
+            "back": "Tengo un mal presentimiento"
+        },
+        {
+            "front": "I have a good feeling",
+            "back": "Tengo un buen presentimiento"
+        },
+        {
+            "front": "Trust me",
+            "back": "Confía en mí"
+        },
+        {
+            "front": "You have my word",
+            "back": "Tienes mi palabra"
+        },
+        {
+            "front": "I promise",
+            "back": "Te lo prometo"
+        },
+        {
+            "front": "Cross my heart",
+            "back": "Te lo juro por mi madre"
+        },
+        {
+            "front": "I'll do my best",
+            "back": "Haré lo que pueda"
+        },
+        {
+            "front": "I'll try",
+            "back": "Voy a intentar"
+        },
+        {
+            "front": "It's hard",
+            "back": "Está difícil"
+        },
+        {
+            "front": "It's easy",
+            "back": "Está fácil"
+        },
+        {
+            "front": "It's not that hard",
+            "back": "No es tan difícil"
+        },
+        {
+            "front": "Piece of cake",
+            "back": "Pan comido"
+        },
+        {
+            "front": "It's very complicated",
+            "back": "Está bien complicado"
+        },
+        {
+            "front": "You got lucky",
+            "back": "Te fue de suerte"
+        },
+        {
+            "front": "Bad luck",
+            "back": "Mala suerte"
+        },
+        {
+            "front": "What bad luck!",
+            "back": "¡Qué mala pata!"
+        },
+        {
+            "front": "Things will get better",
+            "back": "Las cosas van a mejorar"
+        },
+        {
+            "front": "Everything happens for a reason",
+            "back": "Todo pasa por algo"
+        },
+        {
+            "front": "Don't overthink it",
+            "back": "No le des tantas vueltas"
+        },
+        {
+            "front": "Sleep on it",
+            "back": "Consúltalo con la almohada"
+        },
+        {
+            "front": "The weather is nice",
+            "back": "Hace buen clima"
+        },
+        {
+            "front": "It's really hot",
+            "back": "Hace un calorón"
+        },
+        {
+            "front": "It's freezing",
+            "back": "Hace un friazo"
+        },
+        {
+            "front": "It looks like it's going to rain",
+            "back": "Parece que va a llover"
+        },
+        {
+            "front": "Traffic is terrible",
+            "back": "El tráfico está horrible"
+        },
+        {
+            "front": "We're stuck in traffic",
+            "back": "Estamos atorados en el tráfico"
+        },
+        {
+            "front": "I need to charge my phone",
+            "back": "Necesito cargar mi celular"
+        },
+        {
+            "front": "My phone died",
+            "back": "Se murió mi celular"
+        },
+        {
+            "front": "Send me a message",
+            "back": "Mándame un mensaje"
+        },
+        {
+            "front": "Call me",
+            "back": "Háblame"
+        },
+        {
+            "front": "I'll call you later",
+            "back": "Te hablo al rato"
+        },
+        {
+            "front": "I didn't get your message",
+            "back": "No me llegó tu mensaje"
+        },
+        {
+            "front": "Did you see what I sent you?",
+            "back": "¿Viste lo que te mandé?"
+        },
+        {
+            "front": "Check your phone",
+            "back": "Revisa tu celular"
+        },
+        {
+            "front": "I'm going to take a nap",
+            "back": "Voy a echarme una siesta"
+        },
+        {
+            "front": "I overslept",
+            "back": "Se me pegaron las cobijas"
+        },
+        {
+            "front": "I stayed up late",
+            "back": "Me desvelé"
+        },
+        {
+            "front": "I couldn't sleep",
+            "back": "No pude dormir"
+        },
+        {
+            "front": "Sweet dreams",
+            "back": "Dulces sueños"
+        },
+        {
+            "front": "Sleep well",
+            "back": "Que descanses"
+        },
+        {
+            "front": "Rise and shine",
+            "back": "Arriba, arriba"
+        },
+        {
+            "front": "Time to get up",
+            "back": "Ya es hora de levantarse"
+        }
+    ]
+}

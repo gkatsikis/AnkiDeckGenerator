@@ -1,0 +1,578 @@
+{
+ "deck_name": "Classical Hafez (Ganjoor + Davis)",
+ "cards": [
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">پیرانه سَرم عشقِ جوانی به سر افتاد<br>وآن راز که در دل بِنَهفتم به درافتاد<br><br>از راهِ نظر مرغِ دلم گشت هواگیر<br>ای دیده نگه کن که به دامِ که درافتاد<br><br>دردا که از آن آهوی مشکینِ سیه چشم<br>چون نافه بسی خونِ دلم در جگر افتاد<br><br>از رهگذرِ خاکِ سرِ کویِ شما بود<br>هر نافه که در دستِ نسیمِ سحر افتاد<br><br>مژگانِ تو تا تیغِ جهانگیر برآورد<br>بس کشتهٔ دل زنده که بر یکدگر افتاد<br><br>بس تجربه کردیم در این دِیرِ مکافات<br>با دُردکشان هر که درافتاد برافتاد<br><br>گر جان بدهد سنگِ سیه، لعل نگردد<br>با طینتِ اصلی چه کُند، بدگهر افتاد<br><br>حافظ که سرِ زلفِ بتان دست‌کشش بود<br>بس طُرفه حریفی‌ست کَش اکنون به سر افتاد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">HOWEVER OLD, INCAPABLE,<br>And heart-sick I may be,<br>The moment I recall your face<br>My youth’s restored to me;<br>Thanks be to God that all I sought<br>From Him I have received,<br>That my exertions brought to me<br>The fortune I’ve achieved.<br>Rejoice, young sapling, in your glory,<br>For in your shadow there<br>I am the nightingale whose songs<br>Are heard now everywhere.<br>To me, at first, the heights and depths<br>Of Being were unknown,<br>But schooled within my longing for you<br>How well informed I’ve grown!<br>Fate drags me to the wine-shop’s door –<br>And though I turn and twist,<br>That’s where I always finish up;<br>It’s useless to resist.<br>It’s not that I am old in months<br>And years; if truth be told<br>The friend I love’s untrue to me –<br>It’s this that makes me old.<br>Within my heart, the door of meaning<br>Opened the day I sought<br>Our ancient Zoroastrian out<br>And entered in his court.<br>On Glory’s highway, and upon<br>Good Fortune’s throne, I raise<br>The wine-cup, and receive my friends’<br>Warm welcome and their praise!<br>And from that moment that your glance<br>First troubled me, I’m sure<br>I’ve been immune to all the troubles<br>The last days have in store.<br>Last night God’s kindness brought good news –<br>“Hafez, I guarantee<br>That all your sins will be forgiven;<br>Come back, return to Me!”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">زلف‌آشفته و خِوی‌کرده و خندان‌لب و مست<br>پیرهن‌چاک و غزل‌خوان و صُراحی در دست<br><br>نرگسش عَربده‌جوی و لبش افسوس‌کنان<br>نیم شب، دوش به بالین من آمد، بنشست<br><br>سر فرا گوش من آورد به آوازِ حزین<br>گفت: ای عاشقِ دیرینهٔ من، خوابت هست؟<br><br>عاشقی را که چنین بادهٔ شبگیر دهند<br>کافر عشق بُوَد گر نشود باده پرست<br><br>برو ای زاهد و بر دُردکشان خرده مگیر<br>که ندادند جز این تُحفه به ما روزِ الست<br><br>آن چه او ریخت به پیمانهٔ ما نوشیدیم<br>اگر از خَمرِ بهشت است وگر بادهٔ مست<br><br>خندهٔ جامِ می و زلفِ گره‌گیرِ نگار<br>ای بسا توبه که چون توبهٔ حافظ بشکست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">LAST NIGHT SHE BROUGHT ME WINE, AND SAT BESIDE MY PILLOW;<br>Her hair hung loose, her dress was torn, her face perspired –<br>She smiled and sang of love, with mischief in her eyes,<br>And whispering in my ear, she drunkenly inquired:<br>“My ancient lover, can it be that you’re asleep?<br>The true initiate, when offered wine at night,<br>Would be a heretic of love if he refused<br>To take the draught he’s given, and drink it with delight.”<br>And as for you, you hypocrites, don’t cavil at<br>Lovers who drain life to the lees, since we were given<br>This nature when the world began, and we must drink<br>The wine that’s poured for us, whether from earth or heaven.<br>So take the laughing wine cup, raise it in your hand,<br>Caress your lover’s curls, and say Hafez has spoken;<br>How many vows of abstinence the world has seen<br>So fervently affirmed, and – like Hafez’s – broken.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گل بی‌رخِ یار خوش نباشد<br>بی‌باده بهار خوش نباشد<br><br>طَرفِ چمن و طوافِ بستان<br>بی‌لاله‌عذار خوش نباشد<br><br>رقصیدن سرو و حالتِ گُل<br>بی‌صوتِ هَزار خوش نباشد<br><br>با یارِ شکرلبِ گل‌اندام<br>بی‌بوس و کنار خوش نباشد<br><br>هر نقش که دستِ عقل بندد<br>جز نقشِ نگار، خوش نباشد<br><br>جان نقدِ مُحَقَّر است حافظ<br>از بهرِ نثار خوش نباشد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">A FLOWER, WITHOUT A FRIEND’S FACE THERE, I THINK<br>that isn’t good<br>And springtime, if there isn’t wine to drink,<br>that isn’t good<br>A stroll through gardens, or a wooded place,<br>Without a pretty tulip-blushing face<br>that isn’t good<br>A cypress swaying, and a rose unfolding,<br>Without a nightingale’s melodious scolding<br>that isn’t good<br>A sweet-lipped, sexy lover near, if this is<br>To be with no embraces and no kisses<br>that isn’t good<br>Wine in a garden can be sweet, but when<br>We have no friend to talk and listen, then<br>that isn’t good<br>And anything the mind dreams, in the end,<br>Unless it is the features of our friend,<br>that isn’t good<br>The soul’s a useless coin, Hafez – not worth<br>Your casting, as an offering, on the earth<br>that isn’t good</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">یاری اندر کس نمی‌بینیم، یاران را چه شد؟<br>دوستی کِی آخر آمد؟ دوست‌دار‌ان را چه شد؟<br><br>آب حیوان تیره‌گون شد، خضر فرخ‌پِی کجاست؟<br>خون چکید از شاخِ گل، بادِ بهار‌ان را چه شد؟<br><br>کس نمی‌گوید که «یاری داشت حقِّ دوستی»<br>حق‌شناسان را چه حال افتاد؟ یاران را چه شد؟<br><br>لعلی از کانِ مُروّت برنیامد سال‌هاست<br>تابش خورشید و سعی باد و باران را چه شد؟<br><br>شهرِ یاران بود و خاکِ مهر‌بانان این دیار<br>مهربانی کِی سر آمد؟ شهریار‌ان را چه شد؟<br><br>گویِ توفیق و کرامت، در میان افکنده‌اند<br>کس به میدان در نمی‌آید، سوار‌ان را چه شد؟<br><br>صدهزاران گل شکفت و بانگِ مرغی برنخاست<br>عندلیبان را چه پیش آمد؟ هَزاران را چه شد؟<br><br>زهره سازی خوش نمی‌سازد، مگر عود‌ش بسوخت؟<br>کس ندارد ذوقِ مستی، مِی‌گسار‌ان را چه شد؟<br><br>حافظ اسرارِ الهی کَس نمی‌داند، خموش<br>از که می‌پرسی که دورِ روزگار‌ان را چه شد؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I SEE NO LOVE IN ANYONE,<br>Where, then, have all the lovers gone?<br>And when did all our friendship end,<br>And what’s become of every friend?<br>Life’s water’s muddied now, and where<br>Is Khezr to guide us from despair?<br>The rose has lost its coloring,<br>What’s happened to the breeze of spring?<br>A hundred thousand flowers appear<br>But no birds sing for them to hear –<br>Thousands of nightingales are dumb:<br>Where are they now? Why don’t they come?<br>For years no rubies have been found<br>In stony mines deep underground;<br>When will the sun shine forth again?<br>Where are the clouds brimful of rain?<br>Who thinks of drinking now? No one.<br>Where have the roistering drinkers gone?<br>This was a town of lovers once,<br>Of kindness and benevolence,<br>And when did kindness end? What brought<br>The sweetness of our town to naught?<br>The ball of generosity<br>Lies on the field for all to see –<br>No rider comes to strike it; where<br>Is everyone who should be there?<br>Silence, Hafez, since no one knows<br>The secret ways that heaven goes;<br>Who is it that you’re asking how<br>The heavens are revolving now?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اَلا یا اَیُّهَا السّاقی اَدِرْ کَأساً و ناوِلْها<br>که عشق آسان نمود اوّل ولی افتاد مشکل‌ها<br><br>به بویِ نافه‌ای کآخِر صبا زان طُرّه بُگشاید<br>ز تابِ جَعدِ مشکینش چه خون افتاد در دل‌ها<br><br>مرا در منزلِ جانان چه امنِ عیش، چون هر دَم<br>جَرَس فریاد می‌دارد که بَربندید مَحمِل‌ها<br><br>به مِی سجّاده رنگین کُن گَرَت پیرِ مُغان گوید<br>که سالِک بی‌خبر نَبْوَد ز راه و رسمِ منزل‌ها<br><br>شبِ تاریک و بیمِ موج و گِردابی چنین هایل<br>کجا دانند حالِ ما سبک‌بارانِ ساحل‌ها؟<br><br>همهْ کارم ز خودکامی به بدنامی کشید آخر<br>نهان کِی مانَد آن رازی کَزو سازند مَحفل‌ها؟<br><br>حضوری گر همی خواهی از او غایب مشو حافظ<br>مَتیٰ ما تَلْقَ مَنْ تَهْویٰ دَعِ الدُّنْیا وَ اَهْمِلْها</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">COME, BOY, AND PASS THE WINE AROUND –<br>Love seemed a simple game<br>When I encountered it…but then<br>The difficulties came!<br>In longing for the musky scent<br>The breeze brings from her hair,<br>Such blood wells up in lovers’ hearts,<br>Such suffering, and despair…<br>What can ensure my happiness,<br>At love’s stage, in my heart?<br>When every instant now the bell<br>Cries, “Load up, to depart!”<br>And if the wine-seller says wine<br>Should dye your prayer-mat…dye it!<br>Pilgrims should know each stage’s rule<br>And seek to satisfy it.<br>On this dark night, amidst these waves,<br>The whirlpool’s fearsome roar,<br>What can they know of our distress<br>Who watch us from the shore?<br>In all I’ve done, I’ve pleased myself,<br>It’s ruined my good name –<br>The secret’s out, and everywhere<br>Men talk about my shame.<br>Don’t hide from Him you seek, Hafez;<br>You cannot hope to find<br>The One you’re longing for until<br>You leave the world behind.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">رویِ تو کس ندید و هزارت رقیب هست<br>در غنچه‌ای هنوز و صدت عندلیب هست<br><br>گر آمدم به کوی تو چندان غریب نیست<br>چون من در آن دیار هزاران غریب هست<br><br>در عشق، خانقاه و خرابات فرق نیست<br>هر جا که هست پرتوِ رویِ حبیب هست<br><br>آن جا که کارِ صومعه را جلوه می‌دهند<br>ناقوسِ دِیرِ راهب و نامِ صلیب هست<br><br>عاشق که شد که یار به حالش نظر نکرد<br>ای خواجه درد نیست وگرنه طبیب هست<br><br>فریادِ حافظ این همه آخِر به هرزه نیست<br>هم قصه‌ای غریب و حدیثی عجیب هست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">NO ONE HAS SEEN YOUR FACE, AND YET<br>Thousands of rivals seek you;<br>You’re still a bud and yet a hundred<br>Nightingales entreat you.<br>However far I am from you<br>(May no one know that place!)<br>I cannot help but hope that soon<br>I’ll be in your embrace;<br>And it’s not strange that I should choose<br>Your street in which to wait –<br>Thousands of strangers in this world<br>Are in the selfsame state.<br>The loved one doesn’t spare a glance –<br>The lover must endure it;<br>And there’s no pain, or if there is<br>The doctor’s here to cure it.<br>In love, the Sufi meeting house<br>And wine-shop are one place;<br>As are all places where we find<br>The loved one’s radiant face;<br>And what the Sufis make a show of<br>Can be found equally<br>Among the monks, before their cross,<br>Within a monastery.<br>Hafez’s cry is not mere nonsense<br>When all is said and done;<br>Though it’s a strangely curious tale,<br>And a perplexing one.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گُل در بَر و مِی در کَف و معشوق به کام است<br>سلطانِ جهانم به چُنین روز، غلام است<br><br>گو شمع میارید در این جمع که امشب<br>در مجلسِ ما، ماهِ رخِ دوست، تمام است<br><br>در مذهبِ ما، باده، حلال است ولیکن<br>بی‌رویِ تو ای سَروِ گُل‌اندام، حرام است<br><br>گوشم همه بر قولِ نی و نغمهٔ چنگ است<br>چشمم، همه، بر لعلِ لب و گَردشِ جام است<br><br>در مجلسِ ما، عِطر میامیز که ما را<br>هر لحظه، زِ گیسو‌یِ تو، خوش‌بوی مشام است<br><br>از چاشنیِ قند مگو هیچ و زِ شِکَّر<br>زآن رو که مرا از لبِ شیرینِ تو، کام است<br><br>تا گنجِ غمت در دِلِ ویرانه‌، مقیم است<br>همواره مرا کویِ خرابات، مقام است<br><br>از ننگ چه گویی که مرا نام ز ننگ است؟<br>وز نام چه پرسی که مرا ننگ ز نام است؟<br><br>مِی‌خواره و سرگشته و رندیم و نظرباز<br>وآن کس که چو ما نیست در این شهر، کدام است؟<br><br>با محتسبم، عیب مگویید که او نیز<br>پیوسته، چو ما در طلبِ عیشِ مدام است<br><br>حافظ! منشین بی‌مِی و معشوق، زمانی<br>کایَّامِ گُل و یاسمن و عیدِ صیام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">WINE IN MY GLASS, AND ROSES IN MY ARMS,<br>my lover near me –<br>On such a day the world’s great king would be<br>my slave and fear me.<br>No need to bring a candle to<br>our meeting place tonight;<br>My friend is there, the full moon of his face<br>will be our light.<br>Though wine in our religion’s not forbidden<br>(never think it!),<br>If you’re not there, my cypress-slender love,<br>how can I drink it?<br>Don’t sprinkle perfume where we meet –<br>the tresses of your hair<br>Each moment spread the fragrance of<br>such sweetness there…<br>My ears hear only plaintive flute-notes<br>and the harp’s sweet sound;<br>My eyes see only ruby lips<br>and wine-cups going round.<br>Don’t talk to me of sugar, or<br>of any food that’s sweet;<br>Sweetness for me is on your lips<br>when your and my lips meet.<br>I’ll haunt these ruins while within<br>the ruins of my heart<br>The treasure of my love for you<br>is lodged and won’t depart.<br>Why do you talk to me of shame – shame<br>has become my name –<br>Or reputation, when my reputation<br>is my shame?<br>We drink our wine, we flirt, and we’re<br>licentious – yes, but who<br>Is in this city where we live<br>of whom this isn’t true?<br>And don’t go to the morals officer<br>to make a fuss –<br>He’s on the constant lookout too for pleasure,<br>just like us.<br>This is no time to sit, Hafez,<br>without your wine and lover;<br>Jasmine’s and roses’ days are here,<br>and Ramadan is over.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">برو به کارِ خود ای واعظ این چه فریادست؟<br>مرا فِتاد دل از ره، تو را چه اُفتادست؟<br><br>میان او که خدا آفریده است از هیچ<br>دقیقه‌ای‌ست که هیچ آفریده نَگشادست<br><br>به کام تا نرساند مرا لبش، چون نای<br>نصیحتِ همه عالم به گوشِ من بادست<br><br>گدایِ کویِ تو از هشت خُلد، مستغنی‌ست<br>اسیرِ عشقِ تو از هر دو عالم آزادست<br><br>اگر چه مستیِ عشقم خراب کرد ولی<br>اساسِ هستیِ من زآن خراب، آبادست<br><br>دلا مَنال ز بیداد و جورِ یار که یار<br>تو را نصیب همین کرد و این از آن دادست<br><br>برو فَسانه مخوان و فُسون مدم حافظ<br>کز این فسانه و افسون مرا بسی یادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">GO, MIND YOUR OWN BUSINESS, PREACHER! WHAT’S ALL<br>This hullabaloo?<br>My heart has left the road you travel, but<br>What’s that to you?<br>Until my lips are played on like a flute<br>By his lips’ beauty,<br>My ears can only hear as wind the world’s<br>Advice on duty –<br>God made him out of nothing, and within<br>His being’s state<br>There is a mystery no being’s skill<br>Can penetrate.<br>The beggar in your street disdains eight heavens<br>For what he’s given;<br>The captive in your chains is free of this world<br>And of heaven;<br>And even though the drunkenness of love<br>Has ruined me,<br>My being’s built upon those ruins for<br>Eternity.<br>My heart, don’t whine so often that your friend’s<br>Unjust to you;<br>This is the fate he’s given you, and this<br>Is justice too.<br>Be off with you, Hafez! Enough of all<br>These tales you tell;<br>I’ve heard these tales and fables many times;<br>I know them well.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">یوسفِ گم‌گشته بازآید به کنعان، غم مخور<br>کلبهٔ احزان شَوَد روزی گلستان، غم مخور<br><br>ای دل غمدیده، حالت بِه شود، دل بَد مکن<br>وین سرِ شوریده باز آید به سامان غم مخور<br><br>گر بهارِ عمر باشد باز بر تختِ چمن<br>چتر گل در سر کَشی، ای مرغِ خوشخوان غم مخور<br><br>دورِ گردون گر دو روزی بر مرادِ ما نرفت<br>دائماً یکسان نباشد حالِ دوران غم مخور<br><br>هان مَشو نومید چون واقِف نِه‌ای از سِرِّ غیب<br>باشد اندر پرده بازی‌هایِ پنهان غم مخور<br><br>ای دل اَر سیلِ فنا بنیادِ هستی بَرکَنَد<br>چون تو را نوح است کشتیبان، ز طوفان غم مخور<br><br>در بیابان گر به شوقِ کعبه خواهی زد قدم<br>سرزنش‌ها گر کُنَد خارِ مُغیلان غم مخور<br><br>گرچه منزل بس خطرناک است و مقصد بس بعید<br>هیچ راهی نیست کآن را نیست پایان، غم مخور<br><br>حال ما در فُرقت جانان و اِبرامِ رقیب<br>جمله می‌داند خدایِ حالْ‌گردان غم مخور<br><br>حافظا در کُنجِ فقر و خلوتِ شب‌هایِ تار<br>تا بُوَد وِردَت دعا و درس قرآن غم مخور</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">LOST JOSEPH WILL RETURN TO CANAAN’S LAND AGAIN<br>– do not despair<br>His grieving father’s house will fill with flowers again<br>– do not despair<br>O sorrow-stricken heart, your fortunes will revive,<br>Order will come to your distracted mind again<br>– do not despair<br>And if the heavens turn against us for two days<br>They turn, and will not stay forever in one place<br>– do not despair<br>Sweet singing bird, survive until the spring, and then<br>You’ll tread on grass again, deep in the flowers’ shade<br>– do not despair<br>Don’t give up hope, you have no knowledge of Fate’s lore;<br>Behind the veil who knows what hidden turns still wait?<br>– do not despair<br>When, if you long to tread the pilgrims’ desert trail<br>To Mecca’s distant shrine, sharp thorns beset your path<br>– do not despair<br>For God, who solves all sorrows, knows the sorrows of<br>Our absence and desire, the guardian’s scornful rage<br>– do not despair<br>O heart, if nothingness should wash away the world,<br>Since Noah guides your craft, when you encounter storms<br>– do not despair<br>And though the journey’s filled with dangers, and its goal<br>Is all unknown, there is no road that has no end<br>– do not despair<br>O Hafez, in night’s darkness, alone, in poverty,<br>While the Qur’an remains to you, and murmured prayer<br>– do not despair</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دوش آگهی ز یارِ سفر کرده داد باد<br>من نیز دل به باد دهم، هر چه باد باد<br><br>کارم بدان رسید که همرازِ خود کنم<br>هر شام برق لامِع و هر بامداد باد<br><br>در چینِ طرهٔ تو دل بی حِفاظِ من<br>هرگز نگفت مسکنِ مألوف یاد باد<br><br>امروز قدرِ پندِ عزیزان شناختم<br>یا رب روانِ ناصحِ ما از تو شاد باد<br><br>خون شد دلم به یادِ تو هر گَه که در چمن<br>بندِ قبایِ غنچهٔ گل می‌گشاد باد<br><br>از دست رفته بود وجودِ ضعیفِ من<br>صبحم به بویِ وصلِ تو جان باز داد، باد<br><br>حافظ نهادِ نیکِ تو کامت بر آورد<br>جان‌ها فدایِ مردمِ نیکو نهاد باد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">LAST NIGHT, NEWS OF MY DEPARTED FRIEND<br>Was brought to me upon the wind;<br>Whatever must come, let it come!<br>I give my heart now to the wind.<br>My life’s in such a state that my<br>Companions are the vivid flash<br>Of lightning in the dark of night,<br>And, as each dawn arrives, the wind.<br>Lost in the tangles of your hair<br>My shameless heart has never said,<br>“Oh, give me back the life I knew<br>Before I strayed like this, and sinned.”<br>My heart weeps blood remembering you,<br>Each time I see the meadows where<br>The budding rose’s cloak is loosed<br>And torn wide open by the wind.<br>My frail existence vanishes;<br>But may my soul rejoice again<br>And see you, and inhale your scent<br>Brought in the dawn, upon the wind.<br>Hafez, your noble nature will<br>Ensure your heart’s desire; and may<br>Our lives be given to such sweetness,<br>That’s borne away, upon the wind.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دردِ عشقی کشیده‌ام که مَپُرس<br>زهرِ هجری چشیده‌ام که مَپُرس<br><br>گشته‌ام در جهان و آخرِ کار<br>دلبری برگزیده‌ام که مپرس<br><br>آن چنان در هوایِ خاکِ دَرَش<br>می‌رود آبِ دیده‌ام که مپرس<br><br>من به گوشِ خود از دهانش دوش<br>سخنانی شنیده‌ام که مپرس<br><br>سویِ من لب چه می‌گَزی که مگوی<br>لبِ لعلی گَزیده‌ام که مپرس<br><br>بی تو در کلبهٔ گداییِ خویش<br>رنج‌هایی کشیده‌ام که مپرس<br><br>همچو حافظ غریب در رَهِ عشق<br>به مَقامی رسیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I’VE KNOWN THE PAINS OF LOVE’S FRUSTRATION – AH, DON’T ASK!<br>I’ve drained the dregs of separation – ah, don’t ask!<br>I’ve been about the world and found at last<br>A lover worthy of my adoration – ah, don’t ask!<br>So that my tears now lay the dust before<br>Her door in constant supplication – ah, don’t ask!<br>Last night, with my own ears, I heard such words<br>Fall from her in our conversation – ah, don’t ask!<br>You bite your lip at me? The lip I bite<br>Is all delicious delectation! – ah, don’t ask!<br>Without you, in this beggarly poor hut,<br>I have endured such desolation – ah, don’t ask!<br>Lost on love’s road, like Hafez, I’ve attained<br>A stage…but stop this speculation – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مزرعِ سبزِ فلک دیدم و داسِ مه نو<br>یادم از کِشتهٔ خویش آمد و هنگامِ درو<br><br>گفتم ای بخت بخفتیدی و خورشید دمید<br>گفت با این همه از سابقه نومید مشو<br><br>گر رَوی پاک و مجرد چو مسیحا به فلک<br>از چراغِ تو به خورشید رسد صد پرتو<br><br>تکیه بر اخترِ شب‌دزد مکن کاین عیار<br>تاجِ کاووس ببرد و کمرِ کیخسرو<br><br>گوشوارِ زر و لعل ار چه گران دارد گوش<br>دورِ خوبی گذران است نصیحت بشنو<br><br>چشمِ بد دور ز خالِ تو که در عرصهٔ حسن<br>بیدقی راند که برد از مه و خورشید گرو<br><br>آسمان گو مفروش این عظمت کاندر عشق<br>خرمنِ مه به جُوی خوشهٔ پروین به دو جو<br><br>آتشِ زهد و ریا خرمنِ دین خواهد سوخت<br>حافظ این خرقهٔ پشمینه بینداز و برو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I SAW THE GREEN FIELDS OF THE SKY,<br>and there a sickle moon –<br>I reckoned what I’d sown, and thought,<br>“The harvest will come soon.”<br>I said, “My luck, you’ve been asleep;<br>now dawn has brought the sun.”<br>She said, “The past is past; do not<br>despair of all you’ve done;<br>The night you leave this world, go, climb<br>like Jesus through the skies –<br>Your lamp, a hundred times, will light<br>the sun as you arise.<br>Don’t trust the shining moon, she is<br>the highway robber who<br>Stole Kay Kavus’s throne, and then<br>the belt of Khosrow too.<br>Gold earrings set with rubies may<br>charm you, and lead you on,<br>But know this: Beauty’s reign is brief,<br>and all too quickly gone.”<br>God keep the evil eye from your<br>sweet beauty, which can field<br>A pawn to make the sun and moon<br>precipitously yield.<br>Say to the heavens, “Don’t boast of splendor!”<br>When love is matched with you,<br>The harvest of the moon’s a grain,<br>and of the stars but two.<br>Hypocrisy will burn the harvest<br>religion reaped; and so,<br>Hafez, shrug off this Sufi cloak –<br>just leave now, let it go.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">خوش‌تر ز عیش و صحبت و باغ و بهار چیست؟<br>ساقی کجاست؟ گو سببِ انتظار چیست؟<br><br>هر وقتِ خوش که دست دهد، مغتنم شمار<br>کس را وقوف نیست که انجامِ کار چیست<br><br>پیوندِ عمر بسته به مویی‌ست، هوش دار<br>غمخوارِ خویش باش، غمِ روزگار چیست؟<br><br>معنیِ آبِ زندگی و روضهٔ ارم<br>جز طَرفِ جویبار و میِ خوشگوار چیست؟<br><br>مستور و مست هر دو چو از یک قبیله‌اند<br>ما دل به عشوهٔ که دهیم؟ اختیار چیست؟<br><br>راز درونِ پرده چه داند فلک؟ خموش<br>ای مدعی! نزاعِ تو با پرده‌دار چیست؟<br><br>سهو و خطایِ بنده گَرَش اعتبار نیست<br>معنیِ عفو و رحمتِ آمُرزگار چیست؟<br><br>زاهد شرابِ کوثر و حافظ پیاله خواست<br>تا در میانه خواستهٔ کردگار چیست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">WHAT’S SWEETER THAN A GARDEN AND GOOD TALK<br>When spring’s new flowers appear?<br>What’s keeping that young boy who serves our wine?<br>Tell me why he’s not here.<br>Put down as profit every happy moment<br>That Fate contrives to send;<br>Who has a notion what awaits us when<br>Our lives here have to end?<br>And understand, life hangs here by a hair;<br>That what you have to do<br>Is take care of yourself; since what are Time<br>And all its griefs to you?<br>The Water of Life, the Garden of Eram –<br>What could these blessings mean<br>But heart-delighting wine that’s poured and drunk<br>Beside some pretty stream?<br>Since abstinence and drunkenness share one<br>Descent, which has our voice?<br>Which should we give our skittish hearts to now?<br>What could decide our choice?<br>Who knows what lies beyond the veil? And your<br>Long boastful rant before<br>Its chamberlain, what point has that, you fool?<br>Shut up! Not one word more!<br>And if I’ve sinned and strayed, and there’s<br>A reckoning when I die,<br>What is it the Creator’s clemency<br>And mercy signify?<br>The ascetic longs to drink from Kosar’s stream<br>In paradise’s shade,<br>And Hafez longs for wine; until, between<br>The two, God’s choice is made.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دوش دیدم که ملائک درِ میخانه زدند<br>گِلِ آدم بسرشتَند و به پیمانه زدند<br><br>ساکنانِ حرمِ سِتر و عفافِ ملکوت<br>با منِ راه‌نشین، بادهٔ مستانه زدند<br><br>آسمان بارِ امانت نتوانست کشید<br>قرعهٔ کار به نامِ منِ دیوانه زدند<br><br>جنگِ هفتاد و دو ملت همه را عذر بِنه<br>چون ندیدند حقیقت، رهِ افسانه زدند<br><br>شُکرِ ایزد که میانِ من و او صلح افتاد<br>صوفیان، رقص‌کنان، ساغرِ شکرانه زدند<br><br>آتش آن نیست که از شعلهٔ او خندد شمع<br>آتش آن است که در خرمنِ پروانه زدند<br><br>کس چو حافظ نَگُشاد، از رخِ اندیشه نقاب<br>تا سرِ زلفِ سخن را، به قلم شانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">LAST NIGHT I SAW THE ANGELS<br>tapping at the wine-shop’s door,<br>And kneading Adam’s dust,<br>and molding it as cups for wine;<br>And, where I sat beside the road,<br>these messengers of heaven<br>Gave me their wine to drink,<br>so that their drunkenness was mine.<br>The heavens could not bear<br>the heavy trust they had been given,<br>And lots were cast, and crazed<br>Hafez’s name received the sign.<br>Forgive the seventy-two<br>competing factions – all their tales<br>Mean that the Truth is what<br>they haven’t seen, and can’t define!<br>But I am thankful that there’s peace<br>between Him now, and me;<br>In celebration of our pact<br>the houris drink their wine –<br>And fire is not what gently smiles<br>from candles’ flames, it’s what<br>Annihilates the flocking moths<br>that flutter round His shrine.<br>No one has drawn aside the veil<br>of Thought as Hafez has,<br>Or combed the curls of Speech<br>as his sharp pen has, line by line.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">سال‌ها دل طلبِ جامِ جم از ما می‌کرد<br>وآنچه خود داشت ز بیگانه تمنّا می‌کرد<br><br>گوهری کز صدفِ کون و مکان بیرون است<br>طلب از گمشدگانِ لبِ دریا می‌کرد<br><br>مشکلِ خویش بَرِ پیرِ مُغان بُردم دوش<br>کاو به تأییدِ نظر حلّ‌ِ معمّا می‌کرد<br><br>دیدمش خُرَّم و خندان قدحِ باده به دست<br>واندر آن آینه صد گونه تماشا می‌کرد<br><br>گفتم این جامِ جهان‌بین به تو کِی داد حکیم؟<br>گفت آن روز که این گنبدِ مینا می‌کرد<br><br>بی‌دلی در همه‌احوال خدا با او بود<br>او نمی‌دیدش و از دور خدارا می‌کرد<br><br>این‌همه شعبدهٔ خویش که می‌کرد اینجا<br>سامری پیشِ عصا و یدِ بیضا می‌کرد<br><br>گفت آن یار کز او گشت سرِ دار بلند<br>جُرمش این بود که اسرار هویدا می‌کرد<br><br>فیضِ روحُ‌القُدُس ار باز مدد فرماید<br>دیگران هم بکنند آنچه مسیحا می‌کرد<br><br>گفتمش سلسلهٔ زلفِ بُتان از پیِ چیست<br>گفت حافظ گله‌ای از دلِ شیدا می‌کرد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">FOR YEARS MY HEART INQUIRED OF ME<br>Where Jamshid’s sacred cup might be,<br>And what was in its own possession<br>It asked from strangers, constantly;<br>Begging the pearl that’s slipped its shell<br>From lost souls wandering by the sea.<br>Last night I took my troubles to<br>The Magian sage whose keen eyes see<br>A hundred answers in the wine;<br>Laughing, he showed the cup to me –<br>I asked him, “When was this cup<br>That shows the world’s reality<br>Handed to you?” He said, “The day<br>Heaven’s vault of lapis lazuli<br>Was raised, and marvelous things took place<br>By Intellect’s divine decree,<br>And Moses’ miracles were made<br>And Sameri’s apostacy.”<br>He added then, “That friend they hanged<br>High on the looming gallows tree –<br>His sin was that he spoke of things<br>Which should be pondered secretly;<br>The page of truth his heart enclosed<br>Was annotated publicly.<br>But if the Holy Ghost once more<br>Should lend his aid to us, we’d see<br>Others perform what Jesus did –<br>Since in his heart-sick anguish he<br>Was unaware that God was there<br>And called His name out ceaselessly.”<br>I asked him next, “And beauties’ curls<br>That tumble down so sinuously,<br>What do they mean? Whence do they come?”<br>“Hafez,” the sage replied to me,<br>“Their source is your distracted heart<br>That asks these questions constantly.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دوش وقتِ سَحَر، از غُصّه نجاتم دادند<br>واندر آن ظلمتِ شب، آبِ حیاتم دادند<br><br>بی‌خود از شَعْشَعِهٔ پرتوِ ذاتم کردند<br>باده از جامِ تَجَلّیِّ صفاتم دادند<br><br>چه مبارک‌سَحَری بود و چه فرخنده‌شبی<br>آن شبِ قدر که این تازه‌براتم دادند<br><br>بعد از این رویِ من و آینهٔ وصفِ جمال<br>که در آن جا خبر از جلوهٔ ذاتم دادند<br><br>من اگر کامروا گشتم و خوش‌دل چه عجب؟<br>مستحق بودم و این‌ها به زکاتم دادند<br><br>هاتف آن روز به من مژدهٔ این دولت داد<br>که بِدان جور و جفا صبر و ثباتم دادند<br><br>این همه شهد و شِکر کز سخنم می‌ریزد<br>اَجرِ صبری‌ست کز آن شاخِ نباتم دادند<br><br>همّتِ حافظ و انفاسِ سحرخیزان بود<br>که ز بندِ غمِ ایّام نجاتم دادند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">LAST NIGHT, AT DAWN, IN MY DISTRESS, SALVATION<br>was given to me;<br>In darkness then, life’s water, a libation,<br>was given to me.<br>Rapt from myself by that pure lambent light,<br>The wine of essence, and of all creation,<br>was given to me.<br>O dawn of Fortune, moment of pure Glory,<br>That night when notice of my liberation<br>was given to me!<br>I gazed in Beauty’s mirror then, for there<br>My essence, shining for my contemplation,<br>was given to me.<br>If I was happy then, it’s no surprise –<br>I was deserving, and a just donation<br>was given to me.<br>That day a heavenly voice brought me good news;<br>The strength to bear this harsh world’s subjugation<br>was given to me.<br>It was Hafez’s spirit, and the sighs of those<br>Who rise at dawn, by which, at last, salvation<br>was given to me.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">درختِ دوستی بنشان که کامِ دل به بار آرد<br>نهالِ دشمنی بَرکَن که رنج بی‌شمار آرد<br><br>چو مهمانِ خراباتی به عزت باش با رندان<br>که دردِ سر کشی جانا، گرت مستی خمار آرد<br><br>شبِ صحبت غنیمت دان که بعد از روزگارِ ما<br>بسی گردش کُنَد گردون، بسی لیل و نهار آرد<br><br>عَماری‌دارِ لیلی را که مَهدِ ماه در حکم است<br>خدا را در دل اندازش که بر مجنون گذار آرد<br><br>بهارِ عمر خواه ای دل، وگرنه این چمن هر سال<br>چو نسرین صد گل آرد بار و چون بلبل هِزار آرد<br><br>خدا را چون دلِ ریشم قراری بست با زلفت<br>بفرما لعلِ نوشین را که زودش با قرار آرد<br><br>در این باغ از خدا خواهد دگر پیرانه‌سر، حافظ<br>نشیند بر لبِ جویی و سروی در کنار آرد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">PLANT FRIENDSHIP’S TREE – THE HEART’S DESIRE<br>Is the fruit it bears;<br>And uproot enmity – which brings<br>Sorrows and cares.<br>Be friendly, easy, with drunkards –<br>Good fellowship’s theirs;<br>It’s pride brings the hangover, not<br>The wine-seller’s wares.<br>Talk with your friends, deep in the night,<br>And see how life fares;<br>Since when we are gone the heavens<br>Will bring others our cares;<br>And welcome the spring in your heart<br>Since the world never spares<br>To provide for us roses and songbirds,<br>Whoever despairs.<br>And love your belovèd – the heavens require you<br>To be one who bears<br>The grief of Majnun all your life:<br>God grant me my prayers!<br>Your heart is so tired! You feel caught<br>In the weary world’s snares<br>But sip at your wine, and hear in your heart<br>The hope it declares:<br>That Hafez will sit in his orchard<br>By the stream that he shares<br>With his cypress-slim love, God willing,<br>In the place that is theirs.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">تَنَت به نازِ طبیبان نیازمند مباد<br>وجود نازکت آزردهٔ گزند مباد<br><br>سلامتِ همه آفاق در سلامتِ توست<br>به هیچ عارضه شخصِ تو دردمند مباد<br><br>جمالِ صورت و معنی ز امنِ صحتِ توست<br>که ظاهرت دُژَم و باطنت نَژَند مباد<br><br>در این چمن چو درآید خزان به یغمایی<br>رهش به سروِ سهی قامتِ بلند مباد<br><br>در آن بساط که حُسن تو جلوه آغازد<br>مجالِ طعنهٔ بدبین و بدپسند مباد<br><br>هر آن که رویِ چو ماهت به چشمِ بد بیند<br>بر آتشِ تو به جز جانِ او سپند مباد<br><br>شفا ز گفتهٔ شِکَّرفِشانِ حافظ جوی<br>که حاجتت به عِلاجِ گلاب و قند مباد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">MAY YOUR DEAR BODY NEVER NEED<br>A doctor’s expertise,<br>Your delicate existence know<br>No hurtful injuries.<br>Since all of our horizons’ health<br>Depends upon your own,<br>May ill-health never visit you<br>With noxious maladies;<br>And when the wind of autumn blows<br>Across these meadows, may<br>Its passage pass your stature by,<br>That’s like a cypress tree’s;<br>When your young beauty shows itself,<br>May spiteful gossip find<br>No sneaking opportunity<br>To spread its calumnies.<br>Outward and inward beauty spring<br>From your perfections! May<br>Your form be faultless, and your soul<br>Stay free from miseries –<br>And may the eye of one who casts<br>The evil eye on you<br>Be rue within your beauty’s flames,<br>Consumed by what it sees.<br>Your balm is Hafez’s sweet words –<br>And if you look for these<br>You won’t need rose water again<br>Or candied remedies.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">نقدِ صوفی نه همه صافیِ بی‌غَش باشد<br>ای بسا خرقه که مُستوجبِ آتش باشد<br><br>صوفیِ ما که ز وِردِ سحری مست شدی<br>شامگاهش نگران باش که سرخوش باشد<br><br>خوش بُوَد گر محکِ تجربه آید به میان<br>تا سیه‌روی شود هر که در او غَش باشد<br><br>خَطِّ ساقی گر از این گونه زند نقش بر آب<br>ای بسا رُخ که به خونآبه مُنَقَّش باشد<br><br>ناز‌پروردِ تَنَعُّم نبَرَد راه به دوست<br>عاشقی شیوهٔ رندانِ بلاکش باشد<br><br>غمِ دنیای دَنی چند خوری؟ باده بخور<br>حیف باشد دلِ دانا که مُشَوَّش باشد<br><br>دلق و سجادهٔ حافظ ببَرَد باده‌فروش<br>گر شرابش ز کفِ ساقی مَه‌وَش باشد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">NOT EVERY SUFI’S TRUSTWORTHY, OR PURE IN SPIRIT,<br>And burning is no more than many of them merit.<br>Our Sufi prays at dawn, transported with delight,<br>But watch how drunkenly he welcomes in the night!<br>Would that a touchstone could display hypocrisy,<br>Blackening the liar’s face with shame, for all to see.<br>The pampered are not fit to travel on love’s road,<br>Only an outcast’s heart can bear the lover’s load.<br>Why let the world upset you? Why, and for how long?<br>Drink wine, since sorrow in a wise man’s heart is wrong.<br>Our serving boy’s young face is ready for its beard –<br>What tearful faces there will be, once it’s appeared!<br>And if that boy should serve me now, it is a sign<br>Hafez’s cloak and prayer-mat have been sold for wine.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">واعظان کاین جلوه در محراب و منبر می‌کنند<br>چون به خلوت می‌روند آن کارِ دیگر می‌کنند!<br><br>مشکلی دارم، زِ دانشمندِ مجلس بازپرس<br>توبه‌فرمایان، چرا خود توبه کم‌تر می‌کنند؟<br><br>گوییا باور نمی‌دارند روزِ داوری<br>کاین همه قَلب و دَغَل در کارِ داور می‌کنند<br><br>یا رب این نُودولَتان را با خَرِ خودْشان نشان<br>کاین همه ناز از غلامِ تُرک و اَسْتَر می‌کنند<br><br>ای گدای خانِقَه، بَرْجَه که در دِیرِ مُغان<br>می‌دهند آبی و دل‌ها را توانگر می‌کنند<br><br>حُسنِ بی‌پایان او، چندان که عاشق می‌کُشد<br>زمرهٔ دیگر به عشق از غیب سَر بَر می‌کنند<br><br>بر درِ می‌خانهٔ عشق ای مَلَک، تسبیح گوی<br>کاَندر آنجا، طینَتِ آدم مُخَمَّر می‌کنند<br><br>صبح‌دم از عرش می‌آمد خروشی، عقل گفت<br>«قُدسیان گویی که شعرِ حافظ از بَر می‌کنند»</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">THESE PREACHERS WHO MAKE SUCH A SHOW<br>Of pulpit piety<br>Act in a wholly different way<br>When no one’s there to see.<br>This is my question for the wise –<br>How is it those who teach<br>Repentance are so rarely found<br>To practice what they preach?<br>You’d think they’d no belief in God<br>Or in His Judgment Day,<br>Given their frauds done in His name,<br>The pious tricks they play.<br>My master reigns among the ruins,<br>And the poor whom he<br>Attracts know needing nothing’s wealth,<br>And pride’s humility.<br>O God, these nouveaux riches – the slaves<br>And mules that they display!<br>Set them upon their donkeys now,<br>And send them on their way!<br>And angels, say your prayers before<br>Love’s tavern door – its shade<br>Is where the clay of Adam’s kneaded<br>And mankind is made.<br>His boundless beauty slays the lover,<br>And even as he dies,<br>Out of the darkness, seeking love,<br>New multitudes arise.<br>But hurry, Sufi – in the house<br>Where Magians meet they give<br>The liquid that revives men’s hearts<br>And makes them truly live.<br>Empty your house, my heart, so that<br>Your Sovereign may preside there,<br>Since grasping fools despoil both heart<br>And soul when they reside there.<br>At dawn a cry came from the heavens –<br>And Reason said, “I see<br>The very angels know by heart<br>Hafez’s poetry!”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">شکفته شد گل حَمرا و گشت بلبل مست<br>صَلایِ سرخوشی، ای صوفیانِ باده پرست<br><br>اساسِ توبه که در محکمی چو سنگ نُمود<br>ببین که جامِ زُجاجی چه طُرفه‌اش بشکست<br><br>بیار باده که در بارگاهِ استغنا<br>چه پاسبان و چه سلطان، چه هوشیار و چه مست<br><br>از این رِباط دو در، چون ضرورت است رَحیل<br>رِواق و طاقِ معیشت، چه سربلند و چه پست<br><br>مقام عیش میسر نمی‌شود بی‌رنج<br>بلی به حکمِ بلا بسته‌اند عهدِ الست<br><br>به هست و نیست مَرنجان ضمیر و خوش می‌باش<br>که نیستی‌ست سرانجامِ هر کمال که هست<br><br>شکوهِ آصِفی و اسبِ باد و منطقِ طیر<br>به باد رفت و از او خواجه هیچ طَرف نبست<br><br>به بال و پَر مرو از ره که تیرِ پرتابی<br>هوا گرفت زمانی، ولی به خاک نشست<br><br>زبانِ کِلکِ تو حافظ چه شُکرِ آن گوید<br>که گفتهٔ سخنت می‌برند دست به دست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">THE NIGHTINGALES ARE DRUNK, WINE-RED ROSES APPEAR,<br>And, Sufis, all around us, happiness is here;<br>How firmly, like a rock, Repentance stood! Look how<br>A wine-glass taps it, and it lies in pieces now…<br>Bring wine! From the sequestered court where we’re secluded,<br>Drunk or sober, king or soldier, none will be excluded;<br>This inn has two doors, and through one we have to go –<br>What does it matter if the doorway’s high or low?<br>If there’s no sorrow there can be no happiness,<br>And, when the world was made, men knew this, and said, “Yes.”<br>Rejoice, don’t fret at Being and Non-Being; say<br>That all perfection will be nothingness one day.<br>The horse that rode the wind, Asef in all his glory,<br>The language of the birds, are now an ancient story;<br>They’ve disappeared upon the wind, and Solomon,<br>The master of them all, has nothing now they’ve gone.<br>Don’t rise on feathered wings, don’t soar into the skies –<br>An arrow falls to earth, however far it flies;<br>How will your pen give thanks, Hafez, now men demand<br>Your verses everywhere, and pass them hand to hand?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مسلمانان مرا وقتی دلی بود<br>که با وی گفتمی گر مشکلی بود<br><br>به گِردابی چو می‌افتادم از غم<br>به تدبیرش امیدِ ساحلی بود<br><br>دلی همدرد و یاری مصلحت بین<br>که اِستِظهارِ هر اهلِ دلی بود<br><br>ز من ضایع شد اندر کویِ جانان<br>چه دامنگیر یا رب منزلی بود<br><br>هنر بی‌عیبِ حِرمان نیست لیکن<br>ز من محروم‌تر کِی سائلی بود؟<br><br>بر این جانِ پریشان رحمت آرید<br>که وقتی کاردانی کاملی بود<br><br>مرا تا عشق تعلیمِ سخن کرد<br>حدیثم نکتهٔ هر محفلی بود<br><br>مگو دیگر که حافظ نکته‌دان است<br>که ما دیدیم و محکم جاهلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">MOSLEMS, TIME WAS I HAD A HEART –<br>a good one too,<br>When problems came we’d talk, and I’d<br>know what to do;<br>And if I tumbled in grief’s whirlpool<br>my heart was sure<br>To give me hope that soon enough<br>I’d reach the shore –<br>A sympathetic, generous heart,<br>a heart prepared<br>To help out any noble soul,<br>a heart that cared.<br>This heart was lost to me within<br>my lover’s street;<br>God, what a place! – where I succumbed<br>to sweet deceit.<br>There is no faultless art – we all<br>fall short somehow,<br>But what poor beggar’s more deprived<br>than I am now?<br>Have pity on this wretched soul<br>and sympathize<br>With one who once upon a time<br>was strong and wise.<br>Since love has taught me how to talk,<br>each little phrase<br>Of mine is cried up everywhere<br>and showered with praise –<br>But don’t call Hafez witty, wise,<br>intelligent;<br>I’ve seen Hafez, I know him well;<br>he’s ignorant.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">بُوَد آیا که درِ میکده‌ها بگشایند؟<br>گره از کارِ فروبستهٔ ما بگشایند؟<br><br>اگر از بهرِ دلِ زاهدِ خودبین بستند<br>دل قوی دار که از بهرِ خدا بگشایند<br><br>به صفایِ دلِ رندانِ صَبوحی‌زدگان<br>بس درِ بسته به مِفْتاحِ دعا بگشایند<br><br>نامهٔ تَعزیَتِ دختر رَز بِنْویسید<br>تا همه مُغبَچِگان زلفِ دوتا بگشایند<br><br>گیسوی چنگ بِبُرّید به مرگِ مِیِ ناب<br>تا حریفان همه خون از مژه‌ها بگشایند<br><br>درِ میخانه ببستند خدایا مپسند<br>که درِ خانهٔ تزویر و ریا بگشایند<br><br>حافظ این خرقه که داری تو ببینی فردا<br>که چه زُنّار ز زیرش به دَغا بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">PERHAPS, MY HEART, THE WINE-SHOPS’ DOORS<br>will soon be opened wide,<br>And all the cramping knots in which<br>we’re tied will be untied;<br>And if they’re closed because of one<br>ascetic’s canting pride,<br>Be strong, my heart…because of God<br>this will be rectified.<br>I swear by revelers’ hearts that those<br>who drink at dawn have pried<br>Apart with prayers so many doors –<br>their prayers were satisfied.<br>Write now the elegy for grape’s<br>fair child, since she has died!<br>And make her mourners weep with such<br>despair it’s blood they’ve cried.<br>Sever the harp’s strings now in grief<br>for wine’s cruel homicide;<br>Likewise the locks of those young boys<br>who served wine at our side.<br>They’ve closed the wine-shops’ doors – ah, God,<br>don’t let them open wide<br>The doors to shops whose wares are cant,<br>pretentiousness, and pride.<br>Hafez, this Sufi cloak you wear,<br>tomorrow it won’t hide<br>The heathen underneath, and all<br>you’ve claimed will be belied.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم غمِ تو دارم گفتا غمَت سرآید<br>گفتم که ماهِ من شو گفتا اگر برآید<br><br>گفتم ز مِهروَرزان رسمِ وفا بیاموز<br>گفتا ز خوب‌رویان این کار کمتر آید<br><br>گفتم که بر خیالت راهِ نظر ببندم<br>گفتا که شب‌رو است او از راهِ دیگر آید<br><br>گفتم که بویِ زلفت گمراهِ عالَمَم کرد<br>گفتا اگر بدانی هم اوت رهبر آید<br><br>گفتم خوشا هوایی کز بادِ صبح خیزد<br>گفتا خُنُک نسیمی کز کویِ دلبر آید<br><br>گفتم که نوشِ لَعلَت ما را به آرزو کشت<br>گفتا تو بندگی کن کاو بنده‌پرور آید<br><br>گفتم دلِ رحیمت کِی عزمِ صلح دارد؟<br>گفتا مگوی با کس تا وقتِ آن درآید<br><br>گفتم زمانِ عِشرَت دیدی که چون سر آمد؟<br>گفتا خموش حافظ کـاین غصّه هم سر آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I SAID, “THE GRIEF I FEEL IS ALL FOR YOU”;<br>she said, “Your grief will end”;<br>I said, “Be as the moon to me”; she said,<br>“That moon might rise, my friend.”<br>I said, “Learn faithfulness from those whose love<br>is trustworthy and true”;<br>She said, “That’s something moon-like pretty girls<br>are rarely known to do.”<br>I said, “I’ll bind my eyes up, and I’ll keep<br>your image from my sight”;<br>She said, “My image is a thief that moves<br>invisibly by night.”<br>I said, “Your curls’ scent has misled my mind,<br>I wander far and wide”;<br>She said, “And when you understand you’ll see<br>that scent is your true guide.”<br>I said, “Happy the scent from beauty’s garden,<br>blowing so fresh and sweet”;<br>She said, “Cool is the breeze that blows on us<br>from the belovèd’s street.”<br>I said, “Wanting to kiss your ruby lips<br>has all but murdered me”;<br>She said, “Be as a slave, my lips know how<br>to treat slaves lovingly.”<br>I said, “When will your generous heart make peace<br>between us – when, my dear?”<br>She said, “Don’t speak of this at all until<br>my heart says peace is here.”<br>I said, “And did you see how happiness<br>sped by, and could not last?”<br>She said, “Silence, Hafez; this time of grief<br>will also, soon, have passed.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اگر چه باده فَرَح بخش و باد گُل‌بیز است<br>به بانگِ چَنگ مخور مِی که مُحتَسِب تیز است<br><br>صُراحی‌ای و حریفی گَرَت به چَنگ افتد<br>به عقل نوش که ایام فتنه‌ انگیز است<br><br>در آستینِ مُرَقَع پیاله پنهان کن<br>که همچو چشمِ صُراحی، زمانه خونریز است<br><br>به آبِ دیده بشوییم خِرقه‌ها از می<br>که موسمِ وَرَع و روزگارِ پرهیز است<br><br>مجوی عیشِ خوش از دورِ باژگونِ سِپِهر<br>که صاف این سر خُم جمله دُردی آمیز است<br><br>سپهر بر شده پرویزنی‌ست خون افشان<br>که ریزه‌اش سر کَسری و تاجِ پرویز است<br><br>عراق و فارس گرفتی به شعرِ خوش حافظ<br>بیا که نوبتِ بغداد و وقتِ تبریز است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">ALTHOUGH OUR PREACHER MIGHT NOT LIKE<br>to hear me mention it,<br>He’ll never be a Moslem while<br>he’s such a hypocrite.<br>Learn to be dissolute; be kind –<br>this is far better than<br>To be a beast that won’t drink wine<br>and can’t become a man.<br>The essence must be wholly pure<br>if grace is to be ours;<br>If not, no stones will turn to pearls,<br>or coral come from flowers.<br>The Highest will fulfill His aims,<br>rejoice, my heart! No lies<br>Can make a devil Solomon<br>whatever tricks he tries.<br>I practice love, a noble trade,<br>and hope that I won’t see<br>Love bring, as other trades have done,<br>sorrow and grief to me.<br>Last night he said, “Tomorrow I<br>will give you your desire.”<br>O God, don’t let regret assail him<br>and make him out a liar!<br>I’ll pray that God adds goodness to<br>the beauty you possess,<br>So that you’ll cease to cause me such<br>distraction and distress.<br>Hafez, unless a mote aspires<br>and strives, it has no chance<br>To reach that source from which the sun<br>receives its radiance.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اگر شراب خوری جُرعه‌ای فشان بر خاک<br>از آن گناه که نَفعی رسد به غیر، چه باک؟<br><br>برو به هر چه تو داری بخور، دریغ مخور<br>که بی‌دریغ زَنَد روزگار تیغِ هَلاک<br><br>به خاکِ پایِ تو ای سروِ نازپرورِ من<br>که روزِ واقعه پا وا مَگیرم از سرِ خاک<br><br>چه دوزخی، چه بهشتی، چه آدمی، چه پَری<br>به مذهبِ همه کفرِ طریقت است اِمساک<br><br>مهندسِ فَلَکی، راهِ دِیرِ شش جهتی<br>چنان بِبَست که رَه نیست زیرِ دیرِ مغاک<br><br>فریبِ دخترِ رَز طُرفِه می‌زند رَهِ عقل<br>مباد تا به قیامت خراب طارَمِ تاک<br><br>به راهِ میکده، حافظ! خوش از جهان رفتی<br>دعایِ اهلِ دلت باد، مونسِ دلِ پاک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">WHEN YOU DRINK WINE, SPRINKLE<br>A few drops on the ground –<br>What’s there to fear from sin<br>That spreads such joy around?<br>Go, drink up all you have,<br>Drink now and don’t delay –<br>Death’s dagger won’t delay<br>Dispatching you one day.<br>My cypress-slender love,<br>By the dust on which you tread,<br>Don’t hesitate to visit<br>My dust when I am dead.<br>In heaven or in hell,<br>For angels or for men,<br>In every faith – to hold back<br>Counts as a mortal sin.<br>The Architect of heaven<br>Who gave the world its shape<br>Has sealed its six directions<br>So that there’s no escape.<br>The daughter of the vine<br>Leads Reason all astray –<br>May the vine’s trellis stand<br>Unharmed till Judgment Day!<br>And may your dear friends’ prayers,<br>Hafez, when you depart<br>Via the wine-shop’s door,<br>Accompany your heart.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">رسید مژده که ایّامِ غم نخواهد ماند<br>چنان نماند، چنین نیز هم نخواهد ماند<br><br>من ار چه در نظرِ یار خاک‌سار شدم<br>رقیب نیز چنین محترم نخواهد ماند<br><br>چو پرده‌دار به شمشیر می‌زند همه را<br>کسی مُقیمِ حریمِ حَرَم نخواهد ماند<br><br>چه جایِ شُکر و شکایت ز نقشِ نیک و بد است؟<br>چو بر صحیفهٔ هستی رقم نخواهد ماند<br><br>سرودِ مجلسِ جمشید گفته‌اند این بود<br>که «جامِ باده بیاور که جم نخواهد ماند»<br><br>غنیمتی شِمُر ای شمع وصلِ پروانه!<br>که این معامله تا صبح‌دم نخواهد ماند<br><br>توانگرا! دلِ درویشِ خود به دست آور<br>که مخزنِ زَر و گنجِ دِرَم نخواهد ماند<br><br>بدین رَواقِ زَبَرجَد نوشته‌اند به زر<br>که «جز نکوییِ اهلِ کرم نخواهد ماند»<br><br>ز مهربانیِ جانان طمع مَبر حافظ<br>که نقشِ جور و نشانِ ستم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">GOOD NEWS! THE DAYS OF GRIEF AND PAIN<br>won’t stay like this –<br>As others went, these won’t remain<br>or stay like this.<br>Though my belovèd thinks of me<br>as dirt and dust,<br>My rival’s status, and her trust,<br>won’t stay like this.<br>And though the doorman wields his sword<br>against us all,<br>No rank remains immutable<br>or stays like this.<br>When good or bad come, why give thanks,<br>and why complain?<br>Since what is written won’t remain<br>or stay like this.<br>They say when Jamshid reigned, “Bring wine”<br>was his court’s song,<br>“Since even Jamshid won’t live long,<br>or stay like this.”<br>And if you’re wealthy help the poor,<br>since, be assured,<br>The gold and silver that you hoard<br>won’t stay like this!<br>O candle, prize the moth’s love now<br>and hold it fast –<br>When dawn arrives it cannot last<br>or stay like this.<br>In words of gold they’ve written on<br>the emerald sky,<br>“Only compassion does not die<br>but stays like this.”<br>Do not despair of love, Hafez;<br>it can’t be true<br>The heartlessness she’s shown to you<br>will stay like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">حاشا که من به موسمِ گُل تَرکِ مِی کُنم<br>من لافِ عقل می‌زنم، این کار کِی کنم<br><br>مطرب کجاست تا همه محصولِ زهد و عِلم<br>در کارِ چنگ و بَربَط و آوازِ نِی کُنَم<br><br>از قیل و قالِ مدرسه حالی دلم گرفت<br>یک چند نیز خدمتِ معشوق و مِی کنم<br><br>کِی بود در زمانه وفا؟ جامِ مِی بیار<br>تا من حکایتِ جم و کاووسِ کِی کنم<br><br>از نامهٔ سیاه نترسم که روزِ حشر<br>با فیضِ لطفِ او صد از این نامه طِی کنم<br><br>کو پیک صبح؟ تا گله‌های شبِ فِراق<br>با آن خجسته طالعِ فرخنده پِی کنم<br><br>این جانِ عاریت که به حافظ سپرد دوست<br>روزی رُخش ببینم و تسلیمِ وی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">AH, GOD FORBID THAT I RELINQUISH WINE<br>When roses are in season;<br>How could I do this when I’m someone who<br>Makes such a show of Reason?<br>Where’s a musician, so that I can give<br>The profit I once found<br>In self-control and knowledge for a flute’s songs,<br>And a lute’s sweet sound?<br>The endless arguments within the schools –<br>Whatever they might prove –<br>Sickened my heart; I’ll give a little time<br>To wine now, and to love.<br>Where is the shining messenger of dawn<br>That I might now complain<br>To my good fortune’s harbinger of this<br>Long night of lonely pain?<br>But when did time keep faith with anyone?<br>Bring wine, and I’ll recall<br>The tales of kings, of Jamshid and Kavus,<br>And how time took them all.<br>I’m not afraid of sins recorded in<br>My name – I’ll roll away<br>A hundred such accounts, by His benevolence<br>And grace, on Judgment Day.<br>This lent soul, that the Friend once gave into<br>Hafez’s care, I’ll place<br>Within His hands again, on that day when<br>I see Him face to face.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">صبا به لُطف بگو آن غزالِ رَعنا را<br>که سَر به کوه و بیابان تو داده‌ای ما را<br><br>شِکر فُروش که عُمرَش دراز باد چرا<br>تَفَقُّدی نَکُنَد طوطیِ شِکرخا را؟<br><br>غرورِ حُسنت اجازَت مَگَر نداد اِی گُل<br>که پُرسِشی نکُنی عَندَلیب شیدا را؟<br><br>به خُلق و لطف توان کرد صیدِ اهلِ نظر<br>به بند و دام نگیرند مرغِ دانا را<br><br>ندانم از چه سبب رنگِ آشنایی نیست<br>سَهی‌قَدانِ سیَه‌‌چشمِ ماه‌سیما را<br><br>چو با حبیب نِشینی و باده پِیمایی<br>به یاد دار مُحِبّانِ بادپیما را<br><br>جُز این قَدَر نَتوان گفت در جَمالِ تو عیب<br>که وضع مِهر و وفا نیست رویِ زیبا را<br><br>در آسمان نه عجب گَر به گفتهٔ حافظ<br>سُرودِ زُهره به رقص آورد مسیحا را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">MILD BREEZE OF MORNING, GENTLY TELL<br>That errant, elegant gazelle<br>She’s made me wander far and wide<br>About the hills and countryside.<br>My sugar-lipped, sweet girl – oh, may<br>You live forever and a day! –<br>Where is your kindness? Come now, show it<br>To your sweet-talking parrot-poet.<br>My rose, does vanity restrain you?<br>Does beauty’s arrogance detain you<br>From seeking out this nightingale<br>Who wildly sings, to no avail?<br>With gentleness and kindness lies<br>The surest way to win the wise,<br>Since birds that have become aware<br>Of ropes and traps are hard to snare.<br>When you sit safely with your love,<br>Sipping your wine, be mindful of<br>Those struggling lovers who still stray,<br>Wind-tossed, upon their weary way.<br>I don’t know why she isn’t here,<br>Why her tall presence won’t appear,<br>Or why the full moon of her face,<br>And her black eyes, avoid this place.<br>No fault can be imputed to<br>Your beauty’s excellence, or you,<br>Except that there is not a trace<br>Of truth or kindness in your face.<br>When Hafez speaks, it’s no surprise<br>If Venus dances in the skies<br>And leads across the heavens’ expanse<br>Lord Jesus in the whirling dance.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">نفسِ بادِ صبا مُشک‌فشان خواهد شد<br>عالَمِ پیر دگرباره جوان خواهد شد<br><br>ارغوان جامِ عقیقی به سمن خواهد داد<br>چشمِ نرگس به شقایق نگران خواهد شد<br><br>این تَطاول که کشید از غمِ هجران بلبل<br>تا سراپردهٔ گل نعره‌زنان خواهد شد<br><br>گر ز مسجد به خرابات شدم خرده مگیر<br>مجلس وعظ دراز است و زمان خواهد شد<br><br>ای دل ار عشرتِ امروز به فردا فکنی<br>مایهٔ نقدِ بقا را که ضَمان خواهد شد؟<br><br>ماه شعبان مَنِه از دست قدح، کاین خورشید<br>از نظر تا شبِ عیدِ رمضان خواهد شد<br><br>گل عزیز است غنیمت شِمُریدَش صحبت<br>که به باغ آمد از این راه و از آن خواهد شد<br><br>مطربا مجلسِ انس است غزل خوان و سرود<br>چند گویی که چنین رفت و چنان خواهد شد؟<br><br>حافظ از بهر تو آمد سویِ اقلیمِ وجود<br>قدمی نِه به وداعش که روان خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">THE MUSKY MORNING BREEZE<br>Will gently blow again,<br>Once more the old world will<br>Turn young and grow again;<br>White jasmine will take wine<br>From glowing Judas trees,<br>Narcissi fondly glance<br>At shy anemones;<br>Once more the banished, lovelorn<br>Nightingale will bring<br>His passion to the rose<br>And there sublimely sing;<br>And if I leave the mosque<br>For wine, don’t sneer at me –<br>Sermons are long, and time<br>Moves on incessantly.<br>My heart, if you postpone<br>Today’s enjoyment, who<br>Will guarantee the cash<br>Of happiness to you?<br>Drink before fasting, drink,<br>Don’t put your glass down yet –<br>Since Ramadan draws near<br>And pleasure’s sun must set.<br>How sweet the roses are!<br>Enjoy them now, for they<br>As quickly as they bloomed<br>Will fall and fade away.<br>We’re all friends here, my boy,<br>Sing love songs! Why should you<br>Sing yet again, “As that<br>Has gone, so this must too”?<br>You are why Hafez lives –<br>But now, within your heart,<br>Prepare to say farewell,<br>Since he too must depart.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اگر آن تُرکِ شیرازی به‌‌ دست‌ آرَد دلِ ما را<br>به خال هِندویَش بَخشَم سَمَرقند و بُخارا را<br><br>بده ساقی مِیِ باقی که در جَنَّت نخواهی یافت<br>کنارِ آبِ رُکناباد و گُل‌گَشتِ مُصَلّا را<br><br>فَغان! کاین لولیانِ شوخِ شیرین‌کارِ شهرآشوب<br>چُنان بُردند صبر از دل که تُرکان خوانِ یَغما را<br><br>ز عشقِ ناتمامِ ما جمالِ یار مُستَغنی‌ است<br>به آب و رنگ و خال و خط چه حاجت رویِ زیبا را؟<br><br>مَن از آن حُسنِ روزاَفزون که یوسُف داشت دانستم<br>که عشق از پردهٔ عِصمت بُرون آرَد زُلِیخا را<br><br>اگر دشنام فرمایی و گَر نفرین دعا گویم<br>جوابِ تلخ می‌زیبَد لبِ لَعلِ شِکرخا را<br><br>نصیحت گوش کن جانا که از جان دوست‌تر دارند<br>جوانانِ سعادتمند پندِ پیرِ دانا را<br><br>حَدیث از مُطرب و مِی گو و رازِ دَهر کمتر جو<br>که کس نَگشود و نَگشاید به حکمت این مُعمّا را<br><br>غزل گفتی و دُر سُفتی بیا و خوش بخوان حافظ<br>که بر نظمِ تو اَفشانَد فَلَک عِقد ثُریّا را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">IF THAT SHIRAZI TURK WOULD TAKE<br>My heart within his loving hand<br>I’d give for his dark mole the towns<br>Of Bokhara and Samarqand;<br>Come boy, and pour the wine’s last drops –<br>Since heaven’s courts will not provide<br>The gardens of our Mosalla<br>Or Roknabad’s green riverside.<br>Alas, these rowdy, sweet-voiced gypsies<br>Have ripped out patience from my heart,<br>Like Turks who make off with a feast’s<br>Leftovers when the guests depart.<br>My friend’s great beauty has no need<br>Of a defective love like mine A lovely face does not require<br>Cosmetic arts to make it shine.<br>Let’s talk of wine and music, not<br>Of Fate, and how the heavens revolve Theirs is a riddle no man’s wisdom<br>Has solved yet, or will ever solve.<br>Given the beauty Joseph had<br>I understood love could not fail<br>To tempt Zuleikha to discard<br>Her chastity’s enclosing veil.<br>You slandered me, and you spoke well –<br>May God forgive you what you said!<br>A bitter answer suits such lips,<br>So sugar-sweet and ruby-red.<br>But listen to advice, my dear Those who are young and fortunate<br>Prefer the wisdom of the old<br>To their own souls’ uncertain state.<br>Hafez, your poem’s written now,<br>The pearl you’ve pierced is poetry’s;<br>Sing sweetly – heaven grants your verse<br>The necklace of the Pleiades.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">عشقبازیّ و جوانیّ و شرابِ لَعلْ‌فام<br>مجلسِ اُنس و حریفِ همدم و شُربِ مدام<br><br>ساقیِ شِکَّردهان و مُطربِ شیرین‌سخن<br>همنشینی نیک‌کردار و ندیمی نیک‌نام<br><br>شاهدی از لطف و پاکی رَشکِ آبِ زندگی<br>دلبری در حُسن و خوبی غیرتِ ماهِ تمام<br><br>بَزم‌گاهی دل‌نِشان، چون قصرِ فردوسِ بَرین<br>گلشنی پیرامُنَش چون روضهٔ دارُالسَّلام<br><br>صف‌نشینان نیک‌خواه و پیشکاران باادب<br>دوست‌داران صاحب‌اسرار و حریفان دوست‌کام<br><br>بادهٔ گلرنگِ تلخِ تیزِ خوش‌خوارِ سَبُک<br>نُقلَش از لَعلِ نگار و نَقلَش از یاقوتِ خام<br><br>غمزهٔ ساقی به یَغمایِ خِرَد آهِخته تیغ<br>زلفِ جانان از برایِ صیدِ دل گسترده‌دام<br><br>نکته‌دانی بَذله‌گو چون حافظِ شیرین‌‌سخن<br>بخشش‌آموزی جهان‌افروز چون حاجی قوام<br><br>هر که این عِشرت نخواهد خوش‌دلی بر وی تباه<br>وان که این مجلس نجوید زندگی بر وی حرام</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">FLIRTATIOUS GAMES, AND YOUTH,<br>And wine like rubies glowing;<br>Convivial company,<br>And drink that’s always flowing;<br>A sweet-mouthed boy to serve<br>And sweet-voiced singers too,<br>An elegant, dear friend<br>Who’s seated next to you;<br>A kindly youngster whose<br>Delightful purity<br>Would stir the Fount of Youth<br>To angry jealousy –<br>A stealer of men’s hearts<br>Whose charm and loveliness<br>Would make the moon herself<br>Turn pale and envious;<br>A meeting place as though<br>Heaven’s high courts surround us,<br>With paradise’s roses<br>Profusely growing round us;<br>Kind-hearted friends to drink with,<br>Servants who act discreetly,<br>Companions who keep secrets,<br>Whom we can trust completely;<br>With wine as red as roses,<br>Astringent, light to sip,<br>Whose tale is garnets, rubies,<br>Kissed in a lover’s lip;<br>The server’s glance to be<br>A sword to plunder reason,<br>The lovers’ curls like snares<br>To trip hearts with their treason;<br>A wit like Hafez, all<br>Sweet-talk and repartee,<br>A patron like Qavam,<br>Whose generosity<br>Lights up the world…and may<br>The man who turns away<br>From pleasures such as these<br>Not know one happy day!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">برو به کارِ خود ای واعظ این چه فریادست؟<br>مرا فِتاد دل از ره، تو را چه اُفتادست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">GO, MIND YOUR OWN BUSINESS, PREACHER! WHAT’S ALL<br>This hullabaloo?<br>My heart has left the road you travel, but<br>What’s that to you?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">میان او که خدا آفریده است از هیچ<br>دقیقه‌ای‌ست که هیچ آفریده نَگشادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Until my lips are played on like a flute<br>By his lips’ beauty,<br>My ears can only hear as wind the world’s<br>Advice on duty –</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">به کام تا نرساند مرا لبش، چون نای<br>نصیحتِ همه عالم به گوشِ من بادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">God made him out of nothing, and within<br>His being’s state<br>There is a mystery no being’s skill<br>Can penetrate.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گدایِ کویِ تو از هشت خُلد، مستغنی‌ست<br>اسیرِ عشقِ تو از هر دو عالم آزادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The beggar in your street disdains eight heavens<br>For what he’s given;<br>The captive in your chains is free of this world<br>And of heaven;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اگر چه مستیِ عشقم خراب کرد ولی<br>اساسِ هستیِ من زآن خراب، آبادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And even though the drunkenness of love<br>Has ruined me,<br>My being’s built upon those ruins for<br>Eternity.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دلا مَنال ز بیداد و جورِ یار که یار<br>تو را نصیب همین کرد و این از آن دادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">My heart, don’t whine so often that your friend’s<br>Unjust to you;<br>This is the fate he’s given you, and this<br>Is justice too.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">برو فَسانه مخوان و فُسون مدم حافظ<br>کز این فسانه و افسون مرا بسی یادست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Be off with you, Hafez! Enough of all<br>These tales you tell;<br>I’ve heard these tales and fables many times;<br>I know them well.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دردِ عشقی کشیده‌ام که مَپُرس<br>زهرِ هجری چشیده‌ام که مَپُرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I’VE KNOWN THE PAINS OF LOVE’S FRUSTRATION – AH, DON’T ASK!<br>I’ve drained the dregs of separation – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گشته‌ام در جهان و آخرِ کار<br>دلبری برگزیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I’ve been about the world and found at last<br>A lover worthy of my adoration – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">آن چنان در هوایِ خاکِ دَرَش<br>می‌رود آبِ دیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">So that my tears now lay the dust before<br>Her door in constant supplication – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">من به گوشِ خود از دهانش دوش<br>سخنانی شنیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Last night, with my own ears, I heard such words<br>Fall from her in our conversation – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">سویِ من لب چه می‌گَزی که مگوی<br>لبِ لعلی گَزیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">You bite your lip at me? The lip I bite<br>Is all delicious delectation! – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">بی تو در کلبهٔ گداییِ خویش<br>رنج‌هایی کشیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Without you, in this beggarly poor hut,<br>I have endured such desolation – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">همچو حافظ غریب در رَهِ عشق<br>به مَقامی رسیده‌ام که مپرس</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Lost on love’s road, like Hafez, I’ve attained<br>A stage…but stop this speculation – ah, don’t ask!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مزرعِ سبزِ فلک دیدم و داسِ مه نو<br>یادم از کِشتهٔ خویش آمد و هنگامِ درو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I SAW THE GREEN FIELDS OF THE SKY,<br>and there a sickle moon –<br>I reckoned what I’d sown, and thought,<br>“The harvest will come soon.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم ای بخت بخفتیدی و خورشید دمید<br>گفت با این همه از سابقه نومید مشو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “My luck, you’ve been asleep;<br>now dawn has brought the sun.”<br>She said, “The past is past; do not<br>despair of all you’ve done;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گر رَوی پاک و مجرد چو مسیحا به فلک<br>از چراغِ تو به خورشید رسد صد پرتو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The night you leave this world, go, climb<br>like Jesus through the skies –<br>Your lamp, a hundred times, will light<br>the sun as you arise.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">تکیه بر اخترِ شب‌دزد مکن کاین عیار<br>تاجِ کاووس ببرد و کمرِ کیخسرو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Don’t trust the shining moon, she is<br>the highway robber who<br>Stole Kay Kavus’s throne, and then<br>the belt of Khosrow too.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گوشوارِ زر و لعل ار چه گران دارد گوش<br>دورِ خوبی گذران است نصیحت بشنو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Gold earrings set with rubies may<br>charm you, and lead you on,<br>But know this: Beauty’s reign is brief,<br>and all too quickly gone.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">چشمِ بد دور ز خالِ تو که در عرصهٔ حسن<br>بیدقی راند که برد از مه و خورشید گرو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">God keep the evil eye from your<br>sweet beauty, which can field<br>A pawn to make the sun and moon<br>precipitously yield.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">آسمان گو مفروش این عظمت کاندر عشق<br>خرمنِ مه به جُوی خوشهٔ پروین به دو جو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Say to the heavens, “Don’t boast of splendor!”<br>When love is matched with you,<br>The harvest of the moon’s a grain,<br>and of the stars but two.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">آتشِ زهد و ریا خرمنِ دین خواهد سوخت<br>حافظ این خرقهٔ پشمینه بینداز و برو</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Hypocrisy will burn the harvest<br>religion reaped; and so,<br>Hafez, shrug off this Sufi cloak –<br>just leave now, let it go.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">خوش‌تر ز عیش و صحبت و باغ و بهار چیست؟<br>ساقی کجاست؟ گو سببِ انتظار چیست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">WHAT’S SWEETER THAN A GARDEN AND GOOD TALK<br>When spring’s new flowers appear?<br>What’s keeping that young boy who serves our wine?<br>Tell me why he’s not here.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">هر وقتِ خوش که دست دهد، مغتنم شمار<br>کس را وقوف نیست که انجامِ کار چیست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Put down as profit every happy moment<br>That Fate contrives to send;<br>Who has a notion what awaits us when<br>Our lives here have to end?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">پیوندِ عمر بسته به مویی‌ست، هوش دار<br>غمخوارِ خویش باش، غمِ روزگار چیست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And understand, life hangs here by a hair;<br>That what you have to do<br>Is take care of yourself; since what are Time<br>And all its griefs to you?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">معنیِ آبِ زندگی و روضهٔ ارم<br>جز طَرفِ جویبار و میِ خوشگوار چیست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The Water of Life, the Garden of Eram –<br>What could these blessings mean<br>But heart-delighting wine that’s poured and drunk<br>Beside some pretty stream?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مستور و مست هر دو چو از یک قبیله‌اند<br>ما دل به عشوهٔ که دهیم؟ اختیار چیست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Since abstinence and drunkenness share one<br>Descent, which has our voice?<br>Which should we give our skittish hearts to now?<br>What could decide our choice?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">راز درونِ پرده چه داند فلک؟ خموش<br>ای مدعی! نزاعِ تو با پرده‌دار چیست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Who knows what lies beyond the veil? And your<br>Long boastful rant before<br>Its chamberlain, what point has that, you fool?<br>Shut up! Not one word more!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">سهو و خطایِ بنده گَرَش اعتبار نیست<br>معنیِ عفو و رحمتِ آمُرزگار چیست؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And if I’ve sinned and strayed, and there’s<br>A reckoning when I die,<br>What is it the Creator’s clemency<br>And mercy signify?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">زاهد شرابِ کوثر و حافظ پیاله خواست<br>تا در میانه خواستهٔ کردگار چیست</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The ascetic longs to drink from Kosar’s stream<br>In paradise’s shade,<br>And Hafez longs for wine; until, between<br>The two, God’s choice is made.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دوش دیدم که ملائک درِ میخانه زدند<br>گِلِ آدم بسرشتَند و به پیمانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">LAST NIGHT I SAW THE ANGELS<br>tapping at the wine-shop’s door,<br>And kneading Adam’s dust,<br>and molding it as cups for wine;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ساکنانِ حرمِ سِتر و عفافِ ملکوت<br>با منِ راه‌نشین، بادهٔ مستانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And, where I sat beside the road,<br>these messengers of heaven<br>Gave me their wine to drink,<br>so that their drunkenness was mine.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">آسمان بارِ امانت نتوانست کشید<br>قرعهٔ کار به نامِ منِ دیوانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The heavens could not bear<br>the heavy trust they had been given,<br>And lots were cast, and crazed<br>Hafez’s name received the sign.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">جنگِ هفتاد و دو ملت همه را عذر بِنه<br>چون ندیدند حقیقت، رهِ افسانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Forgive the seventy-two<br>competing factions – all their tales<br>Mean that the Truth is what<br>they haven’t seen, and can’t define!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">شُکرِ ایزد که میانِ من و او صلح افتاد<br>صوفیان، رقص‌کنان، ساغرِ شکرانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">But I am thankful that there’s peace<br>between Him now, and me;<br>In celebration of our pact<br>the houris drink their wine –</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">آتش آن نیست که از شعلهٔ او خندد شمع<br>آتش آن است که در خرمنِ پروانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And fire is not what gently smiles<br>from candles’ flames, it’s what<br>Annihilates the flocking moths<br>that flutter round His shrine.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">کس چو حافظ نَگُشاد، از رخِ اندیشه نقاب<br>تا سرِ زلفِ سخن را، به قلم شانه زدند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">No one has drawn aside the veil<br>of Thought as Hafez has,<br>Or combed the curls of Speech<br>as his sharp pen has, line by line.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مسلمانان مرا وقتی دلی بود<br>که با وی گفتمی گر مشکلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">MOSLEMS, TIME WAS I HAD A HEART –<br>a good one too,<br>When problems came we’d talk, and I’d<br>know what to do;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">به گِردابی چو می‌افتادم از غم<br>به تدبیرش امیدِ ساحلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And if I tumbled in grief’s whirlpool<br>my heart was sure<br>To give me hope that soon enough<br>I’d reach the shore –</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">دلی همدرد و یاری مصلحت بین<br>که اِستِظهارِ هر اهلِ دلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">A sympathetic, generous heart,<br>a heart prepared<br>To help out any noble soul,<br>a heart that cared.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ز من ضایع شد اندر کویِ جانان<br>چه دامنگیر یا رب منزلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">This heart was lost to me within<br>my lover’s street;<br>God, what a place! – where I succumbed<br>to sweet deceit.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">هنر بی‌عیبِ حِرمان نیست لیکن<br>ز من محروم‌تر کِی سائلی بود؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">There is no faultless art – we all<br>fall short somehow,<br>But what poor beggar’s more deprived<br>than I am now?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">بر این جانِ پریشان رحمت آرید<br>که وقتی کاردانی کاملی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Have pity on this wretched soul<br>and sympathize<br>With one who once upon a time<br>was strong and wise.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مرا تا عشق تعلیمِ سخن کرد<br>حدیثم نکتهٔ هر محفلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Since love has taught me how to talk,<br>each little phrase<br>Of mine is cried up everywhere<br>and showered with praise –</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مگو دیگر که حافظ نکته‌دان است<br>که ما دیدیم و محکم جاهلی بود</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">But don’t call Hafez witty, wise,<br>intelligent;<br>I’ve seen Hafez, I know him well;<br>he’s ignorant.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">بُوَد آیا که درِ میکده‌ها بگشایند؟<br>گره از کارِ فروبستهٔ ما بگشایند؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">PERHAPS, MY HEART, THE WINE-SHOPS’ DOORS<br>will soon be opened wide,<br>And all the cramping knots in which<br>we’re tied will be untied;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اگر از بهرِ دلِ زاهدِ خودبین بستند<br>دل قوی دار که از بهرِ خدا بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And if they’re closed because of one<br>ascetic’s canting pride,<br>Be strong, my heart…because of God<br>this will be rectified.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">به صفایِ دلِ رندانِ صَبوحی‌زدگان<br>بس درِ بسته به مِفْتاحِ دعا بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I swear by revelers’ hearts that those<br>who drink at dawn have pried<br>Apart with prayers so many doors –<br>their prayers were satisfied.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">نامهٔ تَعزیَتِ دختر رَز بِنْویسید<br>تا همه مُغبَچِگان زلفِ دوتا بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Write now the elegy for grape’s<br>fair child, since she has died!<br>And make her mourners weep with such<br>despair it’s blood they’ve cried.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گیسوی چنگ بِبُرّید به مرگِ مِیِ ناب<br>تا حریفان همه خون از مژه‌ها بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Sever the harp’s strings now in grief<br>for wine’s cruel homicide;<br>Likewise the locks of those young boys<br>who served wine at our side.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">درِ میخانه ببستند خدایا مپسند<br>که درِ خانهٔ تزویر و ریا بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">They’ve closed the wine-shops’ doors – ah, God,<br>don’t let them open wide<br>The doors to shops whose wares are cant,<br>pretentiousness, and pride.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">حافظ این خرقه که داری تو ببینی فردا<br>که چه زُنّار ز زیرش به دَغا بگشایند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Hafez, this Sufi cloak you wear,<br>tomorrow it won’t hide<br>The heathen underneath, and all<br>you’ve claimed will be belied.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم غمِ تو دارم گفتا غمَت سرآید<br>گفتم که ماهِ من شو گفتا اگر برآید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I SAID, “THE GRIEF I FEEL IS ALL FOR YOU”;<br>she said, “Your grief will end”;<br>I said, “Be as the moon to me”; she said,<br>“That moon might rise, my friend.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم ز مِهروَرزان رسمِ وفا بیاموز<br>گفتا ز خوب‌رویان این کار کمتر آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “Learn faithfulness from those whose love<br>is trustworthy and true”;<br>She said, “That’s something moon-like pretty girls<br>are rarely known to do.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم که بر خیالت راهِ نظر ببندم<br>گفتا که شب‌رو است او از راهِ دیگر آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “I’ll bind my eyes up, and I’ll keep<br>your image from my sight”;<br>She said, “My image is a thief that moves<br>invisibly by night.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم که بویِ زلفت گمراهِ عالَمَم کرد<br>گفتا اگر بدانی هم اوت رهبر آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “Your curls’ scent has misled my mind,<br>I wander far and wide”;<br>She said, “And when you understand you’ll see<br>that scent is your true guide.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم خوشا هوایی کز بادِ صبح خیزد<br>گفتا خُنُک نسیمی کز کویِ دلبر آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “Happy the scent from beauty’s garden,<br>blowing so fresh and sweet”;<br>She said, “Cool is the breeze that blows on us<br>from the belovèd’s street.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم که نوشِ لَعلَت ما را به آرزو کشت<br>گفتا تو بندگی کن کاو بنده‌پرور آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “Wanting to kiss your ruby lips<br>has all but murdered me”;<br>She said, “Be as a slave, my lips know how<br>to treat slaves lovingly.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم دلِ رحیمت کِی عزمِ صلح دارد؟<br>گفتا مگوی با کس تا وقتِ آن درآید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “When will your generous heart make peace<br>between us – when, my dear?”<br>She said, “Don’t speak of this at all until<br>my heart says peace is here.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گفتم زمانِ عِشرَت دیدی که چون سر آمد؟<br>گفتا خموش حافظ کـاین غصّه هم سر آید</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I said, “And did you see how happiness<br>sped by, and could not last?”<br>She said, “Silence, Hafez; this time of grief<br>will also, soon, have passed.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">اگر شراب خوری جُرعه‌ای فشان بر خاک<br>از آن گناه که نَفعی رسد به غیر، چه باک؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">WHEN YOU DRINK WINE, SPRINKLE<br>A few drops on the ground –<br>What’s there to fear from sin<br>That spreads such joy around?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">برو به هر چه تو داری بخور، دریغ مخور<br>که بی‌دریغ زَنَد روزگار تیغِ هَلاک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Go, drink up all you have,<br>Drink now and don’t delay –<br>Death’s dagger won’t delay<br>Dispatching you one day.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">به خاکِ پایِ تو ای سروِ نازپرورِ من<br>که روزِ واقعه پا وا مَگیرم از سرِ خاک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">My cypress-slender love,<br>By the dust on which you tread,<br>Don’t hesitate to visit<br>My dust when I am dead.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">چه دوزخی، چه بهشتی، چه آدمی، چه پَری<br>به مذهبِ همه کفرِ طریقت است اِمساک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">In heaven or in hell,<br>For angels or for men,<br>In every faith – to hold back<br>Counts as a mortal sin.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مهندسِ فَلَکی، راهِ دِیرِ شش جهتی<br>چنان بِبَست که رَه نیست زیرِ دیرِ مغاک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The Architect of heaven<br>Who gave the world its shape<br>Has sealed its six directions<br>So that there’s no escape.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">فریبِ دخترِ رَز طُرفِه می‌زند رَهِ عقل<br>مباد تا به قیامت خراب طارَمِ تاک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The daughter of the vine<br>Leads Reason all astray –<br>May the vine’s trellis stand<br>Unharmed till Judgment Day!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">به راهِ میکده، حافظ! خوش از جهان رفتی<br>دعایِ اهلِ دلت باد، مونسِ دلِ پاک</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And may your dear friends’ prayers,<br>Hafez, when you depart<br>Via the wine-shop’s door,<br>Accompany your heart.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">نفسِ بادِ صبا مُشک‌فشان خواهد شد<br>عالَمِ پیر دگرباره جوان خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">THE MUSKY MORNING BREEZE<br>Will gently blow again,<br>Once more the old world will<br>Turn young and grow again;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ارغوان جامِ عقیقی به سمن خواهد داد<br>چشمِ نرگس به شقایق نگران خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">White jasmine will take wine<br>From glowing Judas trees,<br>Narcissi fondly glance<br>At shy anemones;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">این تَطاول که کشید از غمِ هجران بلبل<br>تا سراپردهٔ گل نعره‌زنان خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Once more the banished, lovelorn<br>Nightingale will bring<br>His passion to the rose<br>And there sublimely sing;</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گر ز مسجد به خرابات شدم خرده مگیر<br>مجلس وعظ دراز است و زمان خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And if I leave the mosque<br>For wine, don’t sneer at me –<br>Sermons are long, and time<br>Moves on incessantly.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ای دل ار عشرتِ امروز به فردا فکنی<br>مایهٔ نقدِ بقا را که ضَمان خواهد شد؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">My heart, if you postpone<br>Today’s enjoyment, who<br>Will guarantee the cash<br>Of happiness to you?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ماه شعبان مَنِه از دست قدح، کاین خورشید<br>از نظر تا شبِ عیدِ رمضان خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Drink before fasting, drink,<br>Don’t put your glass down yet –<br>Since Ramadan draws near<br>And pleasure’s sun must set.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گل عزیز است غنیمت شِمُریدَش صحبت<br>که به باغ آمد از این راه و از آن خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">How sweet the roses are!<br>Enjoy them now, for they<br>As quickly as they bloomed<br>Will fall and fade away.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مطربا مجلسِ انس است غزل خوان و سرود<br>چند گویی که چنین رفت و چنان خواهد شد؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">We’re all friends here, my boy,<br>Sing love songs! Why should you<br>Sing yet again, “As that<br>Has gone, so this must too”?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">حافظ از بهر تو آمد سویِ اقلیمِ وجود<br>قدمی نِه به وداعش که روان خواهد شد</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">You are why Hafez lives –<br>But now, within your heart,<br>Prepare to say farewell,<br>Since he too must depart.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">رسید مژده که ایّامِ غم نخواهد ماند<br>چنان نماند، چنین نیز هم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">GOOD NEWS! THE DAYS OF GRIEF AND PAIN<br>won’t stay like this –<br>As others went, these won’t remain<br>or stay like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">من ار چه در نظرِ یار خاک‌سار شدم<br>رقیب نیز چنین محترم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Though my belovèd thinks of me<br>as dirt and dust,<br>My rival’s status, and her trust,<br>won’t stay like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">چو پرده‌دار به شمشیر می‌زند همه را<br>کسی مُقیمِ حریمِ حَرَم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And though the doorman wields his sword<br>against us all,<br>No rank remains immutable<br>or stays like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">چه جایِ شُکر و شکایت ز نقشِ نیک و بد است؟<br>چو بر صحیفهٔ هستی رقم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">When good or bad come, why give thanks,<br>and why complain?<br>Since what is written won’t remain<br>or stay like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">سرودِ مجلسِ جمشید گفته‌اند این بود<br>که «جامِ باده بیاور که جم نخواهد ماند»</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">They say when Jamshid reigned, “Bring wine”<br>was his court’s song,<br>“Since even Jamshid won’t live long,<br>or stay like this.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">غنیمتی شِمُر ای شمع وصلِ پروانه!<br>که این معامله تا صبح‌دم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">O candle, prize the moth’s love now<br>and hold it fast –<br>When dawn arrives it cannot last<br>or stay like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">توانگرا! دلِ درویشِ خود به دست آور<br>که مخزنِ زَر و گنجِ دِرَم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And if you’re wealthy help the poor,<br>since, be assured,<br>The gold and silver that you hoard<br>won’t stay like this!</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">بدین رَواقِ زَبَرجَد نوشته‌اند به زر<br>که «جز نکوییِ اهلِ کرم نخواهد ماند»</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">In words of gold they’ve written on<br>the emerald sky,<br>“Only compassion does not die<br>but stays like this.”</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ز مهربانیِ جانان طمع مَبر حافظ<br>که نقشِ جور و نشانِ ستم نخواهد ماند</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Do not despair of love, Hafez;<br>it can’t be true<br>The heartlessness she’s shown to you<br>will stay like this.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گُل در بَر و مِی در کَف و معشوق به کام است<br>سلطانِ جهانم به چُنین روز، غلام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">WINE IN MY GLASS, AND ROSES IN MY ARMS,<br>my lover near me –<br>On such a day the world’s great king would be<br>my slave and fear me.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گو شمع میارید در این جمع که امشب<br>در مجلسِ ما، ماهِ رخِ دوست، تمام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">No need to bring a candle to<br>our meeting place tonight;<br>My friend is there, the full moon of his face<br>will be our light.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">در مذهبِ ما، باده، حلال است ولیکن<br>بی‌رویِ تو ای سَروِ گُل‌اندام، حرام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Though wine in our religion’s not forbidden<br>(never think it!),<br>If you’re not there, my cypress-slender love,<br>how can I drink it?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">گوشم همه بر قولِ نی و نغمهٔ چنگ است<br>چشمم، همه، بر لعلِ لب و گَردشِ جام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">My ears hear only plaintive flute-notes<br>and the harp’s sweet sound;<br>My eyes see only ruby lips<br>and wine-cups going round.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">در مجلسِ ما، عِطر میامیز که ما را<br>هر لحظه، زِ گیسو‌یِ تو، خوش‌بوی مشام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Don’t sprinkle perfume where we meet –<br>the tresses of your hair<br>Each moment spread the fragrance of<br>such sweetness there…</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">از چاشنیِ قند مگو هیچ و زِ شِکَّر<br>زآن رو که مرا از لبِ شیرینِ تو، کام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Don’t talk to me of sugar, or<br>of any food that’s sweet;<br>Sweetness for me is on your lips<br>when your and my lips meet.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">تا گنجِ غمت در دِلِ ویرانه‌، مقیم است<br>همواره مرا کویِ خرابات، مقام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I’ll haunt these ruins while within<br>the ruins of my heart<br>The treasure of my love for you<br>is lodged and won’t depart.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">از ننگ چه گویی که مرا نام ز ننگ است؟<br>وز نام چه پرسی که مرا ننگ ز نام است؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Why do you talk to me of shame – shame<br>has become my name –<br>Or reputation, when my reputation<br>is my shame?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مِی‌خواره و سرگشته و رندیم و نظرباز<br>وآن کس که چو ما نیست در این شهر، کدام است؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">We drink our wine, we flirt, and we’re<br>licentious – yes, but who<br>Is in this city where we live<br>of whom this isn’t true?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">با محتسبم، عیب مگویید که او نیز<br>پیوسته، چو ما در طلبِ عیشِ مدام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">And don’t go to the morals officer<br>to make a fuss –<br>He’s on the constant lookout too for pleasure,<br>just like us.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">حافظ! منشین بی‌مِی و معشوق، زمانی<br>کایَّامِ گُل و یاسمن و عیدِ صیام است</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">This is no time to sit, Hafez,<br>without your wine and lover;<br>Jasmine’s and roses’ days are here,<br>and Ramadan is over.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">حاشا که من به موسمِ گُل تَرکِ مِی کُنم<br>من لافِ عقل می‌زنم، این کار کِی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">AH, GOD FORBID THAT I RELINQUISH WINE<br>When roses are in season;<br>How could I do this when I’m someone who<br>Makes such a show of Reason?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">مطرب کجاست تا همه محصولِ زهد و عِلم<br>در کارِ چنگ و بَربَط و آوازِ نِی کُنَم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Where’s a musician, so that I can give<br>The profit I once found<br>In self-control and knowledge for a flute’s songs,<br>And a lute’s sweet sound?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">از قیل و قالِ مدرسه حالی دلم گرفت<br>یک چند نیز خدمتِ معشوق و مِی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">The endless arguments within the schools –<br>Whatever they might prove –<br>Sickened my heart; I’ll give a little time<br>To wine now, and to love.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">کِی بود در زمانه وفا؟ جامِ مِی بیار<br>تا من حکایتِ جم و کاووسِ کِی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">But when did time keep faith with anyone?<br>Bring wine, and I’ll recall<br>The tales of kings, of Jamshid and Kavus,<br>And how time took them all.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">از نامهٔ سیاه نترسم که روزِ حشر<br>با فیضِ لطفِ او صد از این نامه طِی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I’m not afraid of sins recorded in<br>My name – I’ll roll away<br>A hundred such accounts, by His benevolence<br>And grace, on Judgment Day.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">کو پیک صبح؟ تا گله‌های شبِ فِراق<br>با آن خجسته طالعِ فرخنده پِی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">Where is the shining messenger of dawn<br>That I might now complain<br>To my good fortune’s harbinger of this<br>Long night of lonely pain?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">این جانِ عاریت که به حافظ سپرد دوست<br>روزی رُخش ببینم و تسلیمِ وی کنم</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">This lent soul, that the Friend once gave into<br>Hafez’s care, I’ll place<br>Within His hands again, on that day when<br>I see Him face to face.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">صبا به لُطف بگو آن غزالِ رَعنا را<br>که سَر به کوه و بیابان تو داده‌ای ما را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">MILD BREEZE OF MORNING, GENTLY TELL<br>That errant, elegant gazelle<br>She’s made me wander far and wide<br>About the hills and countryside.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">شِکر فُروش که عُمرَش دراز باد چرا<br>تَفَقُّدی نَکُنَد طوطیِ شِکرخا را؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">My sugar-lipped, sweet girl – oh, may<br>You live forever and a day! –<br>Where is your kindness? Come now, show it<br>To your sweet-talking parrot-poet.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">غرورِ حُسنت اجازَت مَگَر نداد اِی گُل<br>که پُرسِشی نکُنی عَندَلیب شیدا را؟</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">My rose, does vanity restrain you?<br>Does beauty’s arrogance detain you<br>From seeking out this nightingale<br>Who wildly sings, to no avail?</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">به خُلق و لطف توان کرد صیدِ اهلِ نظر<br>به بند و دام نگیرند مرغِ دانا را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">With gentleness and kindness lies<br>The surest way to win the wise,<br>Since birds that have become aware<br>Of ropes and traps are hard to snare.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">ندانم از چه سبب رنگِ آشنایی نیست<br>سَهی‌قَدانِ سیَه‌‌چشمِ ماه‌سیما را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">I don’t know why she isn’t here,<br>Why her tall presence won’t appear,<br>Or why the full moon of her face,<br>And her black eyes, avoid this place.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">چو با حبیب نِشینی و باده پِیمایی<br>به یاد دار مُحِبّانِ بادپیما را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">When you sit safely with your love,<br>Sipping your wine, be mindful of<br>Those struggling lovers who still stray,<br>Wind-tossed, upon their weary way.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">جُز این قَدَر نَتوان گفت در جَمالِ تو عیب<br>که وضع مِهر و وفا نیست رویِ زیبا را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">No fault can be imputed to<br>Your beauty’s excellence, or you,<br>Except that there is not a trace<br>Of truth or kindness in your face.</div>"
+  },
+  {
+   "front": "<div dir=\"rtl\" class=\"fa\">در آسمان نه عجب گَر به گفتهٔ حافظ<br>سُرودِ زُهره به رقص آورد مسیحا را</div>",
+   "back": "<div dir=\"ltr\" class=\"en\">When Hafez speaks, it’s no surprise<br>If Venus dances in the skies<br>And leads across the heavens’ expanse<br>Lord Jesus in the whirling dance.</div>"
+  }
+ ],
+ "css": ".card{font-family:'Iowan Old Style',Palatino,serif;background:#fdfdfb;color:#222;padding:24px;text-align:center}\n.fa{font-family:'Geeza Pro',Tahoma,'Vazirmatn',serif;font-size:26px;line-height:2;color:#1a1a2e}\n.en{font-size:18px;line-height:1.5;color:#333;margin-top:8px}\nhr#answer{margin:18px 0;border:none;border-top:1px solid #ccc}\n"
+}

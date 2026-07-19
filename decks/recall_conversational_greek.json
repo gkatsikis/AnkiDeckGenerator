@@ -1,0 +1,2837 @@
+{
+    "deck_name": "Recall Conversational Greek",
+    "cards": [
+        {
+            "front": "I am",
+            "back": "είμαι (eímai)"
+        },
+        {
+            "front": "you are",
+            "back": "είσαι (eísai)"
+        },
+        {
+            "front": "he/she/it is / they are",
+            "back": "είναι (eínai)"
+        },
+        {
+            "front": "we are",
+            "back": "είμαστε (eímaste)"
+        },
+        {
+            "front": "I have",
+            "back": "έχω (écho)"
+        },
+        {
+            "front": "you have",
+            "back": "έχεις (écheis)"
+        },
+        {
+            "front": "he/she/it has",
+            "back": "έχει (échei)"
+        },
+        {
+            "front": "we have",
+            "back": "έχουμε (échoume)"
+        },
+        {
+            "front": "I want",
+            "back": "θέλω (thélo)"
+        },
+        {
+            "front": "you want",
+            "back": "θέλεις (théleis)"
+        },
+        {
+            "front": "I can",
+            "back": "μπορώ (boró)"
+        },
+        {
+            "front": "you can",
+            "back": "μπορείς (boreís)"
+        },
+        {
+            "front": "I do / I make",
+            "back": "κάνω (káno)"
+        },
+        {
+            "front": "you do / you make",
+            "back": "κάνεις (káneis)"
+        },
+        {
+            "front": "I go",
+            "back": "πάω (páo)"
+        },
+        {
+            "front": "you go",
+            "back": "πας (pas)"
+        },
+        {
+            "front": "we go / let's go",
+            "back": "πάμε (páme)"
+        },
+        {
+            "front": "I know",
+            "back": "ξέρω (xéro)"
+        },
+        {
+            "front": "you know",
+            "back": "ξέρεις (xéreis)"
+        },
+        {
+            "front": "I see",
+            "back": "βλέπω (vlépo)"
+        },
+        {
+            "front": "I hear / I listen",
+            "back": "ακούω (akoúo)"
+        },
+        {
+            "front": "I speak / I talk",
+            "back": "μιλάω (miláo)"
+        },
+        {
+            "front": "I say / I tell",
+            "back": "λέω (léo)"
+        },
+        {
+            "front": "you say",
+            "back": "λες (les)"
+        },
+        {
+            "front": "I eat",
+            "back": "τρώω (tróo)"
+        },
+        {
+            "front": "I drink",
+            "back": "πίνω (píno)"
+        },
+        {
+            "front": "I work",
+            "back": "δουλεύω (doulévo)"
+        },
+        {
+            "front": "I live / I stay",
+            "back": "μένω (méno)"
+        },
+        {
+            "front": "I wait",
+            "back": "περιμένω (periméno)"
+        },
+        {
+            "front": "I understand",
+            "back": "καταλαβαίνω (katalavéno)"
+        },
+        {
+            "front": "I think / I believe",
+            "back": "νομίζω (nomízo)"
+        },
+        {
+            "front": "I believe",
+            "back": "πιστεύω (pistévo)"
+        },
+        {
+            "front": "I love",
+            "back": "αγαπάω (agapáo)"
+        },
+        {
+            "front": "I like (it pleases me)",
+            "back": "μου αρέσει (mou arései)"
+        },
+        {
+            "front": "I need",
+            "back": "χρειάζομαι (chreiázome)"
+        },
+        {
+            "front": "I leave / I depart",
+            "back": "φεύγω (févgo)"
+        },
+        {
+            "front": "I come",
+            "back": "έρχομαι (érchome)"
+        },
+        {
+            "front": "I find",
+            "back": "βρίσκω (vrísko)"
+        },
+        {
+            "front": "I take / I get",
+            "back": "παίρνω (pérno)"
+        },
+        {
+            "front": "I give",
+            "back": "δίνω (díno)"
+        },
+        {
+            "front": "I live (to be alive)",
+            "back": "ζω (zo)"
+        },
+        {
+            "front": "I / me",
+            "back": "εγώ (egó)"
+        },
+        {
+            "front": "you (singular)",
+            "back": "εσύ (esý)"
+        },
+        {
+            "front": "he / him",
+            "back": "αυτός (aftós)"
+        },
+        {
+            "front": "she / her",
+            "back": "αυτή (aftí)"
+        },
+        {
+            "front": "it / this / that",
+            "back": "αυτό (aftó)"
+        },
+        {
+            "front": "we / us",
+            "back": "εμείς (emeís)"
+        },
+        {
+            "front": "they / them (masc.)",
+            "back": "αυτοί (aftoí)"
+        },
+        {
+            "front": "here",
+            "back": "εδώ (edó)"
+        },
+        {
+            "front": "there",
+            "back": "εκεί (ekeí)"
+        },
+        {
+            "front": "now",
+            "back": "τώρα (tóra)"
+        },
+        {
+            "front": "today",
+            "back": "σήμερα (símera)"
+        },
+        {
+            "front": "tomorrow",
+            "back": "αύριο (ávrio)"
+        },
+        {
+            "front": "yesterday",
+            "back": "χθες (chthes)"
+        },
+        {
+            "front": "always",
+            "back": "πάντα (pánda)"
+        },
+        {
+            "front": "never",
+            "back": "ποτέ (poté)"
+        },
+        {
+            "front": "together",
+            "back": "μαζί (mazí)"
+        },
+        {
+            "front": "only / just",
+            "back": "μόνο (móno)"
+        },
+        {
+            "front": "very / a lot",
+            "back": "πολύ (polý)"
+        },
+        {
+            "front": "a little",
+            "back": "λίγο (lígo)"
+        },
+        {
+            "front": "well / good / fine",
+            "back": "καλά (kalá)"
+        },
+        {
+            "front": "good (masc.)",
+            "back": "καλός (kalós)"
+        },
+        {
+            "front": "good (fem.)",
+            "back": "καλή (kalí)"
+        },
+        {
+            "front": "bad",
+            "back": "κακός (kakós)"
+        },
+        {
+            "front": "big / old",
+            "back": "μεγάλος (megálos)"
+        },
+        {
+            "front": "small / young",
+            "back": "μικρός (mikrós)"
+        },
+        {
+            "front": "new / young",
+            "back": "νέος (néos)"
+        },
+        {
+            "front": "old (for things)",
+            "back": "παλιός (paliós)"
+        },
+        {
+            "front": "nice / beautiful / handsome",
+            "back": "ωραίος (oréos)"
+        },
+        {
+            "front": "easy",
+            "back": "εύκολο (éfkolo)"
+        },
+        {
+            "front": "difficult",
+            "back": "δύσκολο (dýskolo)"
+        },
+        {
+            "front": "correct / right",
+            "back": "σωστός (sostós)"
+        },
+        {
+            "front": "wrong / mistake",
+            "back": "λάθος (láthos)"
+        },
+        {
+            "front": "important",
+            "back": "σημαντικό (simandikó)"
+        },
+        {
+            "front": "first",
+            "back": "πρώτος (prótos)"
+        },
+        {
+            "front": "last",
+            "back": "τελευταίος (teleftéos)"
+        },
+        {
+            "front": "near / close",
+            "back": "κοντά (kondá)"
+        },
+        {
+            "front": "far",
+            "back": "μακριά (makriá)"
+        },
+        {
+            "front": "fast / quickly",
+            "back": "γρήγορα (grígora)"
+        },
+        {
+            "front": "slowly / late",
+            "back": "αργά (argá)"
+        },
+        {
+            "front": "water",
+            "back": "νερό (neró)"
+        },
+        {
+            "front": "food",
+            "back": "φαγητό (fagitó)"
+        },
+        {
+            "front": "bread",
+            "back": "ψωμί (psomí)"
+        },
+        {
+            "front": "coffee",
+            "back": "καφές (kafés)"
+        },
+        {
+            "front": "beer",
+            "back": "μπύρα (býra)"
+        },
+        {
+            "front": "wine",
+            "back": "κρασί (krasí)"
+        },
+        {
+            "front": "house / home",
+            "back": "σπίτι (spíti)"
+        },
+        {
+            "front": "road / street",
+            "back": "δρόμος (drómos)"
+        },
+        {
+            "front": "work / job",
+            "back": "δουλειά (douliá)"
+        },
+        {
+            "front": "hour / time",
+            "back": "ώρα (óra)"
+        },
+        {
+            "front": "day",
+            "back": "μέρα (méra)"
+        },
+        {
+            "front": "night",
+            "back": "νύχτα (nýchta)"
+        },
+        {
+            "front": "morning",
+            "back": "πρωί (proí)"
+        },
+        {
+            "front": "evening / night",
+            "back": "βράδυ (vrádi)"
+        },
+        {
+            "front": "friend (masc.)",
+            "back": "φίλος (fílos)"
+        },
+        {
+            "front": "friend (fem.)",
+            "back": "φίλη (fíli)"
+        },
+        {
+            "front": "child / kid",
+            "back": "παιδί (pedí)"
+        },
+        {
+            "front": "person / human",
+            "back": "άνθρωπος (ánthropos)"
+        },
+        {
+            "front": "world / people",
+            "back": "κόσμος (kósmos)"
+        },
+        {
+            "front": "time / year",
+            "back": "χρόνος (chrónos)"
+        },
+        {
+            "front": "money",
+            "back": "λεφτά (leftá)"
+        },
+        {
+            "front": "problem",
+            "back": "πρόβλημα (próvlima)"
+        },
+        {
+            "front": "idea",
+            "back": "ιδέα (idéa)"
+        },
+        {
+            "front": "reason / word",
+            "back": "λόγος (lógos)"
+        },
+        {
+            "front": "topic / issue",
+            "back": "θέμα (théma)"
+        },
+        {
+            "front": "way / manner",
+            "back": "τρόπος (trópos)"
+        },
+        {
+            "front": "hi / bye (informal)",
+            "back": "γεια σου (ya sou)"
+        },
+        {
+            "front": "hello / goodbye (formal/plural)",
+            "back": "γεια σας (ya sas)"
+        },
+        {
+            "front": "good morning",
+            "back": "καλημέρα (kaliméra)"
+        },
+        {
+            "front": "good evening",
+            "back": "καλησπέρα (kalispéra)"
+        },
+        {
+            "front": "good night",
+            "back": "καληνύχτα (kaliníchta)"
+        },
+        {
+            "front": "how are you? (informal)",
+            "back": "τι κάνεις; (ti káneis?)"
+        },
+        {
+            "front": "how are you? (formal/plural)",
+            "back": "τι κάνετε; (ti kánete?)"
+        },
+        {
+            "front": "I'm fine, you?",
+            "back": "καλά είμαι, εσύ; (kalá eímai, esý?)"
+        },
+        {
+            "front": "how are you? (casual)",
+            "back": "πώς είσαι; (pós eísai?)"
+        },
+        {
+            "front": "what's going on? / what's up?",
+            "back": "τι γίνεται; (ti gínetai?)"
+        },
+        {
+            "front": "what's new?",
+            "back": "τι νέα; (ti néa?)"
+        },
+        {
+            "front": "nothing much, you?",
+            "back": "τίποτα, εσύ; (típota, esý?)"
+        },
+        {
+            "front": "thank you",
+            "back": "ευχαριστώ (efcharistó)"
+        },
+        {
+            "front": "thank you very much",
+            "back": "ευχαριστώ πολύ (efcharistó polý)"
+        },
+        {
+            "front": "please / you're welcome",
+            "back": "παρακαλώ (parakaló)"
+        },
+        {
+            "front": "sorry / excuse me",
+            "back": "συγγνώμη (signómi)"
+        },
+        {
+            "front": "nothing / don't mention it",
+            "back": "τίποτα (típota)"
+        },
+        {
+            "front": "okay / alright",
+            "back": "εντάξει (endáxi)"
+        },
+        {
+            "front": "yes",
+            "back": "ναι (ne)"
+        },
+        {
+            "front": "no",
+            "back": "όχι (óchi)"
+        },
+        {
+            "front": "maybe / perhaps",
+            "back": "ίσως (ísos)"
+        },
+        {
+            "front": "of course / certainly",
+            "back": "βέβαια (vévea)"
+        },
+        {
+            "front": "naturally / of course",
+            "back": "φυσικά (fisiká)"
+        },
+        {
+            "front": "surely / for sure",
+            "back": "σίγουρα (sígoura)"
+        },
+        {
+            "front": "exactly",
+            "back": "ακριβώς (akrivós)"
+        },
+        {
+            "front": "it doesn't matter / no worries",
+            "back": "δεν πειράζει (den peirázi)"
+        },
+        {
+            "front": "I don't know",
+            "back": "δεν ξέρω (den xéro)"
+        },
+        {
+            "front": "I don't understand",
+            "back": "δεν καταλαβαίνω (den katalavéno)"
+        },
+        {
+            "front": "I can't",
+            "back": "δεν μπορώ (den boró)"
+        },
+        {
+            "front": "I don't want",
+            "back": "δεν θέλω (den thélo)"
+        },
+        {
+            "front": "I don't have",
+            "back": "δεν έχω (den écho)"
+        },
+        {
+            "front": "where is it?",
+            "back": "πού είναι; (poú eínai?)"
+        },
+        {
+            "front": "what is this?",
+            "back": "τι είναι αυτό; (ti eínai aftó?)"
+        },
+        {
+            "front": "when?",
+            "back": "πότε; (póte?)"
+        },
+        {
+            "front": "why?",
+            "back": "γιατί; (yiatí?)"
+        },
+        {
+            "front": "how much?",
+            "back": "πόσο; (póso?)"
+        },
+        {
+            "front": "how much does it cost?",
+            "back": "πόσο κάνει; (póso kánei?)"
+        },
+        {
+            "front": "who? (masc.)",
+            "back": "ποιος; (piós?)"
+        },
+        {
+            "front": "who? (fem.)",
+            "back": "ποια; (piá?)"
+        },
+        {
+            "front": "how?",
+            "back": "πώς; (pós?)"
+        },
+        {
+            "front": "what's your name?",
+            "back": "πώς σε λένε; (pós se léne?)"
+        },
+        {
+            "front": "my name is...",
+            "back": "με λένε... (me léne...)"
+        },
+        {
+            "front": "where are you from?",
+            "back": "από πού είσαι; (apó poú eísai?)"
+        },
+        {
+            "front": "I'm from...",
+            "back": "είμαι από... (eímai apó...)"
+        },
+        {
+            "front": "where do you live?",
+            "back": "πού μένεις; (poú méneis?)"
+        },
+        {
+            "front": "I live in...",
+            "back": "μένω στην... (méno stin...)"
+        },
+        {
+            "front": "what do you do for work?",
+            "back": "τι δουλειά κάνεις; (ti douliá káneis?)"
+        },
+        {
+            "front": "how long?",
+            "back": "πόσο καιρό; (póso keró?)"
+        },
+        {
+            "front": "I'm glad / pleased",
+            "back": "χαίρομαι (chérome)"
+        },
+        {
+            "front": "nice to meet you",
+            "back": "χαίρω πολύ (chéro polý)"
+        },
+        {
+            "front": "me too",
+            "back": "κι εγώ (ki egó)"
+        },
+        {
+            "front": "nice to meet you too",
+            "back": "κι εγώ χαίρω πολύ (ki egó chéro polý)"
+        },
+        {
+            "front": "how nice! / how lovely!",
+            "back": "τι ωραία! (ti oréa!)"
+        },
+        {
+            "front": "perfect!",
+            "back": "τέλεια! (téleia!)"
+        },
+        {
+            "front": "awesome! / amazing!",
+            "back": "φοβερό! (foveró!)"
+        },
+        {
+            "front": "incredible! / fantastic!",
+            "back": "καταπληκτικό! (katapliktikó!)"
+        },
+        {
+            "front": "very nice",
+            "back": "πολύ ωραία (polý oréa)"
+        },
+        {
+            "front": "super / great",
+            "back": "σούπερ (soúper)"
+        },
+        {
+            "front": "just fine / great",
+            "back": "μια χαρά (mia chará)"
+        },
+        {
+            "front": "so-so",
+            "back": "έτσι κι έτσι (étsi ki étsi)"
+        },
+        {
+            "front": "I'm not well",
+            "back": "δεν είμαι καλά (den eímai kalá)"
+        },
+        {
+            "front": "tired (masc.)",
+            "back": "κουρασμένος (kourasménos)"
+        },
+        {
+            "front": "tired (fem.)",
+            "back": "κουρασμένη (kourasméni)"
+        },
+        {
+            "front": "I'm hungry",
+            "back": "πεινάω (pináo)"
+        },
+        {
+            "front": "I'm thirsty",
+            "back": "διψάω (dipsáo)"
+        },
+        {
+            "front": "I'm cold",
+            "back": "κρυώνω (krióno)"
+        },
+        {
+            "front": "I'm hot / warming up",
+            "back": "ζεσταίνομαι (zesténome)"
+        },
+        {
+            "front": "I'm bored",
+            "back": "βαριέμαι (variéme)"
+        },
+        {
+            "front": "I'm worried",
+            "back": "ανησυχώ (anisichó)"
+        },
+        {
+            "front": "I'm glad to see you",
+            "back": "χαίρομαι που σε βλέπω (chérome pou se vlépo)"
+        },
+        {
+            "front": "I want water",
+            "back": "θέλω νερό (thélo neró)"
+        },
+        {
+            "front": "I want a coffee",
+            "back": "θέλω έναν καφέ (thélo énan kafé)"
+        },
+        {
+            "front": "do you want coffee?",
+            "back": "θέλεις καφέ; (théleis kafé?)"
+        },
+        {
+            "front": "shall we go for coffee?",
+            "back": "πάμε για καφέ; (páme gia kafé?)"
+        },
+        {
+            "front": "shall we go for food?",
+            "back": "πάμε για φαγητό; (páme gia fagitó?)"
+        },
+        {
+            "front": "shall we go for a beer?",
+            "back": "πάμε για μπύρα; (páme gia býra?)"
+        },
+        {
+            "front": "shall we go for a walk?",
+            "back": "πάμε βόλτα; (páme vólta?)"
+        },
+        {
+            "front": "shall we go home?",
+            "back": "πάμε σπίτι; (páme spíti?)"
+        },
+        {
+            "front": "do you want us to go?",
+            "back": "θέλεις να πάμε; (théleis na páme?)"
+        },
+        {
+            "front": "do you want to eat?",
+            "back": "θέλεις να φάμε; (théleis na fáme?)"
+        },
+        {
+            "front": "I want to tell you something",
+            "back": "θέλω να σου πω κάτι (thélo na sou po káti)"
+        },
+        {
+            "front": "can I ask you something?",
+            "back": "μπορώ να σε ρωτήσω κάτι; (boró na se rotíso káti?)"
+        },
+        {
+            "front": "tell me",
+            "back": "πες μου (pes mou)"
+        },
+        {
+            "front": "wait (informal)",
+            "back": "περίμενε (períméne)"
+        },
+        {
+            "front": "wait a moment",
+            "back": "περίμενε λίγο (períméne lígo)"
+        },
+        {
+            "front": "one minute / just a sec",
+            "back": "ένα λεπτό (éna leptó)"
+        },
+        {
+            "front": "come / come on",
+            "back": "έλα (éla)"
+        },
+        {
+            "front": "come here",
+            "back": "έλα εδώ (éla edó)"
+        },
+        {
+            "front": "go (informal imperative)",
+            "back": "πήγαινε (pígene)"
+        },
+        {
+            "front": "look",
+            "back": "κοίτα (kíta)"
+        },
+        {
+            "front": "look here",
+            "back": "κοίτα εδώ (kíta edó)"
+        },
+        {
+            "front": "listen",
+            "back": "άκου (ákou)"
+        },
+        {
+            "front": "listen up / let me tell you",
+            "back": "άκου να δεις (ákou na deis)"
+        },
+        {
+            "front": "be careful / watch out",
+            "back": "πρόσεχε (próseche)"
+        },
+        {
+            "front": "what do you want to do?",
+            "back": "τι θέλεις να κάνεις; (ti théleis na káneis?)"
+        },
+        {
+            "front": "what are we doing tonight?",
+            "back": "τι κάνουμε απόψε; (ti kánoume apópse?)"
+        },
+        {
+            "front": "what time is it?",
+            "back": "τι ώρα είναι; (ti óra eínai?)"
+        },
+        {
+            "front": "what time do you want?",
+            "back": "τι ώρα θέλεις; (ti óra théleis?)"
+        },
+        {
+            "front": "where are we going?",
+            "back": "πού πάμε; (poú páme?)"
+        },
+        {
+            "front": "how do we get there?",
+            "back": "πώς πάμε; (pós páme?)"
+        },
+        {
+            "front": "is it nearby?",
+            "back": "είναι κοντά; (eínai kondá?)"
+        },
+        {
+            "front": "is it far?",
+            "back": "είναι μακριά; (eínai makriá?)"
+        },
+        {
+            "front": "I don't know where it is",
+            "back": "δεν ξέρω πού είναι (den xéro poú eínai)"
+        },
+        {
+            "front": "do you know where it is?",
+            "back": "ξέρεις πού είναι; (xéreis poú eínai?)"
+        },
+        {
+            "front": "how long does it take?",
+            "back": "πόση ώρα θέλει; (pósi óra thélei?)"
+        },
+        {
+            "front": "I like it a lot",
+            "back": "μου αρέσει πολύ (mou arései polý)"
+        },
+        {
+            "front": "I don't like it",
+            "back": "δεν μου αρέσει (den mou arései)"
+        },
+        {
+            "front": "I like Greece",
+            "back": "μου αρέσει η Ελλάδα (mou arései i Elláda)"
+        },
+        {
+            "front": "I like the food",
+            "back": "μου αρέσει το φαγητό (mou arései to fagitó)"
+        },
+        {
+            "front": "I like the music",
+            "back": "μου αρέσει η μουσική (mou arései i mousikí)"
+        },
+        {
+            "front": "I like the sea",
+            "back": "μου αρέσει η θάλασσα (mou arései i thálassa)"
+        },
+        {
+            "front": "do you like it?",
+            "back": "σου αρέσει; (sou arései?)"
+        },
+        {
+            "front": "what do you like?",
+            "back": "τι σου αρέσει; (ti sou arései?)"
+        },
+        {
+            "front": "I think so",
+            "back": "νομίζω ότι ναι (nomízo óti ne)"
+        },
+        {
+            "front": "I don't think so",
+            "back": "νομίζω ότι όχι (nomízo óti óchi)"
+        },
+        {
+            "front": "I think you're right",
+            "back": "νομίζω ότι έχεις δίκιο (nomízo óti écheis díkio)"
+        },
+        {
+            "front": "you're right",
+            "back": "έχεις δίκιο (écheis díkio)"
+        },
+        {
+            "front": "you're wrong",
+            "back": "δεν έχεις δίκιο (den écheis díkio)"
+        },
+        {
+            "front": "seriously?",
+            "back": "σοβαρά; (sovará?)"
+        },
+        {
+            "front": "really? / for real?",
+            "back": "αλήθεια; (alítheia?)"
+        },
+        {
+            "front": "are you serious?",
+            "back": "σοβαρά μιλάς; (sovará milás?)"
+        },
+        {
+            "front": "I don't believe it / no way",
+            "back": "δεν το πιστεύω (den to pistévo)"
+        },
+        {
+            "front": "sea",
+            "back": "θάλασσα (thálassa)"
+        },
+        {
+            "front": "beach",
+            "back": "παραλία (paralía)"
+        },
+        {
+            "front": "sun",
+            "back": "ήλιος (ílios)"
+        },
+        {
+            "front": "sky",
+            "back": "ουρανός (ouranós)"
+        },
+        {
+            "front": "mountain",
+            "back": "βουνό (vounó)"
+        },
+        {
+            "front": "island",
+            "back": "νησί (nisí)"
+        },
+        {
+            "front": "village",
+            "back": "χωριό (chorió)"
+        },
+        {
+            "front": "city",
+            "back": "πόλη (póli)"
+        },
+        {
+            "front": "square / plaza",
+            "back": "πλατεία (platéia)"
+        },
+        {
+            "front": "church",
+            "back": "εκκλησία (eklisía)"
+        },
+        {
+            "front": "market",
+            "back": "αγορά (agorá)"
+        },
+        {
+            "front": "taverna / restaurant",
+            "back": "ταβέρνα (tavérna)"
+        },
+        {
+            "front": "traditional coffeehouse",
+            "back": "καφενείο (kafenéio)"
+        },
+        {
+            "front": "bakery / oven",
+            "back": "φούρνος (foúrnos)"
+        },
+        {
+            "front": "supermarket",
+            "back": "σουπερμάρκετ (soupermarket)"
+        },
+        {
+            "front": "pharmacy",
+            "back": "φαρμακείο (farmakéio)"
+        },
+        {
+            "front": "hospital",
+            "back": "νοσοκομείο (nosokoméio)"
+        },
+        {
+            "front": "airport",
+            "back": "αεροδρόμιο (aerodrómio)"
+        },
+        {
+            "front": "port / harbor",
+            "back": "λιμάνι (limáni)"
+        },
+        {
+            "front": "stop (bus stop etc.)",
+            "back": "στάση (stási)"
+        },
+        {
+            "front": "I'm going to work",
+            "back": "πάω στη δουλειά (páo sti douliá)"
+        },
+        {
+            "front": "I'm going home",
+            "back": "πάω σπίτι (páo spíti)"
+        },
+        {
+            "front": "I'm going to the market",
+            "back": "πάω στην αγορά (páo stin agorá)"
+        },
+        {
+            "front": "I live nearby",
+            "back": "μένω εδώ κοντά (méno edó kondá)"
+        },
+        {
+            "front": "I work a lot",
+            "back": "δουλεύω πολύ (doulévo polý)"
+        },
+        {
+            "front": "I finished work",
+            "back": "τελείωσα τη δουλειά (teleíosa ti douliá)"
+        },
+        {
+            "front": "I'm not working today",
+            "back": "σήμερα δεν δουλεύω (símera den doulévo)"
+        },
+        {
+            "front": "I work tomorrow",
+            "back": "αύριο δουλεύω (ávrio doulévo)"
+        },
+        {
+            "front": "I'm at home",
+            "back": "είμαι στο σπίτι (eímai sto spíti)"
+        },
+        {
+            "front": "I'm at work",
+            "back": "είμαι στη δουλειά (eímai sti douliá)"
+        },
+        {
+            "front": "I'm eating food",
+            "back": "τρώω φαγητό (tróo fagitó)"
+        },
+        {
+            "front": "I'm drinking coffee",
+            "back": "πίνω καφέ (píno kafé)"
+        },
+        {
+            "front": "I'm drinking water",
+            "back": "πίνω νερό (píno neró)"
+        },
+        {
+            "front": "I'm drinking wine",
+            "back": "πίνω κρασί (píno krasí)"
+        },
+        {
+            "front": "what shall we eat?",
+            "back": "τι θα φάμε; (ti tha fáme?)"
+        },
+        {
+            "front": "what will you drink?",
+            "back": "τι θα πιείς; (ti tha piéis?)"
+        },
+        {
+            "front": "I'll have... (ordering)",
+            "back": "θα πάρω... (tha páro...)"
+        },
+        {
+            "front": "I would like...",
+            "back": "θα ήθελα... (tha íthela...)"
+        },
+        {
+            "front": "the bill, please",
+            "back": "τον λογαριασμό, παρακαλώ (ton logariasmó, parakaló)"
+        },
+        {
+            "front": "separate or together? (paying)",
+            "back": "χωριστά ή μαζί; (choristá í mazí?)"
+        },
+        {
+            "front": "it's my treat / I'm buying",
+            "back": "κεράσω εγώ (keráso egó)"
+        },
+        {
+            "front": "cheers! / to your health!",
+            "back": "στην υγεία σου! (stin igiá sou!)"
+        },
+        {
+            "front": "cheers! / to our health!",
+            "back": "στην υγεία μας! (stin igiá mas!)"
+        },
+        {
+            "front": "bon appétit! / enjoy your meal!",
+            "back": "καλή όρεξη! (kalí órexi!)"
+        },
+        {
+            "front": "it was very tasty",
+            "back": "ήταν πολύ νόστιμο (ítan polý nóstimo)"
+        },
+        {
+            "front": "delicious!",
+            "back": "νόστιμο! (nóstimo!)"
+        },
+        {
+            "front": "what do you recommend?",
+            "back": "τι μου προτείνεις; (ti mou protéineis?)"
+        },
+        {
+            "front": "do you speak Greek?",
+            "back": "μιλάς ελληνικά; (milás elliniká?)"
+        },
+        {
+            "front": "I speak a little Greek",
+            "back": "μιλάω λίγο ελληνικά (miláo lígo elliniká)"
+        },
+        {
+            "front": "I'm learning Greek",
+            "back": "μαθαίνω ελληνικά (mathéno elliniká)"
+        },
+        {
+            "front": "your Greek is very good",
+            "back": "τα ελληνικά σου είναι πολύ καλά (ta elliniká sou eínai polý kalá)"
+        },
+        {
+            "front": "you speak very fast",
+            "back": "μιλάς πολύ γρήγορα (milás polý grígora)"
+        },
+        {
+            "front": "can you speak more slowly?",
+            "back": "μπορείς να μιλάς πιο αργά; (boreís na milás pio argá?)"
+        },
+        {
+            "front": "what do you call this?",
+            "back": "πώς το λένε αυτό; (pós to léne aftó?)"
+        },
+        {
+            "front": "what does this mean?",
+            "back": "τι σημαίνει αυτό; (ti siméni aftó?)"
+        },
+        {
+            "front": "how do we say... in Greek?",
+            "back": "πώς λέμε... στα ελληνικά; (pós léme... sta elliniká?)"
+        },
+        {
+            "front": "can you repeat that?",
+            "back": "μπορείς να το επαναλάβεις; (boreís na to epanaláveis?)"
+        },
+        {
+            "front": "I didn't understand",
+            "back": "δεν κατάλαβα (den katálava)"
+        },
+        {
+            "front": "I understood / I got it",
+            "back": "κατάλαβα (katálava)"
+        },
+        {
+            "front": "how's work going?",
+            "back": "πώς πάει η δουλειά; (pós páei i douliá?)"
+        },
+        {
+            "front": "how was it? / did you have a good time?",
+            "back": "πώς πέρασες; (pós pérases?)"
+        },
+        {
+            "front": "I had a great time",
+            "back": "πέρασα πολύ ωραία (pérasa polý oréa)"
+        },
+        {
+            "front": "what did you do today?",
+            "back": "τι έκανες σήμερα; (ti ékanes símera?)"
+        },
+        {
+            "front": "what will you do tomorrow?",
+            "back": "τι θα κάνεις αύριο; (ti tha káneis ávrio?)"
+        },
+        {
+            "front": "what will you do this weekend?",
+            "back": "τι θα κάνεις το Σαββατοκύριακο; (ti tha káneis to Savatokýriako?)"
+        },
+        {
+            "front": "weekend",
+            "back": "Σαββατοκύριακο (Savatokýriako)"
+        },
+        {
+            "front": "a walk / a stroll / going out",
+            "back": "βόλτα (vólta)"
+        },
+        {
+            "front": "I'm going for a walk / going out",
+            "back": "πάω βόλτα (páo vólta)"
+        },
+        {
+            "front": "I go out",
+            "back": "βγαίνω (vgéno)"
+        },
+        {
+            "front": "are we going out tonight?",
+            "back": "βγαίνουμε απόψε; (vgénoume apópse?)"
+        },
+        {
+            "front": "tonight",
+            "back": "απόψε (apópse)"
+        },
+        {
+            "front": "the day after tomorrow",
+            "back": "μεθαύριο (methávrio)"
+        },
+        {
+            "front": "the day before yesterday",
+            "back": "προχθές (prochthés)"
+        },
+        {
+            "front": "every day",
+            "back": "κάθε μέρα (káthe méra)"
+        },
+        {
+            "front": "every evening",
+            "back": "κάθε βράδυ (káthe vrádi)"
+        },
+        {
+            "front": "at some point / someday",
+            "back": "κάποια στιγμή (kápoia stigmí)"
+        },
+        {
+            "front": "that's it / this is it",
+            "back": "αυτό είναι (aftó eínai)"
+        },
+        {
+            "front": "it's nothing",
+            "back": "δεν είναι τίποτα (den eínai típota)"
+        },
+        {
+            "front": "it's not easy",
+            "back": "δεν είναι εύκολο (den eínai éfkolo)"
+        },
+        {
+            "front": "it's difficult",
+            "back": "είναι δύσκολο (eínai dýskolo)"
+        },
+        {
+            "front": "it's not difficult",
+            "back": "δεν είναι δύσκολο (den eínai dýskolo)"
+        },
+        {
+            "front": "it's not a problem / no problem",
+            "back": "δεν είναι πρόβλημα (den eínai próvlima)"
+        },
+        {
+            "front": "it's true",
+            "back": "είναι αλήθεια (eínai alítheia)"
+        },
+        {
+            "front": "it's not true",
+            "back": "δεν είναι αλήθεια (den eínai alítheia)"
+        },
+        {
+            "front": "that's what I know / that's all I know",
+            "back": "αυτό ξέρω (aftó xéro)"
+        },
+        {
+            "front": "I'm telling the truth",
+            "back": "λέω αλήθεια (léo alítheia)"
+        },
+        {
+            "front": "what do you say? / what do you think?",
+            "back": "τι λες; (ti les?)"
+        },
+        {
+            "front": "what can we do? / what can you do",
+            "back": "τι να κάνουμε; (ti na kánoume?)"
+        },
+        {
+            "front": "what can I say?",
+            "back": "τι να πω; (ti na po?)"
+        },
+        {
+            "front": "I don't know what to say",
+            "back": "δεν ξέρω τι να πω (den xéro ti na po)"
+        },
+        {
+            "front": "I don't know what to do",
+            "back": "δεν ξέρω τι να κάνω (den xéro ti na káno)"
+        },
+        {
+            "front": "let's say / for example",
+            "back": "ας πούμε (as poúme)"
+        },
+        {
+            "front": "that is to say / meaning / so",
+            "back": "δηλαδή (diladí)"
+        },
+        {
+            "front": "anyway / in any case",
+            "back": "τελοσπάντων (telospándon)"
+        },
+        {
+            "front": "in any case (slightly formal)",
+            "back": "εν πάση περιπτώσει (en pási periptósei)"
+        },
+        {
+            "front": "generally / in general",
+            "back": "γενικά (geniká)"
+        },
+        {
+            "front": "especially / specifically",
+            "back": "ειδικά (eidiká)"
+        },
+        {
+            "front": "mainly / mostly",
+            "back": "κυρίως (kiríos)"
+        },
+        {
+            "front": "must / have to / should",
+            "back": "πρέπει (prépei)"
+        },
+        {
+            "front": "I have to go",
+            "back": "πρέπει να πάω (prépei na páo)"
+        },
+        {
+            "front": "I have to leave",
+            "back": "πρέπει να φύγω (prépei na fýgo)"
+        },
+        {
+            "front": "I have to work",
+            "back": "πρέπει να δουλέψω (prépei na doulepso)"
+        },
+        {
+            "front": "I need to sleep",
+            "back": "πρέπει να κοιμηθώ (prépei na koimitho)"
+        },
+        {
+            "front": "can you help me?",
+            "back": "μπορείς να με βοηθήσεις; (boreís na me voithíseis?)"
+        },
+        {
+            "front": "can we talk?",
+            "back": "μπορούμε να μιλήσουμε; (boroúme na milísoume?)"
+        },
+        {
+            "front": "I want to talk with you",
+            "back": "θέλω να μιλήσω μαζί σου (thélo na milíso mazí sou)"
+        },
+        {
+            "front": "I'll call you (on the phone)",
+            "back": "θα σε πάρω τηλέφωνο (tha se páro tiléfono)"
+        },
+        {
+            "front": "I'll send you a message",
+            "back": "θα σου στείλω μήνυμα (tha sou steílo mínima)"
+        },
+        {
+            "front": "message",
+            "back": "μήνυμα (mínima)"
+        },
+        {
+            "front": "phone / telephone",
+            "back": "τηλέφωνο (tiléfono)"
+        },
+        {
+            "front": "mobile phone",
+            "back": "κινητό (kinitó)"
+        },
+        {
+            "front": "send me (a text/message)",
+            "back": "στείλε μου (steíle mou)"
+        },
+        {
+            "front": "call me",
+            "back": "πάρε με (páre me)"
+        },
+        {
+            "front": "where is the bathroom?",
+            "back": "πού είναι η τουαλέτα; (poú eínai i toualéta?)"
+        },
+        {
+            "front": "where is the bus stop?",
+            "back": "πού είναι η στάση; (poú eínai i stási?)"
+        },
+        {
+            "front": "where is the pharmacy?",
+            "back": "πού είναι το φαρμακείο; (poú eínai to farmakéio?)"
+        },
+        {
+            "front": "straight ahead",
+            "back": "ευθεία (efthéia)"
+        },
+        {
+            "front": "right",
+            "back": "δεξιά (dexiá)"
+        },
+        {
+            "front": "left",
+            "back": "αριστερά (aristerá)"
+        },
+        {
+            "front": "turn right",
+            "back": "στρίψε δεξιά (strípse dexiá)"
+        },
+        {
+            "front": "turn left",
+            "back": "στρίψε αριστερά (strípse aristerá)"
+        },
+        {
+            "front": "go straight ahead",
+            "back": "προχώρα ευθεία (prochóra efthéia)"
+        },
+        {
+            "front": "it's nearby / it's around here",
+            "back": "είναι εδώ κοντά (eínai edó kondá)"
+        },
+        {
+            "front": "take the bus",
+            "back": "πάρε το λεωφορείο (páre to leoforío)"
+        },
+        {
+            "front": "bus",
+            "back": "λεωφορείο (leoforío)"
+        },
+        {
+            "front": "taxi",
+            "back": "ταξί (taxí)"
+        },
+        {
+            "front": "metro / subway",
+            "back": "μετρό (metró)"
+        },
+        {
+            "front": "ship / ferry",
+            "back": "πλοίο (plóio)"
+        },
+        {
+            "front": "airplane",
+            "back": "αεροπλάνο (aeropláno)"
+        },
+        {
+            "front": "bring me...",
+            "back": "φέρε μου... (fére mou...)"
+        },
+        {
+            "front": "give me...",
+            "back": "δώσε μου... (dóse mou...)"
+        },
+        {
+            "front": "give me a little time",
+            "back": "δώσε μου λίγο χρόνο (dóse mou lígo chróno)"
+        },
+        {
+            "front": "do me a favor",
+            "back": "κάνε μου μια χάρη (káne mou mia chári)"
+        },
+        {
+            "front": "can I help you?",
+            "back": "μπορώ να σε βοηθήσω; (boró na se voithíso?)"
+        },
+        {
+            "front": "it's not necessary / no need",
+            "back": "δεν χρειάζεται (den chreiázetai)"
+        },
+        {
+            "front": "enough",
+            "back": "αρκετά (arketá)"
+        },
+        {
+            "front": "that's enough / it suffices",
+            "back": "φτάνει (ftánei)"
+        },
+        {
+            "front": "it's okay, that's enough",
+            "back": "δεν πειράζει, φτάνει (den peirázi, ftánei)"
+        },
+        {
+            "front": "slowly slowly / take it easy",
+            "back": "σιγά σιγά (sigá sigá)"
+        },
+        {
+            "front": "immediately / right away",
+            "back": "αμέσως (amésos)"
+        },
+        {
+            "front": "for (time duration) / since...",
+            "back": "εδώ και... (edó ke...)"
+        },
+        {
+            "front": "for three months",
+            "back": "εδώ και τρεις μήνες (edó ke treis mínes)"
+        },
+        {
+            "front": "month",
+            "back": "μήνας (mínas)"
+        },
+        {
+            "front": "week",
+            "back": "εβδομάδα (evdomáda)"
+        },
+        {
+            "front": "so / well then",
+            "back": "λοιπόν (lipón)"
+        },
+        {
+            "front": "and",
+            "back": "και (ke)"
+        },
+        {
+            "front": "but",
+            "back": "αλλά (alá)"
+        },
+        {
+            "front": "or",
+            "back": "ή (í)"
+        },
+        {
+            "front": "because / why",
+            "back": "γιατί (yiatí)"
+        },
+        {
+            "front": "because (causal)",
+            "back": "επειδή (epidí)"
+        },
+        {
+            "front": "if",
+            "back": "αν (an)"
+        },
+        {
+            "front": "when",
+            "back": "όταν (ótan)"
+        },
+        {
+            "front": "after / then",
+            "back": "μετά (metá)"
+        },
+        {
+            "front": "before",
+            "back": "πριν (prin)"
+        },
+        {
+            "front": "while / whereas",
+            "back": "ενώ (enó)"
+        },
+        {
+            "front": "until",
+            "back": "μέχρι (méchri)"
+        },
+        {
+            "front": "like / as",
+            "back": "σαν (san)"
+        },
+        {
+            "front": "for / about",
+            "back": "για (gia)"
+        },
+        {
+            "front": "from / since",
+            "back": "από (apó)"
+        },
+        {
+            "front": "with",
+            "back": "με (me)"
+        },
+        {
+            "front": "without",
+            "back": "χωρίς (chorís)"
+        },
+        {
+            "front": "except / unless",
+            "back": "εκτός (ektós)"
+        },
+        {
+            "front": "he/she came",
+            "back": "ήρθε (írthe)"
+        },
+        {
+            "front": "he/she left",
+            "back": "έφυγε (éfige)"
+        },
+        {
+            "front": "I went",
+            "back": "πήγα (píga)"
+        },
+        {
+            "front": "I came",
+            "back": "ήρθα (írtha)"
+        },
+        {
+            "front": "I saw",
+            "back": "είδα (eída)"
+        },
+        {
+            "front": "I said",
+            "back": "είπα (eípa)"
+        },
+        {
+            "front": "I ate",
+            "back": "έφαγα (éfaga)"
+        },
+        {
+            "front": "I drank",
+            "back": "ήπια (ípia)"
+        },
+        {
+            "front": "look what happened",
+            "back": "κοίταξε τι έγινε (kítaxe ti égine)"
+        },
+        {
+            "front": "what happened?",
+            "back": "τι έγινε; (ti égine?)"
+        },
+        {
+            "front": "nothing happened",
+            "back": "δεν έγινε τίποτα (den égine típota)"
+        },
+        {
+            "front": "how did that happen?",
+            "back": "πώς έγινε αυτό; (pós égine aftó?)"
+        },
+        {
+            "front": "where were you?",
+            "back": "πού ήσουν; (poú ísoun?)"
+        },
+        {
+            "front": "I was here",
+            "back": "ήμουν εδώ (ímoun edó)"
+        },
+        {
+            "front": "I was at home",
+            "back": "ήμουν στο σπίτι (ímoun sto spíti)"
+        },
+        {
+            "front": "I forgot",
+            "back": "ξέχασα (xéchasa)"
+        },
+        {
+            "front": "I remember",
+            "back": "θυμάμαι (thimáme)"
+        },
+        {
+            "front": "do you remember?",
+            "back": "θυμάσαι; (thimáse?)"
+        },
+        {
+            "front": "I miss you",
+            "back": "μου λείπεις (mou leípeis)"
+        },
+        {
+            "front": "I miss Greece",
+            "back": "μου λείπει η Ελλάδα (mou leípei i Elláda)"
+        },
+        {
+            "front": "I'm thinking of you",
+            "back": "σε σκέφτομαι (se skéftome)"
+        },
+        {
+            "front": "I love you",
+            "back": "σ' αγαπάω (s'agapáo)"
+        },
+        {
+            "front": "I like you",
+            "back": "μου αρέσεις (mou aréseis)"
+        },
+        {
+            "front": "I like you a lot",
+            "back": "μου αρέσεις πολύ (mou aréseis polý)"
+        },
+        {
+            "front": "I want you",
+            "back": "σε θέλω (se thélo)"
+        },
+        {
+            "front": "with you",
+            "back": "μαζί σου (mazí sou)"
+        },
+        {
+            "front": "I want to be with you",
+            "back": "θέλω να είμαι μαζί σου (thélo na eímai mazí sou)"
+        },
+        {
+            "front": "without you",
+            "back": "χωρίς εσένα (chorís eséna)"
+        },
+        {
+            "front": "you're beautiful (to a woman)",
+            "back": "είσαι όμορφη (eísai ómorfi)"
+        },
+        {
+            "front": "you're handsome (to a man)",
+            "back": "είσαι όμορφος (eísai ómorfos)"
+        },
+        {
+            "front": "a kiss",
+            "back": "φιλί (filí)"
+        },
+        {
+            "front": "a hug / an embrace",
+            "back": "αγκαλιά (ankaliá)"
+        },
+        {
+            "front": "there's no reason",
+            "back": "δεν υπάρχει λόγος (den ipárchei lógos)"
+        },
+        {
+            "front": "there's no problem",
+            "back": "δεν υπάρχει πρόβλημα (den ipárchei próvlima)"
+        },
+        {
+            "front": "there's an issue",
+            "back": "υπάρχει θέμα (ipárchei théma)"
+        },
+        {
+            "front": "what kind of way is that? (disapproval)",
+            "back": "τι τρόπος είναι αυτός; (ti trópos eínai aftós?)"
+        },
+        {
+            "front": "I have no idea",
+            "back": "δεν έχω ιδέα (den écho idéa)"
+        },
+        {
+            "front": "I don't have time",
+            "back": "δεν έχω χρόνο (den écho chróno)"
+        },
+        {
+            "front": "I don't have money",
+            "back": "δεν έχω λεφτά (den écho leftá)"
+        },
+        {
+            "front": "I have time",
+            "back": "έχω χρόνο (écho chróno)"
+        },
+        {
+            "front": "I have an idea",
+            "back": "έχω μια ιδέα (écho mia idéa)"
+        },
+        {
+            "front": "it's a nice day",
+            "back": "είναι ωραία μέρα (eínai oréa méra)"
+        },
+        {
+            "front": "it's cold (weather)",
+            "back": "κάνει κρύο (kánei krýo)"
+        },
+        {
+            "front": "it's hot (weather)",
+            "back": "κάνει ζέστη (kánei zésti)"
+        },
+        {
+            "front": "it's raining",
+            "back": "βρέχει (vréchei)"
+        },
+        {
+            "front": "what's the weather like?",
+            "back": "τι καιρό κάνει; (ti keró kánei?)"
+        },
+        {
+            "front": "it seems / it appears",
+            "back": "φαίνεται (fénete)"
+        },
+        {
+            "front": "it seems that...",
+            "back": "φαίνεται ότι... (fénete óti...)"
+        },
+        {
+            "front": "it looks like / it resembles",
+            "back": "μοιάζει (miázi)"
+        },
+        {
+            "front": "that sounds good",
+            "back": "ακούγεται καλό (akoúyete kaló)"
+        },
+        {
+            "front": "that sounds nice",
+            "back": "ακούγεται ωραίο (akoúyete oréo)"
+        },
+        {
+            "front": "that doesn't sound good",
+            "back": "δεν ακούγεται καλό (den akoúyete kaló)"
+        },
+        {
+            "front": "it depends",
+            "back": "εξαρτάται (exartáte)"
+        },
+        {
+            "front": "it's worth it",
+            "back": "αξίζει (axízi)"
+        },
+        {
+            "front": "it's not worth it",
+            "back": "δεν αξίζει (den axízi)"
+        },
+        {
+            "front": "does it matter? / do you mind?",
+            "back": "πειράζει; (peirázi?)"
+        },
+        {
+            "front": "well done! / bravo!",
+            "back": "μπράβο! (brávo!)"
+        },
+        {
+            "front": "oh! / ugh!",
+            "back": "ωχ! (och!)"
+        },
+        {
+            "front": "wow! / oh my!",
+            "back": "πω πω! (po po!)"
+        },
+        {
+            "front": "I wish / if only",
+            "back": "μακάρι (makári)"
+        },
+        {
+            "front": "I hope",
+            "back": "ελπίζω (elpízo)"
+        },
+        {
+            "front": "I hope it goes well",
+            "back": "ελπίζω να πάει καλά (elpízo na páei kalá)"
+        },
+        {
+            "front": "good luck!",
+            "back": "καλή τύχη! (kalí týchi!)"
+        },
+        {
+            "front": "talk to you later / see you",
+            "back": "τα λέμε (ta léme)"
+        },
+        {
+            "front": "talk to you tomorrow",
+            "back": "τα λέμε αύριο (ta léme ávrio)"
+        },
+        {
+            "front": "talk to you later",
+            "back": "τα λέμε αργότερα (ta léme argótera)"
+        },
+        {
+            "front": "later",
+            "back": "αργότερα (argótera)"
+        },
+        {
+            "front": "we'll talk / see you around",
+            "back": "θα τα πούμε (tha ta poúme)"
+        },
+        {
+            "front": "I'll see you tomorrow",
+            "back": "θα σε δω αύριο (tha se do ávrio)"
+        },
+        {
+            "front": "get well soon",
+            "back": "περαστικά (perastiká)"
+        },
+        {
+            "front": "happy birthday / happy name day / many years!",
+            "back": "χρόνια πολλά! (chrónia pollá!)"
+        },
+        {
+            "front": "happy new year!",
+            "back": "καλή χρονιά! (kalí chroniá!)"
+        },
+        {
+            "front": "have a good trip!",
+            "back": "καλό ταξίδι! (kaló taxídi!)"
+        },
+        {
+            "front": "have fun!",
+            "back": "καλή διασκέδαση! (kalí diaskédasi!)"
+        },
+        {
+            "front": "take care / be careful",
+            "back": "να προσέχεις (na prosécheis)"
+        },
+        {
+            "front": "kisses (to close a message/call)",
+            "back": "φιλιά (filiá)"
+        },
+        {
+            "front": "laughter / laugh",
+            "back": "γέλιο (gélio)"
+        },
+        {
+            "front": "I laugh",
+            "back": "γελάω (geláo)"
+        },
+        {
+            "front": "smile",
+            "back": "χαμόγελο (chamógelo)"
+        },
+        {
+            "front": "I smile",
+            "back": "χαμογελάω (chamogeláo)"
+        },
+        {
+            "front": "I cry",
+            "back": "κλαίω (kléo)"
+        },
+        {
+            "front": "I'm afraid",
+            "back": "φοβάμαι (fováme)"
+        },
+        {
+            "front": "I get angry / annoyed",
+            "back": "νευριάζω (nevriázo)"
+        },
+        {
+            "front": "joy / happiness",
+            "back": "χαρά (chará)"
+        },
+        {
+            "front": "sadness / sorrow",
+            "back": "λύπη (lýpi)"
+        },
+        {
+            "front": "anger",
+            "back": "θυμός (thimós)"
+        },
+        {
+            "front": "fear",
+            "back": "φόβος (fóvos)"
+        },
+        {
+            "front": "calm / tranquility",
+            "back": "ηρεμία (iremía)"
+        },
+        {
+            "front": "you make me laugh",
+            "back": "με κάνεις να γελάω (me káneis na geláo)"
+        },
+        {
+            "front": "why are you laughing?",
+            "back": "γιατί γελάς; (yiatí gelás?)"
+        },
+        {
+            "front": "don't be afraid",
+            "back": "μη φοβάσαι (mi fováse)"
+        },
+        {
+            "front": "don't get angry",
+            "back": "μη νευριάζεις (mi nevriázeis)"
+        },
+        {
+            "front": "relax / chill out",
+            "back": "χαλάρωσε (chalárose)"
+        },
+        {
+            "front": "calm down",
+            "back": "ηρέμησε (irémise)"
+        },
+        {
+            "front": "what's bothering you? / what's wrong?",
+            "back": "τι σου φταίει; (ti sou ftéi?)"
+        },
+        {
+            "front": "you have every right to be upset",
+            "back": "έχεις δίκιο να νευριάζεις (écheis díkio na nevriázeis)"
+        },
+        {
+            "front": "you shouldn't worry",
+            "back": "δεν πρέπει να ανησυχείς (den prépei na anisichéis)"
+        },
+        {
+            "front": "I begin / I start",
+            "back": "αρχίζω (archízo)"
+        },
+        {
+            "front": "I finish",
+            "back": "τελειώνω (telióno)"
+        },
+        {
+            "front": "I continue",
+            "back": "συνεχίζω (sinechízo)"
+        },
+        {
+            "front": "I stop",
+            "back": "σταματάω (stamatáo)"
+        },
+        {
+            "front": "I change",
+            "back": "αλλάζω (alázo)"
+        },
+        {
+            "front": "I return / I turn",
+            "back": "γυρίζω (girízo)"
+        },
+        {
+            "front": "I search / I look for",
+            "back": "ψάχνω (psáchno)"
+        },
+        {
+            "front": "I try / I taste",
+            "back": "δοκιμάζω (dokimázo)"
+        },
+        {
+            "front": "I try / I attempt",
+            "back": "προσπαθώ (prospathó)"
+        },
+        {
+            "front": "I hold / I keep",
+            "back": "κρατάω (kratáo)"
+        },
+        {
+            "front": "I open",
+            "back": "ανοίγω (anígo)"
+        },
+        {
+            "front": "I close / I book (reservation)",
+            "back": "κλείνω (klíno)"
+        },
+        {
+            "front": "I think / I'm thinking",
+            "back": "σκέφτομαι (skéftome)"
+        },
+        {
+            "front": "I decide",
+            "back": "αποφασίζω (apofasízo)"
+        },
+        {
+            "front": "I get ready",
+            "back": "ετοιμάζομαι (etimázome)"
+        },
+        {
+            "front": "I lose / I miss (a bus etc.)",
+            "back": "χάνω (cháno)"
+        },
+        {
+            "front": "let's start",
+            "back": "ας αρχίσουμε (as archísoume)"
+        },
+        {
+            "front": "let's leave",
+            "back": "ας φύγουμε (as fýgoume)"
+        },
+        {
+            "front": "let's try",
+            "back": "ας δοκιμάσουμε (as dokimásoume)"
+        },
+        {
+            "front": "stop (imperative)",
+            "back": "σταμάτα (stamáta)"
+        },
+        {
+            "front": "continue / keep going",
+            "back": "συνέχισε (sinéchise)"
+        },
+        {
+            "front": "come back here",
+            "back": "γύρισε εδώ (gýrise edó)"
+        },
+        {
+            "front": "I'm looking for my keys",
+            "back": "ψάχνω τα κλειδιά μου (psáchno ta klidiá mou)"
+        },
+        {
+            "front": "keys",
+            "back": "κλειδιά (klidiá)"
+        },
+        {
+            "front": "try this",
+            "back": "δοκίμασε αυτό (dokímase aftó)"
+        },
+        {
+            "front": "get ready",
+            "back": "ετοιμάσου (etimásou)"
+        },
+        {
+            "front": "are you ready? (to a man)",
+            "back": "είσαι έτοιμος; (eísai étoimos?)"
+        },
+        {
+            "front": "are you ready? (to a woman)",
+            "back": "είσαι έτοιμη; (eísai étimi?)"
+        },
+        {
+            "front": "I'm not ready yet",
+            "back": "δεν είμαι έτοιμος ακόμα (den eímai étoimos akóma)"
+        },
+        {
+            "front": "still / yet",
+            "back": "ακόμα (akóma)"
+        },
+        {
+            "front": "already",
+            "back": "ήδη (ídi)"
+        },
+        {
+            "front": "anymore / now (emphatic)",
+            "back": "πια (pia)"
+        },
+        {
+            "front": "I can't take it anymore",
+            "back": "δεν αντέχω πια (den antécho pia)"
+        },
+        {
+            "front": "book a table",
+            "back": "κλείσε τραπέζι (klíse trapézi)"
+        },
+        {
+            "front": "table",
+            "back": "τραπέζι (trapézi)"
+        },
+        {
+            "front": "I don't care",
+            "back": "δεν με νοιάζει (den me niázi)"
+        },
+        {
+            "front": "I care",
+            "back": "με νοιάζει (me niázi)"
+        },
+        {
+            "front": "what do you care? / why do you care?",
+            "back": "τι σε νοιάζει; (ti se niázi?)"
+        },
+        {
+            "front": "I don't like this",
+            "back": "δεν μ' αρέσει αυτό (den m'arései aftó)"
+        },
+        {
+            "front": "I got bored / I'm fed up",
+            "back": "βαρέθηκα (varéthika)"
+        },
+        {
+            "front": "I got tired / I'm tired",
+            "back": "κουράστηκα (kourastíka)"
+        },
+        {
+            "front": "I went crazy / I'm blown away",
+            "back": "τρελάθηκα (treláthika)"
+        },
+        {
+            "front": "I'm crazy about it/them",
+            "back": "ξετρελάθηκα (xetreláthika)"
+        },
+        {
+            "front": "I got annoyed / irritated",
+            "back": "εκνευρίστηκα (eknevrístika)"
+        },
+        {
+            "front": "I was happy / pleased to meet you",
+            "back": "χάρηκα (chárika)"
+        },
+        {
+            "front": "very pleased (to meet you)",
+            "back": "χάρηκα πολύ (chárika polý)"
+        },
+        {
+            "front": "I was upset / sad",
+            "back": "στεναχωρήθηκα (stenachoríthika)"
+        },
+        {
+            "front": "I regretted it",
+            "back": "μετάνιωσα (metánioSa)"
+        },
+        {
+            "front": "I'm embarrassed / ashamed",
+            "back": "ντρέπομαι (drépome)"
+        },
+        {
+            "front": "I'm bored to death",
+            "back": "βαριέμαι θανατηφόρα (variéme thanatifóra)"
+        },
+        {
+            "front": "what a hassle! / what running around!",
+            "back": "τι τρέξιμο! (ti tréximo!)"
+        },
+        {
+            "front": "it's so hot!",
+            "back": "τι ζέστη! (ti zésti!)"
+        },
+        {
+            "front": "it's so cold!",
+            "back": "τι κρύο! (ti krýo!)"
+        },
+        {
+            "front": "what a beautiful day!",
+            "back": "τι ωραία μέρα! (ti oréa méra!)"
+        },
+        {
+            "front": "what a shame! / what a pity!",
+            "back": "τι κρίμα! (ti kríma!)"
+        },
+        {
+            "front": "a shame / a pity",
+            "back": "κρίμα (kríma)"
+        },
+        {
+            "front": "how embarrassing! / what a disgrace!",
+            "back": "τι ντροπή! (ti dropí!)"
+        },
+        {
+            "front": "tremendous / terrible / incredible",
+            "back": "τρομερό (tromeró)"
+        },
+        {
+            "front": "unbelievable",
+            "back": "απίστευτο (apísteuto)"
+        },
+        {
+            "front": "awfully / incredibly (intensifier)",
+            "back": "φοβερά (foverá)"
+        },
+        {
+            "front": "tremendously / incredibly",
+            "back": "τρομερά (tromerá)"
+        },
+        {
+            "front": "I liked it a lot",
+            "back": "πολύ μου άρεσε (polý mou árese)"
+        },
+        {
+            "front": "I didn't like it at all",
+            "back": "δεν μου άρεσε καθόλου (den mou árese kathólou)"
+        },
+        {
+            "front": "at all / not at all",
+            "back": "καθόλου (kathólou)"
+        },
+        {
+            "front": "take your time",
+            "back": "πάρε τον χρόνο σου (páre ton chróno sou)"
+        },
+        {
+            "front": "don't rush",
+            "back": "μην βιάζεσαι (min viázese)"
+        },
+        {
+            "front": "I'm in a hurry",
+            "back": "βιάζομαι (viázome)"
+        },
+        {
+            "front": "we're late",
+            "back": "αργήσαμε (argísame)"
+        },
+        {
+            "front": "let's go, we're late",
+            "back": "πάμε, αργήσαμε (páme, argísame)"
+        },
+        {
+            "front": "we arrived / we're here",
+            "back": "φτάσαμε (ftásame)"
+        },
+        {
+            "front": "we got lost",
+            "back": "χαθήκαμε (chathíkame)"
+        },
+        {
+            "front": "you disappeared! / long time no see!",
+            "back": "χάθηκες! (cháthikes!)"
+        },
+        {
+            "front": "where have you been? (haven't seen you)",
+            "back": "πού χάθηκες; (poú cháthikes?)"
+        },
+        {
+            "front": "shall we go again?",
+            "back": "πάμε πάλι; (páme páli?)"
+        },
+        {
+            "front": "again?",
+            "back": "πάλι; (páli?)"
+        },
+        {
+            "front": "okay, let's go",
+            "back": "εντάξει, πάμε (endáxi, páme)"
+        },
+        {
+            "front": "half a minute / hold on",
+            "back": "μισό λεπτό (misó leptó)"
+        },
+        {
+            "front": "I'm coming right away",
+            "back": "αμέσως έρχομαι (amésos érchome)"
+        },
+        {
+            "front": "opinion",
+            "back": "γνώμη (gnómi)"
+        },
+        {
+            "front": "in my opinion",
+            "back": "κατά τη γνώμη μου (katá ti gnómi mou)"
+        },
+        {
+            "front": "what's your opinion?",
+            "back": "τι γνώμη έχεις; (ti gnómi écheis?)"
+        },
+        {
+            "front": "I agree",
+            "back": "συμφωνώ (simfonó)"
+        },
+        {
+            "front": "I disagree",
+            "back": "διαφωνώ (diafonó)"
+        },
+        {
+            "front": "I don't agree with you",
+            "back": "δεν συμφωνώ μαζί σου (den simfonó mazí sou)"
+        },
+        {
+            "front": "you have a point",
+            "back": "έχεις ένα δίκιο (écheis éna díkio)"
+        },
+        {
+            "front": "yes, but...",
+            "back": "ναι, αλλά... (ne, alá...)"
+        },
+        {
+            "front": "think about it",
+            "back": "σκέψου το (sképsou to)"
+        },
+        {
+            "front": "I'll think about it",
+            "back": "θα το σκεφτώ (tha to skeftó)"
+        },
+        {
+            "front": "it doesn't bother me / I don't mind",
+            "back": "δεν με πειράζει (den me peirázi)"
+        },
+        {
+            "front": "do whatever you want",
+            "back": "κάνε ό,τι θέλεις (káne óti théleis)"
+        },
+        {
+            "front": "whatever you say",
+            "back": "ό,τι πεις (óti peis)"
+        },
+        {
+            "front": "you decide",
+            "back": "εσύ αποφασίζεις (esý apofasízeis)"
+        },
+        {
+            "front": "have you decided?",
+            "back": "αποφάσισες; (apofásises?)"
+        },
+        {
+            "front": "I can't decide",
+            "back": "δεν μπορώ να αποφασίσω (den boró na apofasíso)"
+        },
+        {
+            "front": "I don't have an opinion",
+            "back": "δεν έχω γνώμη (den écho gnómi)"
+        },
+        {
+            "front": "I got confused",
+            "back": "μπερδεύτηκα (berdéftika)"
+        },
+        {
+            "front": "say it again",
+            "back": "ξαναπές το (xanapés to)"
+        },
+        {
+            "front": "are you joking?",
+            "back": "αστειεύεσαι; (asteiévese?)"
+        },
+        {
+            "front": "are you kidding?",
+            "back": "κάνεις πλάκα; (káneis pláka?)"
+        },
+        {
+            "front": "you're kidding!",
+            "back": "πλάκα κάνεις! (pláka káneis!)"
+        },
+        {
+            "front": "I'm not joking",
+            "back": "δεν κάνω πλάκα (den káno pláka)"
+        },
+        {
+            "front": "joke / funny",
+            "back": "αστείο (astéio)"
+        },
+        {
+            "front": "very funny",
+            "back": "πολύ αστείο (polý astéio)"
+        },
+        {
+            "front": "it's not funny",
+            "back": "δεν είναι αστείο (den eínai astéio)"
+        },
+        {
+            "front": "joke / fun / kidding",
+            "back": "πλάκα (pláka)"
+        },
+        {
+            "front": "it's funny / it's amusing",
+            "back": "πλάκα έχει (pláka échei)"
+        },
+        {
+            "front": "I'm talking nonsense (vulgar but very common)",
+            "back": "λέω μαλακίες (léo malakíes)"
+        },
+        {
+            "front": "dude / bro (vulgar but extremely common between friends)",
+            "back": "μαλάκα (maláka)"
+        },
+        {
+            "front": "dude / buddy / my friend (masc.)",
+            "back": "φίλε (fíle)"
+        },
+        {
+            "front": "my friend (to a woman)",
+            "back": "φίλη μου (fíli mou)"
+        },
+        {
+            "front": "hey / yo (very casual particle)",
+            "back": "ρε (re)"
+        },
+        {
+            "front": "dude / man (casual address)",
+            "back": "ρε φίλε (re fíle)"
+        },
+        {
+            "front": "gift / present",
+            "back": "δώρο (dóro)"
+        },
+        {
+            "front": "celebration / name day / holiday",
+            "back": "γιορτή (giortí)"
+        },
+        {
+            "front": "birthday",
+            "back": "γενέθλια (genéthlia)"
+        },
+        {
+            "front": "party",
+            "back": "πάρτι (párti)"
+        },
+        {
+            "front": "wedding",
+            "back": "γάμος (gámos)"
+        },
+        {
+            "front": "company of friends / group of friends",
+            "back": "παρέα (paréa)"
+        },
+        {
+            "front": "let's go together",
+            "back": "πάμε παρέα (páme paréa)"
+        },
+        {
+            "front": "how's the gang doing?",
+            "back": "τι κάνει η παρέα; (ti kánei i paréa?)"
+        },
+        {
+            "front": "are we getting together tonight?",
+            "back": "μαζευόμαστε απόψε; (mazevómaste apópse?)"
+        },
+        {
+            "front": "I'm going to sleep",
+            "back": "πάω για ύπνο (páo gia ýpno)"
+        },
+        {
+            "front": "sleep",
+            "back": "ύπνο (ýpno)"
+        },
+        {
+            "front": "I sleep / I'm sleeping",
+            "back": "κοιμάμαι (kimáme)"
+        },
+        {
+            "front": "I wake up",
+            "back": "ξυπνάω (xipnáo)"
+        },
+        {
+            "front": "I'm tired, I'm going to sleep",
+            "back": "κουράστηκα, πάω για ύπνο (kourastíka, páo gia ýpno)"
+        },
+        {
+            "front": "wake up!",
+            "back": "ξύπνα! (xýpna!)"
+        },
+        {
+            "front": "I like it here",
+            "back": "μ' αρέσει εδώ (m'arései edó)"
+        },
+        {
+            "front": "I don't want to leave",
+            "back": "δεν θέλω να φύγω (den thélo na fýgo)"
+        },
+        {
+            "front": "I want to stay",
+            "back": "θέλω να μείνω (thélo na míno)"
+        },
+        {
+            "front": "how long will you stay?",
+            "back": "πόσο θα μείνεις; (póso tha míneis?)"
+        },
+        {
+            "front": "I'll stay one week",
+            "back": "θα μείνω μια εβδομάδα (tha míno mia evdomáda)"
+        },
+        {
+            "front": "first time here?",
+            "back": "πρώτη φορά εδώ; (próti forá edó?)"
+        },
+        {
+            "front": "time (occurrence)",
+            "back": "φορά (forá)"
+        },
+        {
+            "front": "first time",
+            "back": "πρώτη φορά (próti forá)"
+        },
+        {
+            "front": "again",
+            "back": "ξανά (xaná)"
+        },
+        {
+            "front": "let's go again",
+            "back": "ξαναπάμε (xanapáme)"
+        },
+        {
+            "front": "come again / come back",
+            "back": "ξαναέλα (xanaéla)"
+        },
+        {
+            "front": "okay, I understand / got it",
+            "back": "εντάξει, κατάλαβα (endáxi, katálava)"
+        },
+        {
+            "front": "don't tell me / you don't say",
+            "back": "μη μου πεις (mi mou peis)"
+        },
+        {
+            "front": "don't tell me that...",
+            "back": "μη μου πεις ότι... (mi mou peis óti...)"
+        },
+        {
+            "front": "yeah right / as if...",
+            "back": "σιγά μην... (sigá min...)"
+        },
+        {
+            "front": "no way! / get out of here!",
+            "back": "μη μου λες! (mi mou les!)"
+        },
+        {
+            "front": "well, yeah / obviously",
+            "back": "ε, ναι (e, ne)"
+        },
+        {
+            "front": "well, no",
+            "back": "ε, όχι (e, óchi)"
+        },
+        {
+            "front": "well, what can you do",
+            "back": "ε, τι να κάνουμε (e, ti na kánoume)"
+        },
+        {
+            "front": "it can't be done / that's impossible",
+            "back": "δεν γίνεται (den gínete)"
+        },
+        {
+            "front": "it's possible / it can be done",
+            "back": "γίνεται (gínete)"
+        },
+        {
+            "front": "how is that possible?",
+            "back": "πώς γίνεται; (pós gínete?)"
+        },
+        {
+            "front": "for real? / truly?",
+            "back": "στα αλήθεια; (sta alítheia?)"
+        },
+        {
+            "front": "seriously now?",
+            "back": "αλήθεια τώρα; (alítheia tóra?)"
+        },
+        {
+            "front": "what is this guy saying?",
+            "back": "μα τι λέει αυτός; (ma ti léei aftós?)"
+        },
+        {
+            "front": "he/she says / it says",
+            "back": "λέει (léei)"
+        },
+        {
+            "front": "they say / people say",
+            "back": "λένε (léne)"
+        },
+        {
+            "front": "they say that...",
+            "back": "λένε ότι... (léne óti...)"
+        },
+        {
+            "front": "you're telling me? (I know!)",
+            "back": "εμένα μου λες; (eména mou les?)"
+        },
+        {
+            "front": "since / after / because",
+            "back": "αφού (afoú)"
+        },
+        {
+            "front": "I'm telling you! (insistent)",
+            "back": "αφού σου λέω (afoú sou léo)"
+        },
+        {
+            "front": "but / well (emphatic)",
+            "back": "μα (ma)"
+        },
+        {
+            "front": "but what are you doing?",
+            "back": "μα τι κάνεις; (ma ti káneis?)"
+        },
+        {
+            "front": "what's going on here?",
+            "back": "τι γίνεται εδώ; (ti gínete edó?)"
+        },
+        {
+            "front": "what's going on? / what's the rush?",
+            "back": "τι τρέχει; (ti tréchei?)"
+        },
+        {
+            "front": "what's up? / how is it going? (very casual)",
+            "back": "τι λέει; (ti léei?)"
+        },
+        {
+            "front": "what's up, man? (super casual)",
+            "back": "τι λέει, ρε; (ti léei, re?)"
+        },
+        {
+            "front": "same old / the usual",
+            "back": "τα ίδια (ta ídia)"
+        },
+        {
+            "front": "as always",
+            "back": "σαν πάντα (san pánda)"
+        },
+        {
+            "front": "a whole life / always (emphatic)",
+            "back": "μια ζωή (mia zoí)"
+        },
+        {
+            "front": "life",
+            "back": "ζωή (zoí)"
+        },
+        {
+            "front": "always the same old thing",
+            "back": "μια ζωή τα ίδια (mia zoí ta ídia)"
+        },
+        {
+            "front": "situation / condition",
+            "back": "κατάσταση (katástasi)"
+        },
+        {
+            "front": "what kind of situation is this?",
+            "back": "τι κατάσταση είναι αυτή; (ti katástasi eínai aftí?)"
+        },
+        {
+            "front": "in bad shape / condition",
+            "back": "σε κακή κατάσταση (se kakí katástasi)"
+        },
+        {
+            "front": "I'm upset / I feel bad",
+            "back": "στενοχωριέμαι (stenochorième)"
+        },
+        {
+            "front": "don't be upset",
+            "back": "μη στενοχωριέσαι (mi stenocharièse)"
+        },
+        {
+            "front": "it will pass",
+            "back": "θα περάσει (tha perási)"
+        },
+        {
+            "front": "everything will be fine",
+            "back": "όλα θα πάνε καλά (óla tha páne kalá)"
+        },
+        {
+            "front": "don't worry about it",
+            "back": "μη σε νοιάζει (mi se niázi)"
+        },
+        {
+            "front": "I know how you feel",
+            "back": "ξέρω πώς νιώθεις (xéro pós niotheis)"
+        },
+        {
+            "front": "I feel",
+            "back": "νιώθω (niotho)"
+        },
+        {
+            "front": "how do you feel?",
+            "back": "πώς νιώθεις; (pós niotheis?)"
+        },
+        {
+            "front": "I feel weird / strange",
+            "back": "νιώθω περίεργα (niotho períerga)"
+        },
+        {
+            "front": "strange / weird / curious",
+            "back": "περίεργο (períergo)"
+        },
+        {
+            "front": "it seems strange to me",
+            "back": "μου φαίνεται περίεργο (mou fénete períergo)"
+        },
+        {
+            "front": "something isn't right",
+            "back": "κάτι δεν πάει καλά (káti den páei kalá)"
+        },
+        {
+            "front": "something",
+            "back": "κάτι (káti)"
+        },
+        {
+            "front": "nothing is going right",
+            "back": "τίποτα δεν πάει καλά (típota den páei kalá)"
+        },
+        {
+            "front": "it'll get better / it'll be fixed",
+            "back": "θα φτιάξει (tha ftiáxi)"
+        },
+        {
+            "front": "the truth is that...",
+            "back": "η αλήθεια είναι ότι... (i alítheia eínai óti...)"
+        },
+        {
+            "front": "to be honest",
+            "back": "για να είμαι ειλικρινής (gia na eímai eilikrinís)"
+        },
+        {
+            "front": "honestly / sincerely",
+            "back": "ειλικρινά (eilikriná)"
+        },
+        {
+            "front": "please (emphatic) / I beg you",
+            "back": "σε παρακαλώ (se parakaló)"
+        },
+        {
+            "front": "I really beg you / please (desperate)",
+            "back": "σε παρακαλώ πολύ (se parakaló polý)"
+        },
+        {
+            "front": "I'm not joking",
+            "back": "δεν αστειεύομαι (den asteiévome)"
+        },
+        {
+            "front": "I swear",
+            "back": "ορκίζομαι (orkízome)"
+        },
+        {
+            "front": "I promise you",
+            "back": "στο υπόσχομαι (sto ipóschome)"
+        },
+        {
+            "front": "watch what you say",
+            "back": "πρόσεξε τι λες (prósexe ti les)"
+        },
+        {
+            "front": "I trust you",
+            "back": "σε εμπιστεύομαι (se embistévome)"
+        },
+        {
+            "front": "I trust",
+            "back": "εμπιστεύομαι (embistévome)"
+        },
+        {
+            "front": "it's my fault / I'm to blame",
+            "back": "φταίω (ftéo)"
+        },
+        {
+            "front": "it's not my fault",
+            "back": "δεν φταίω εγώ (den ftéo egó)"
+        },
+        {
+            "front": "whose fault is it?",
+            "back": "ποιος φταίει; (piós ftéei?)"
+        },
+        {
+            "front": "nobody is to blame",
+            "back": "δεν φταίει κανένας (den ftéei kanénas)"
+        },
+        {
+            "front": "terrible / awful (very casual)",
+            "back": "χάλια (chália)"
+        },
+        {
+            "front": "I'm in bad shape / I feel awful",
+            "back": "είμαι χάλια (eímai chália)"
+        },
+        {
+            "front": "anyway / in any case",
+            "back": "τέλος πάντων (télos pándon)"
+        },
+        {
+            "front": "what are you saying now? / are you serious?",
+            "back": "τι λες τώρα; (ti les tóra?)"
+        },
+        {
+            "front": "look / you see / listen",
+            "back": "κοίτα να δεις (kíta na deis)"
+        },
+        {
+            "front": "first of all / to begin with",
+            "back": "κατ' αρχάς (kat'archás)"
+        },
+        {
+            "front": "we'll see after / we'll figure it out later",
+            "back": "μετά βλέπουμε (metá vlépοume)"
+        },
+        {
+            "front": "we'll see",
+            "back": "βλέπουμε (vlépοume)"
+        },
+        {
+            "front": "here we are / we're here for you",
+            "back": "εδώ είμαστε (edó eímaste)"
+        },
+        {
+            "front": "it's my own fault that... (self-blame)",
+            "back": "εγώ φταίω που... (egó ftéo pou...)"
+        },
+        {
+            "front": "okay then, man / alright dude",
+            "back": "καλά, ρε (kalá, re)"
+        },
+        {
+            "front": "great, let's go",
+            "back": "ωραία, πάμε (oréa, páme)"
+        },
+        {
+            "front": "are we done?",
+            "back": "τελειώσαμε; (teleiósame?)"
+        },
+        {
+            "front": "we're done / it's over",
+            "back": "τελειώσαμε (teleiósame)"
+        },
+        {
+            "front": "just (just now) / as soon as",
+            "back": "μόλις (mólis)"
+        },
+        {
+            "front": "I just arrived",
+            "back": "μόλις ήρθα (mólis írtha)"
+        },
+        {
+            "front": "I just finished",
+            "back": "μόλις τελείωσα (mólis teleíosa)"
+        },
+        {
+            "front": "finally / at last",
+            "back": "επιτέλους (epitélous)"
+        },
+        {
+            "front": "you finally came!",
+            "back": "επιτέλους ήρθες! (epitélous írthes!)"
+        }
+    ]
+}
