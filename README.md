@@ -114,6 +114,7 @@ The generator handles UTF-8 natively — accented characters (é, ñ, ü), Chine
 | File | Description | Cards |
 |---|---|---|
 | `decks/recall_conversational_romantic_chinese.json` | Mandarin romantic & conversational phrases, scaffolded from single words up to full sentences | 153 |
+| `decks/recall_short_chinese_phrases.json` | Mandarin — 200 short, versatile phrases (2-5 characters) for everyday conversation | 200 |
 | `decks/recall_500_common_spanish_phrases.json` | Mexican Spanish — common phrases, idioms, and reactions | 519 |
 | `decks/recall_conversational_greek.json` | Conversational Greek with romanization | 708 |
 
