@@ -13,7 +13,7 @@ Every word in a sentence card must already have been taught, by the prerequisite
 Introduce a word, then a 2–4 word chunk that uses it, then the full sentence. Example: 油 → 油腻 → 有点油腻 → 这道菜有点油腻。 Teach formulaic chunks (可以...吗, 比较喜欢, 的时候, 边...边) as units of their own, since learners retrieve stored chunks faster than they assemble words, and chunk use predicts fluency. *(Boers et al. 2006; formulaic-sequence research.)*
 
 ### 3. Small batches, used immediately
-Do not front-load a section with a long vocabulary list. Teach **6–10** new words, then chunks and sentences that use them, then the next batch. Long lists exceed working memory and delay retrieval in context. *(Cognitive load theory; Nation recommends packs of 15–20 cards, never more than 50.)* The current Part 2 v2 deck still front-loads some sections (the food section opens with 54 vocab cards); the next revision should interleave batches.
+Do not front-load a section with a long vocabulary list. Teach **6–10** new words, then chunks and sentences that use them, then the next batch. Long lists exceed working memory and delay retrieval in context. *(Cognitive load theory; Nation recommends packs of 15–20 cards, never more than 50.)*
 
 ### 4. Never stack a semantic set back to back
 Words that share a category (all fruits, all belt colors, all four tastes), near-synonyms and opposites interfere with each other when learned together and take longer to learn. Group by **scenario** instead (ordering a dish: 菜, 道, 太咸了, 少放油), which helps rather than hurts. When a set is unavoidable, introduce members several cards apart, and use each in a sentence before the next member appears. Keep look-alike or sound-alike items apart (教/叫, 汤/糖, 买/卖). *(Tinkham 1993, 1997; Waring 1997; Erten & Tekin 2008; Nation 2000.)*
@@ -43,7 +43,7 @@ Function words, measure words and patterns come before niche nouns; specialized 
 The scaffold only works if Anki shows new cards in deck order. In deck options set **New card gather order: Ascending position** and **New card sort order: Order gathered**, and keep new cards/day modest (about 20 new/day produces roughly 200 reviews/day). Put this in the deck description. A Part 2 deck assumes Part 1 is fully learned; say so too. *(Anki manual.)*
 
 ### Verify before shipping
-Build a lexicon from the prerequisite deck plus each earlier card, segment every sentence card against it (dynamic programming, fewest unknown characters), and flag any sentence with untaught characters. Target: zero flagged sentences. Also check for orphan vocab (rule 6), long vocab runs (rule 3), and adjacent set members (rule 4). The original Part 2 deck failed the first check with 174 flagged sentences and was replaced by `recall_conversational_chinese_part2_v2.json`, which passes.
+Build a lexicon from the prerequisite deck plus each earlier card, segment every sentence card against it (dynamic programming, fewest unknown characters), and flag any sentence with untaught characters. Target: zero flagged sentences. Also check for orphan vocab (rule 6), long vocab runs (rule 3), and adjacent set members (rule 4). The original Part 2 deck failed the first check with 174 flagged sentences. `recall_conversational_chinese_part2_v3.json` passes all four checks (v2 passed only the first) and is the reference example of this structure.
 
 ### Sources
 - Wozniak, *Twenty rules of formulating knowledge* — https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge

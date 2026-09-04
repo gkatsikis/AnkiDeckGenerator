@@ -19,20 +19,44 @@
             "back": "肉 (ròu)"
         },
         {
+            "front": "Is this beef?",
+            "back": "这是牛肉吗？(Zhè shì niúròu ma?)"
+        },
+        {
             "front": "tofu",
             "back": "豆腐 (dòufu)"
+        },
+        {
+            "front": "I want to eat tofu.",
+            "back": "我想吃豆腐。(Wǒ xiǎng chī dòufu.)"
         },
         {
             "front": "seafood",
             "back": "海鲜 (hǎixiān)"
         },
         {
+            "front": "I'm allergic to seafood.",
+            "back": "我对海鲜过敏。(Wǒ duì hǎixiān guòmǐn.)"
+        },
+        {
             "front": "flavor / taste",
             "back": "味道 (wèidào)"
         },
         {
+            "front": "The flavor is great.",
+            "back": "味道很好。(Wèidào hěn hǎo.)"
+        },
+        {
+            "front": "This tastes amazing.",
+            "back": "这个味道太好了。(Zhège wèidào tài hǎo le.)"
+        },
+        {
             "front": "salty",
             "back": "咸 (xián)"
+        },
+        {
+            "front": "The soup is too salty.",
+            "back": "汤太咸了。(Tāng tài xián le.)"
         },
         {
             "front": "oily / greasy",
@@ -55,8 +79,8 @@
             "back": "这道菜太咸了。(Zhè dào cài tài xián le.)"
         },
         {
-            "front": "The soup is too salty.",
-            "back": "汤太咸了。(Tāng tài xián le.)"
+            "front": "Is there meat in this dish?",
+            "back": "这道菜有肉吗？(Zhè dào cài yǒu ròu ma?)"
         },
         {
             "front": "a bit / kind of (before an adjective, usually a complaint)",
@@ -65,30 +89,6 @@
         {
             "front": "This dish is a bit oily.",
             "back": "这道菜有点油腻。(Zhè dào cài yǒudiǎn yóunì.)"
-        },
-        {
-            "front": "The flavor is great.",
-            "back": "味道很好。(Wèidào hěn hǎo.)"
-        },
-        {
-            "front": "This tastes amazing.",
-            "back": "这个味道太好了。(Zhège wèidào tài hǎo le.)"
-        },
-        {
-            "front": "Is this beef?",
-            "back": "这是牛肉吗？(Zhè shì niúròu ma?)"
-        },
-        {
-            "front": "I want to eat tofu.",
-            "back": "我想吃豆腐。(Wǒ xiǎng chī dòufu.)"
-        },
-        {
-            "front": "I'm allergic to seafood.",
-            "back": "我对海鲜过敏。(Wǒ duì hǎixiān guòmǐn.)"
-        },
-        {
-            "front": "Is there meat in this dish?",
-            "back": "这道菜有肉吗？(Zhè dào cài yǒu ròu ma?)"
         },
         {
             "front": "enough",
@@ -103,24 +103,52 @@
             "back": "加 (jiā)"
         },
         {
+            "front": "Could we have more rice?",
+            "back": "可以再加一点米饭吗？(Kěyǐ zài jiā yīdiǎn mǐfàn ma?)"
+        },
+        {
             "front": "salt",
             "back": "盐 (yán)"
+        },
+        {
+            "front": "Could you add a bit more salt?",
+            "back": "可以多加一点盐吗？(Kěyǐ duō jiā yīdiǎn yán ma?)"
         },
         {
             "front": "oil",
             "back": "油 (yóu)"
         },
         {
+            "front": "Can you make it less oily?",
+            "back": "可以少放一点油吗？(Kěyǐ shǎo fàng yīdiǎn yóu ma?)<div class=\"hint\">Literally: can you put in a bit less oil?</div>"
+        },
+        {
             "front": "MSG",
             "back": "味精 (wèijīng)"
+        },
+        {
+            "front": "Please don't add any MSG.",
+            "back": "请不要放味精。(Qǐng bú yào fàng wèijīng.)"
         },
         {
             "front": "sweet (taste)",
             "back": "甜 (tián)"
         },
         {
+            "front": "This dish is a bit sweet.",
+            "back": "这道菜有点甜。(Zhè dào cài yǒudiǎn tián.)"
+        },
+        {
             "front": "to love",
             "back": "爱 (ài)"
+        },
+        {
+            "front": "I have a sweet tooth.",
+            "back": "我很爱吃甜的。(Wǒ hěn ài chī tián de.)"
+        },
+        {
+            "front": "I love beef.",
+            "back": "我很爱吃牛肉。(Wǒ hěn ài chī niúròu.)"
         },
         {
             "front": "not enough",
@@ -131,22 +159,6 @@
             "back": "汤不够热。(Tāng bú gòu rè.)"
         },
         {
-            "front": "Can you make it less oily?",
-            "back": "可以少放一点油吗？(Kěyǐ shǎo fàng yīdiǎn yóu ma?)<div class=\"hint\">Literally: can you put in a bit less oil?</div>"
-        },
-        {
-            "front": "Please don't add any MSG.",
-            "back": "请不要放味精。(Qǐng bú yào fàng wèijīng.)"
-        },
-        {
-            "front": "Could you add a bit more salt?",
-            "back": "可以多加一点盐吗？(Kěyǐ duō jiā yīdiǎn yán ma?)"
-        },
-        {
-            "front": "Could we have more rice?",
-            "back": "可以再加一点米饭吗？(Kěyǐ zài jiā yīdiǎn mǐfàn ma?)"
-        },
-        {
             "front": "spicy food",
             "back": "辣的 (là de)<div class=\"hint\">adjective + 的 = 'the ... kind': 辣的 = spicy stuff, 甜的 = sweet stuff.</div>"
         },
@@ -155,64 +167,40 @@
             "back": "我很喜欢吃辣的。(Wǒ hěn xǐhuān chī là de.)"
         },
         {
-            "front": "I have a sweet tooth.",
-            "back": "我很爱吃甜的。(Wǒ hěn ài chī tián de.)"
-        },
-        {
-            "front": "This dish is a bit sweet.",
-            "back": "这道菜有点甜。(Zhè dào cài yǒudiǎn tián.)"
-        },
-        {
-            "front": "I love beef.",
-            "back": "我很爱吃牛肉。(Wǒ hěn ài chī niúròu.)"
-        },
-        {
             "front": "pork",
             "back": "猪肉 (zhūròu)"
-        },
-        {
-            "front": "sweets / sugary food",
-            "back": "甜食 (tiánshí)"
-        },
-        {
-            "front": "except / apart from",
-            "back": "除了 (chúle)"
-        },
-        {
-            "front": "inside (short form, placed after a noun)",
-            "back": "里 (lǐ)"
-        },
-        {
-            "front": "most",
-            "back": "最 (zuì)"
-        },
-        {
-            "front": "specialty dish",
-            "back": "特色菜 (tèsè cài)"
-        },
-        {
-            "front": "local",
-            "back": "本地 (běndì)"
-        },
-        {
-            "front": "to taste / to try (food)",
-            "back": "尝 (cháng)"
         },
         {
             "front": "I don't eat pork.",
             "back": "我不吃猪肉。(Wǒ bù chī zhūròu.)"
         },
         {
+            "front": "sweets / sugary food",
+            "back": "甜食 (tiánshí)"
+        },
+        {
             "front": "I rarely eat sweets.",
             "back": "我很少吃甜食。(Wǒ hěn shǎo chī tiánshí.)"
+        },
+        {
+            "front": "except / apart from",
+            "back": "除了 (chúle)"
         },
         {
             "front": "I eat everything except beef.",
             "back": "除了牛肉，我什么都吃。(Chúle niúròu, wǒ shénme dōu chī.)"
         },
         {
+            "front": "inside (short form, placed after a noun)",
+            "back": "里 (lǐ)"
+        },
+        {
             "front": "What's in this dish?",
             "back": "这道菜里有什么？(Zhè dào cài lǐ yǒu shénme?)"
+        },
+        {
+            "front": "most",
+            "back": "最 (zuì)"
         },
         {
             "front": "I like beef the most.",
@@ -223,16 +211,32 @@
             "back": "这是我最喜欢的菜。(Zhè shì wǒ zuì xǐhuān de cài.)<div class=\"hint\">最喜欢的 = favorite</div>"
         },
         {
+            "front": "specialty dish",
+            "back": "特色菜 (tèsè cài)"
+        },
+        {
             "front": "What's the special today?",
             "back": "今天有什么特色菜？(Jīntiān yǒu shénme tèsè cài?)"
+        },
+        {
+            "front": "local",
+            "back": "本地 (běndì)"
+        },
+        {
+            "front": "to taste / to try (food)",
+            "back": "尝 (cháng)"
         },
         {
             "front": "I want to try a local dish.",
             "back": "我想尝一道本地菜。(Wǒ xiǎng cháng yī dào běndì cài.)"
         },
         {
+            "front": "a bite / a mouthful",
+            "back": "一口 (yī kǒu)"
+        },
+        {
             "front": "Want to try a bite?",
-            "back": "你要尝一口吗？(Nǐ yào cháng yī kǒu ma?)<div class=\"hint\">一口 = one bite / one mouthful</div>"
+            "back": "你要尝一口吗？(Nǐ yào cháng yī kǒu ma?)"
         },
         {
             "front": "I'll try a bite.",
@@ -243,64 +247,76 @@
             "back": "刚刚好 (gānggāng hǎo)"
         },
         {
-            "front": "to serve food (bring dishes to the table)",
-            "back": "上菜 (shàng cài)"
-        },
-        {
-            "front": "portion",
-            "back": "分量 (fènliàng)"
-        },
-        {
-            "front": "to heat up",
-            "back": "加热 (jiārè)"
-        },
-        {
-            "front": "cool / cold (of food that has cooled down)",
-            "back": "凉 (liáng)"
-        },
-        {
-            "front": "everyone",
-            "back": "大家 (dàjiā)"
-        },
-        {
-            "front": "dessert",
-            "back": "甜点 (tiándiǎn)"
-        },
-        {
-            "front": "watermelon",
-            "back": "西瓜 (xīguā)"
-        },
-        {
             "front": "The flavor is just right.",
             "back": "味道刚刚好。(Wèidào gānggāng hǎo.)"
-        },
-        {
-            "front": "The food came out really fast.",
-            "back": "上菜很快。(Shàng cài hěn kuài.)"
-        },
-        {
-            "front": "The portion is huge.",
-            "back": "分量很大。(Fènliàng hěn dà.)"
         },
         {
             "front": "I want to take this home.",
             "back": "这个我想带回家。(Zhège wǒ xiǎng dài huí jiā.)<div class=\"hint\">带回家 = take home</div>"
         },
         {
+            "front": "This soup is a bit salty.",
+            "back": "这个汤有点咸。(Zhège tāng yǒudiǎn xián.)"
+        },
+        {
+            "front": "Except seafood, I eat everything.",
+            "back": "除了海鲜，我什么都吃。(Chúle hǎixiān, wǒ shénme dōu chī.)"
+        },
+        {
+            "front": "to serve food (bring dishes to the table)",
+            "back": "上菜 (shàng cài)"
+        },
+        {
+            "front": "The food came out really fast.",
+            "back": "上菜很快。(Shàng cài hěn kuài.)"
+        },
+        {
+            "front": "portion",
+            "back": "分量 (fènliàng)"
+        },
+        {
+            "front": "The portion is huge.",
+            "back": "分量很大。(Fènliàng hěn dà.)"
+        },
+        {
+            "front": "to heat up",
+            "back": "加热 (jiārè)"
+        },
+        {
             "front": "Can you reheat this?",
             "back": "可以加热一下吗？(Kěyǐ jiārè yīxià ma?)"
+        },
+        {
+            "front": "cool / cold (of food that has cooled down)",
+            "back": "凉 (liáng)"
         },
         {
             "front": "The food is getting cold.",
             "back": "菜要凉了。(Cài yào liáng le.)<div class=\"hint\">要...了 = about to</div>"
         },
         {
+            "front": "everyone",
+            "back": "大家 (dàjiā)"
+        },
+        {
             "front": "Let's order a few dishes and share.",
             "back": "我们点几个菜大家一起吃。(Wǒmen diǎn jǐ gè cài dàjiā yīqǐ chī.)<div class=\"hint\">几个 = a few</div>"
         },
         {
+            "front": "dessert",
+            "back": "甜点 (tiándiǎn)"
+        },
+        {
             "front": "Do you want dessert?",
             "back": "你要甜点吗？(Nǐ yào tiándiǎn ma?)"
+        },
+        {
+            "front": "I love desserts the most.",
+            "back": "我最喜欢吃甜点。(Wǒ zuì xǐhuān chī tiándiǎn.)"
+        },
+        {
+            "front": "watermelon",
+            "back": "西瓜 (xīguā)"
         },
         {
             "front": "Watermelon is very sweet.",
@@ -323,48 +339,8 @@
             "back": "祝你健康！(Zhù nǐ jiànkāng!)"
         },
         {
-            "front": "This soup is a bit salty.",
-            "back": "这个汤有点咸。(Zhège tāng yǒudiǎn xián.)"
-        },
-        {
-            "front": "Except seafood, I eat everything.",
-            "back": "除了海鲜，我什么都吃。(Chúle hǎixiān, wǒ shénme dōu chī.)"
-        },
-        {
-            "front": "I love desserts the most.",
-            "back": "我最喜欢吃甜点。(Wǒ zuì xǐhuān chī tiándiǎn.)"
-        },
-        {
             "front": "tea leaves",
             "back": "茶叶 (cháyè)"
-        },
-        {
-            "front": "green tea",
-            "back": "绿茶 (lǜchá)"
-        },
-        {
-            "front": "oolong tea",
-            "back": "乌龙茶 (wūlóng chá)"
-        },
-        {
-            "front": "fragrant / aromatic",
-            "back": "香 (xiāng)"
-        },
-        {
-            "front": "light (in flavor)",
-            "back": "淡 (dàn)"
-        },
-        {
-            "front": "strong (in flavor)",
-            "back": "浓 (nóng)"
-        },
-        {
-            "front": "cup (also the measure word for cups of something)",
-            "back": "杯 (bēi)"
-        },
-        {
-            "front": "hot / just-boiled water",
-            "back": "开水 (kāishuǐ)"
         },
         {
             "front": "I love drinking tea.",
@@ -387,20 +363,56 @@
             "back": "你推荐什么茶？(Nǐ tuījiàn shénme chá?)"
         },
         {
+            "front": "green tea",
+            "back": "绿茶 (lǜchá)"
+        },
+        {
             "front": "I like green tea.",
             "back": "我喜欢绿茶。(Wǒ xǐhuān lǜchá.)"
+        },
+        {
+            "front": "oolong tea",
+            "back": "乌龙茶 (wūlóng chá)"
+        },
+        {
+            "front": "fragrant / aromatic",
+            "back": "香 (xiāng)"
         },
         {
             "front": "This tea has a wonderful aroma.",
             "back": "这茶很香。(Zhè chá hěn xiāng.)"
         },
         {
-            "front": "The flavor is really strong.",
-            "back": "味道很浓。(Wèidào hěn nóng.)"
+            "front": "These tea leaves are very fragrant.",
+            "back": "这茶叶很香。(Zhè cháyè hěn xiāng.)"
+        },
+        {
+            "front": "light (in flavor)",
+            "back": "淡 (dàn)"
         },
         {
             "front": "This tea is a bit light.",
             "back": "这茶有点淡。(Zhè chá yǒudiǎn dàn.)"
+        },
+        {
+            "front": "strong (in flavor)",
+            "back": "浓 (nóng)"
+        },
+        {
+            "front": "The flavor is really strong.",
+            "back": "味道很浓。(Wèidào hěn nóng.)"
+        },
+        {
+            "front": "cup (also the measure word for cups of something)",
+            "back": "杯 (bēi)"
+        },
+        {
+            "front": "hot / just-boiled water",
+            "back": "开水 (kāishuǐ)"
+        },
+        {
+            "front": "Can I have some hot water?",
+            "back": "可以加一点开水吗？(Kěyǐ jiā yīdiǎn kāishuǐ ma?)"
         },
         {
             "front": "a cup of tea",
@@ -411,60 +423,12 @@
             "back": "再来一杯茶。(Zài lái yī bēi chá.)"
         },
         {
-            "front": "Can I have some hot water?",
-            "back": "可以加一点开水吗？(Kěyǐ jiā yīdiǎn kāishuǐ ma?)"
-        },
-        {
-            "front": "These tea leaves are very fragrant.",
-            "back": "这茶叶很香。(Zhè cháyè hěn xiāng.)"
-        },
-        {
             "front": "relatively / comparatively (softens a statement)",
             "back": "比较 (bǐjiào)"
         },
         {
-            "front": "black tea (lit. red tea)",
-            "back": "红茶 (hóngchá)"
-        },
-        {
-            "front": "pu'er tea",
-            "back": "普洱茶 (pǔ'ěr chá)"
-        },
-        {
-            "front": "milk tea",
-            "back": "奶茶 (nǎichá)"
-        },
-        {
-            "front": "caffeine",
-            "back": "咖啡因 (kāfēiyīn)"
-        },
-        {
-            "front": "tea house",
-            "back": "茶馆 (cháguǎn)"
-        },
-        {
-            "front": "to brew / to steep",
-            "back": "泡 (pào)"
-        },
-        {
-            "front": "how long (duration)",
-            "back": "多久 (duō jiǔ)"
-        },
-        {
             "front": "I prefer oolong tea.",
             "back": "我比较喜欢乌龙茶。(Wǒ bǐjiào xǐhuān wūlóng chá.)<div class=\"hint\">比较喜欢 = prefer (lit. 'relatively like')</div>"
-        },
-        {
-            "front": "Black tea is stronger.",
-            "back": "红茶比较浓。(Hóngchá bǐjiào nóng.)"
-        },
-        {
-            "front": "Have you had pu'er tea?",
-            "back": "你喝过普洱茶吗？(Nǐ hē guò pǔ'ěr chá ma?)"
-        },
-        {
-            "front": "Milk tea is too sweet.",
-            "back": "奶茶太甜了。(Nǎichá tài tián le.)"
         },
         {
             "front": "No sugar in my tea, please.",
@@ -475,88 +439,76 @@
             "back": "我不喜欢甜的茶。(Wǒ bù xǐhuān tián de chá.)"
         },
         {
+            "front": "I can't drink tea at night.",
+            "back": "我晚上不能喝茶。(Wǒ wǎnshang bù néng hē chá.)"
+        },
+        {
+            "front": "black tea (lit. red tea)",
+            "back": "红茶 (hóngchá)"
+        },
+        {
+            "front": "Black tea is stronger.",
+            "back": "红茶比较浓。(Hóngchá bǐjiào nóng.)"
+        },
+        {
+            "front": "pu'er tea",
+            "back": "普洱茶 (pǔ'ěr chá)"
+        },
+        {
+            "front": "Have you had pu'er tea?",
+            "back": "你喝过普洱茶吗？(Nǐ hē guò pǔ'ěr chá ma?)"
+        },
+        {
+            "front": "milk tea",
+            "back": "奶茶 (nǎichá)"
+        },
+        {
+            "front": "Milk tea is too sweet.",
+            "back": "奶茶太甜了。(Nǎichá tài tián le.)"
+        },
+        {
+            "front": "caffeine",
+            "back": "咖啡因 (kāfēiyīn)"
+        },
+        {
             "front": "Green tea has caffeine, right?",
             "back": "绿茶有咖啡因，对吧？(Lǜchá yǒu kāfēiyīn, duì ba?)"
         },
         {
-            "front": "I can't drink tea at night.",
-            "back": "我晚上不能喝茶。(Wǒ wǎnshang bù néng hē chá.)"
+            "front": "tea house",
+            "back": "茶馆 (cháguǎn)"
         },
         {
             "front": "Let's go to a tea house.",
             "back": "我们去茶馆吧。(Wǒmen qù cháguǎn ba.)"
         },
         {
-            "front": "to brew tea",
-            "back": "泡茶 (pào chá)"
+            "front": "to brew / to steep",
+            "back": "泡 (pào)"
         },
         {
             "front": "How should I brew this tea?",
             "back": "这个茶怎么泡？(Zhège chá zěnme pào?)"
         },
         {
-            "front": "How long should I steep it?",
-            "back": "要泡多久？(Yào pào duō jiǔ?)"
-        },
-        {
             "front": "Could you brew it stronger?",
             "back": "可以泡浓一点吗？(Kěyǐ pào nóng yīdiǎn ma?)"
         },
         {
+            "front": "how long (duration)",
+            "back": "多久 (duō jiǔ)"
+        },
+        {
+            "front": "How long should I steep it?",
+            "back": "要泡多久？(Yào pào duō jiǔ?)"
+        },
+        {
+            "front": "to brew tea",
+            "back": "泡茶 (pào chá)"
+        },
+        {
             "front": "teapot",
             "back": "茶壶 (cháhú)"
-        },
-        {
-            "front": "tea ware / tea set",
-            "back": "茶具 (chájù)"
-        },
-        {
-            "front": "beautiful / pretty",
-            "back": "漂亮 (piàoliang)"
-        },
-        {
-            "front": "to collect (as a hobby)",
-            "back": "收藏 (shōucáng)"
-        },
-        {
-            "front": "to pour",
-            "back": "倒 (dào)"
-        },
-        {
-            "front": "water temperature",
-            "back": "水温 (shuǐwēn)"
-        },
-        {
-            "front": "astringent",
-            "back": "涩 (sè)"
-        },
-        {
-            "front": "sweet aftertaste",
-            "back": "回甘 (huígān)"
-        },
-        {
-            "front": "This teapot is beautiful.",
-            "back": "这茶壶很漂亮。(Zhè cháhú hěn piàoliang.)"
-        },
-        {
-            "front": "I collect tea ware.",
-            "back": "我收藏茶具。(Wǒ shōucáng chájù.)"
-        },
-        {
-            "front": "Let me pour you some tea.",
-            "back": "我给你倒杯茶。(Wǒ gěi nǐ dào bēi chá.)"
-        },
-        {
-            "front": "What water temperature?",
-            "back": "水温多少？(Shuǐwēn duōshao?)"
-        },
-        {
-            "front": "This tea is a bit astringent.",
-            "back": "这茶有点涩。(Zhè chá yǒudiǎn sè.)"
-        },
-        {
-            "front": "The aftertaste is great.",
-            "back": "回甘很好。(Huígān hěn hǎo.)"
         },
         {
             "front": "My mom prefers coffee.",
@@ -571,8 +523,64 @@
             "back": "这茶有点贵，但是很香。(Zhè chá yǒudiǎn guì, dànshì hěn xiāng.)"
         },
         {
+            "front": "tea ware / tea set",
+            "back": "茶具 (chájù)"
+        },
+        {
+            "front": "beautiful / pretty",
+            "back": "漂亮 (piàoliang)"
+        },
+        {
+            "front": "This teapot is beautiful.",
+            "back": "这茶壶很漂亮。(Zhè cháhú hěn piàoliang.)"
+        },
+        {
+            "front": "to collect (as a hobby)",
+            "back": "收藏 (shōucáng)"
+        },
+        {
+            "front": "I collect tea ware.",
+            "back": "我收藏茶具。(Wǒ shōucáng chájù.)"
+        },
+        {
+            "front": "to pour",
+            "back": "倒 (dào)"
+        },
+        {
+            "front": "Let me pour you some tea.",
+            "back": "我给你倒杯茶。(Wǒ gěi nǐ dào bēi chá.)"
+        },
+        {
+            "front": "water temperature",
+            "back": "水温 (shuǐwēn)"
+        },
+        {
+            "front": "What water temperature?",
+            "back": "水温多少？(Shuǐwēn duōshao?)"
+        },
+        {
+            "front": "astringent",
+            "back": "涩 (sè)"
+        },
+        {
+            "front": "This tea is a bit astringent.",
+            "back": "这茶有点涩。(Zhè chá yǒudiǎn sè.)"
+        },
+        {
+            "front": "sweet aftertaste",
+            "back": "回甘 (huígān)"
+        },
+        {
+            "front": "The aftertaste is great.",
+            "back": "回甘很好。(Huígān hěn hǎo.)"
+        },
+        {
             "front": "jiu jitsu",
             "back": "柔术 (róushù)"
+        },
+        {
+            "front": "Have you tried jiu jitsu?",
+            "back": "你试过柔术吗？(Nǐ shì guò róushù ma?)"
         },
         {
             "front": "Brazil",
@@ -587,24 +595,52 @@
             "back": "训练 (xùnliàn)"
         },
         {
+            "front": "I usually train in the evening.",
+            "back": "我一般晚上训练。(Wǒ yībān wǎnshang xùnliàn.)"
+        },
+        {
+            "front": "Where do you usually train?",
+            "back": "你一般在哪里训练？(Nǐ yībān zài nǎlǐ xùnliàn?)"
+        },
+        {
             "front": "coach",
             "back": "教练 (jiàoliàn)"
+        },
+        {
+            "front": "My coach is Brazilian.",
+            "back": "我的教练是巴西人。(Wǒ de jiàoliàn shì Bāxī rén.)"
         },
         {
             "front": "teammate / training partner",
             "back": "队友 (duìyǒu)"
         },
         {
+            "front": "My teammates are great.",
+            "back": "我的队友很好。(Wǒ de duìyǒu hěn hǎo.)"
+        },
+        {
             "front": "gym / dojo / academy",
             "back": "道馆 (dàoguǎn)"
+        },
+        {
+            "front": "The gym is close to my home.",
+            "back": "道馆离我家很近。(Dàoguǎn lí wǒ jiā hěn jìn.)"
         },
         {
             "front": "class / lesson",
             "back": "课 (kè)"
         },
         {
+            "front": "Today's class was tough.",
+            "back": "今天的课很累。(Jīntiān de kè hěn lèi.)"
+        },
+        {
             "front": "to attend class / to have class",
             "back": "上课 (shàng kè)"
+        },
+        {
+            "front": "I have class at seven tomorrow.",
+            "back": "我明天七点上课。(Wǒ míngtiān qī diǎn shàng kè.)"
         },
         {
             "front": "Brazilian Jiu Jitsu",
@@ -615,88 +651,44 @@
             "back": "我练巴西柔术。(Wǒ liàn Bāxī róushù.)"
         },
         {
-            "front": "Have you tried jiu jitsu?",
-            "back": "你试过柔术吗？(Nǐ shì guò róushù ma?)"
+            "front": "one week",
+            "back": "一周 (yī zhōu)"
         },
         {
             "front": "I train three times a week.",
-            "back": "我一周训练三次。(Wǒ yī zhōu xùnliàn sān cì.)<div class=\"hint\">一周 = one week; 三次 = three times</div>"
-        },
-        {
-            "front": "I usually train in the evening.",
-            "back": "我一般晚上训练。(Wǒ yībān wǎnshang xùnliàn.)"
-        },
-        {
-            "front": "Where do you usually train?",
-            "back": "你一般在哪里训练？(Nǐ yībān zài nǎlǐ xùnliàn?)"
-        },
-        {
-            "front": "My coach is Brazilian.",
-            "back": "我的教练是巴西人。(Wǒ de jiàoliàn shì Bāxī rén.)"
-        },
-        {
-            "front": "My teammates are great.",
-            "back": "我的队友很好。(Wǒ de duìyǒu hěn hǎo.)"
-        },
-        {
-            "front": "The gym is close to my home.",
-            "back": "道馆离我家很近。(Dàoguǎn lí wǒ jiā hěn jìn.)"
-        },
-        {
-            "front": "Today's class was tough.",
-            "back": "今天的课很累。(Jīntiān de kè hěn lèi.)"
-        },
-        {
-            "front": "I have class at seven tomorrow.",
-            "back": "我明天七点上课。(Wǒ míngtiān qī diǎn shàng kè.)"
+            "back": "我一周训练三次。(Wǒ yī zhōu xùnliàn sān cì.)<div class=\"hint\">三次 = three times</div>"
         },
         {
             "front": "year",
             "back": "年 (nián)"
         },
         {
-            "front": "belt",
-            "back": "腰带 (yāodài)"
-        },
-        {
-            "front": "blue belt",
-            "back": "蓝带 (lándài)"
-        },
-        {
-            "front": "black belt",
-            "back": "黑带 (hēidài)"
-        },
-        {
-            "front": "movement / move / technique (a specific move)",
-            "back": "动作 (dòngzuò)"
-        },
-        {
-            "front": "live rolling / sparring",
-            "back": "对练 (duìliàn)"
-        },
-        {
-            "front": "to rest",
-            "back": "休息 (xiūxi)"
-        },
-        {
-            "front": "injury / to get injured",
-            "back": "受伤 (shòushāng)"
-        },
-        {
             "front": "I've trained jiu jitsu for two years.",
             "back": "我练柔术两年了。(Wǒ liàn róushù liǎng nián le.)"
-        },
-        {
-            "front": "I'm a blue belt.",
-            "back": "我是蓝带。(Wǒ shì lándài.)"
         },
         {
             "front": "What belt are you?",
             "back": "你是什么带？(Nǐ shì shénme dài?)<div class=\"hint\">带 is short for 腰带 in belt ranks.</div>"
         },
         {
-            "front": "My coach is a black belt.",
-            "back": "我的教练是黑带。(Wǒ de jiàoliàn shì hēidài.)"
+            "front": "belt",
+            "back": "腰带 (yāodài)"
+        },
+        {
+            "front": "I forgot to bring my belt.",
+            "back": "我忘了带腰带。(Wǒ wàng le dài yāodài.)"
+        },
+        {
+            "front": "blue belt",
+            "back": "蓝带 (lándài)"
+        },
+        {
+            "front": "I'm a blue belt.",
+            "back": "我是蓝带。(Wǒ shì lándài.)"
+        },
+        {
+            "front": "movement / move / technique (a specific move)",
+            "back": "动作 (dòngzuò)"
         },
         {
             "front": "We drilled techniques today.",
@@ -707,12 +699,20 @@
             "back": "再给我看一次这个动作。(Zài gěi wǒ kàn yī cì zhège dòngzuò.)"
         },
         {
+            "front": "live rolling / sparring",
+            "back": "对练 (duìliàn)"
+        },
+        {
             "front": "We did live rolling today.",
             "back": "我们今天对练了。(Wǒmen jīntiān duìliàn le.)"
         },
         {
             "front": "Do you want to roll?",
             "back": "要不要对练一下？(Yào bú yào duìliàn yīxià?)<div class=\"hint\">要不要 = 'want to or not?', a casual way to ask.</div>"
+        },
+        {
+            "front": "to rest",
+            "back": "休息 (xiūxi)"
         },
         {
             "front": "I need to rest.",
@@ -723,84 +723,16 @@
             "back": "我这周休息。(Wǒ zhè zhōu xiūxi.)"
         },
         {
+            "front": "injury / to get injured",
+            "back": "受伤 (shòushāng)"
+        },
+        {
             "front": "I got injured yesterday.",
             "back": "我昨天受伤了。(Wǒ zuótiān shòushāng le.)"
         },
         {
             "front": "knee",
             "back": "膝盖 (xīgài)"
-        },
-        {
-            "front": "shoulder",
-            "back": "肩膀 (jiānbǎng)"
-        },
-        {
-            "front": "to be careful",
-            "back": "小心 (xiǎoxīn)"
-        },
-        {
-            "front": "take it slow / go easy",
-            "back": "慢慢来 (mànman lái)"
-        },
-        {
-            "front": "dead tired",
-            "back": "累死了 (lèi sǐ le)<div class=\"hint\">adjective + 死了 = extremely: 累死了, 饿死了.</div>"
-        },
-        {
-            "front": "whole body / all over",
-            "back": "浑身 (húnshēn)"
-        },
-        {
-            "front": "sore (muscle ache)",
-            "back": "酸痛 (suān tòng)"
-        },
-        {
-            "front": "breathing / to breathe",
-            "back": "呼吸 (hūxī)"
-        },
-        {
-            "front": "warm-up / to warm up",
-            "back": "热身 (rèshēn)"
-        },
-        {
-            "front": "muscle",
-            "back": "肌肉 (jīròu)"
-        },
-        {
-            "front": "Be careful with my knee.",
-            "back": "小心我的膝盖。(Xiǎoxīn wǒ de xīgài.)"
-        },
-        {
-            "front": "My shoulder hurts.",
-            "back": "我肩膀疼。(Wǒ jiānbǎng téng.)"
-        },
-        {
-            "front": "Let's go light.",
-            "back": "我们慢慢来。(Wǒmen mànman lái.)"
-        },
-        {
-            "front": "I'm exhausted.",
-            "back": "我累死了。(Wǒ lèi sǐ le.)"
-        },
-        {
-            "front": "My whole body is sore.",
-            "back": "我浑身酸痛。(Wǒ húnshēn suān tòng.)"
-        },
-        {
-            "front": "I forgot to breathe.",
-            "back": "我忘了呼吸。(Wǒ wàng le hūxī.)"
-        },
-        {
-            "front": "You have to warm up before training.",
-            "back": "训练以前要热身。(Xùnliàn yǐqián yào rèshēn.)"
-        },
-        {
-            "front": "My muscles are sore.",
-            "back": "我肌肉酸痛。(Wǒ jīròu suān tòng.)"
-        },
-        {
-            "front": "After class I'm exhausted.",
-            "back": "上课以后我累死了。(Shàng kè yǐhòu wǒ lèi sǐ le.)"
         },
         {
             "front": "My knee hurts a bit.",
@@ -811,24 +743,124 @@
             "back": "我很少受伤。(Wǒ hěn shǎo shòushāng.)"
         },
         {
+            "front": "shoulder",
+            "back": "肩膀 (jiānbǎng)"
+        },
+        {
+            "front": "My shoulder hurts.",
+            "back": "我肩膀疼。(Wǒ jiānbǎng téng.)"
+        },
+        {
+            "front": "to be careful",
+            "back": "小心 (xiǎoxīn)"
+        },
+        {
+            "front": "Be careful with my knee.",
+            "back": "小心我的膝盖。(Xiǎoxīn wǒ de xīgài.)"
+        },
+        {
+            "front": "take it slow / go easy",
+            "back": "慢慢来 (mànman lái)"
+        },
+        {
+            "front": "Let's go light.",
+            "back": "我们慢慢来。(Wǒmen mànman lái.)"
+        },
+        {
+            "front": "dead tired",
+            "back": "累死了 (lèi sǐ le)<div class=\"hint\">adjective + 死了 = extremely: 累死了, 饿死了.</div>"
+        },
+        {
+            "front": "I'm exhausted.",
+            "back": "我累死了。(Wǒ lèi sǐ le.)"
+        },
+        {
+            "front": "After class I'm exhausted.",
+            "back": "上课以后我累死了。(Shàng kè yǐhòu wǒ lèi sǐ le.)"
+        },
+        {
+            "front": "whole body / all over",
+            "back": "浑身 (húnshēn)"
+        },
+        {
+            "front": "sore (muscle ache)",
+            "back": "酸痛 (suān tòng)"
+        },
+        {
+            "front": "My whole body is sore.",
+            "back": "我浑身酸痛。(Wǒ húnshēn suān tòng.)"
+        },
+        {
+            "front": "breathing / to breathe",
+            "back": "呼吸 (hūxī)"
+        },
+        {
+            "front": "I forgot to breathe.",
+            "back": "我忘了呼吸。(Wǒ wàng le hūxī.)"
+        },
+        {
+            "front": "warm-up / to warm up",
+            "back": "热身 (rèshēn)"
+        },
+        {
+            "front": "You have to warm up before training.",
+            "back": "训练以前要热身。(Xùnliàn yǐqián yào rèshēn.)"
+        },
+        {
+            "front": "muscle",
+            "back": "肌肉 (jīròu)"
+        },
+        {
+            "front": "My muscles are sore.",
+            "back": "我肌肉酸痛。(Wǒ jīròu suān tòng.)"
+        },
+        {
+            "front": "black belt",
+            "back": "黑带 (hēidài)"
+        },
+        {
+            "front": "My coach is a black belt.",
+            "back": "我的教练是黑带。(Wǒ de jiàoliàn shì hēidài.)"
+        },
+        {
             "front": "to be born",
             "back": "出生 (chūshēng)"
+        },
+        {
+            "front": "I was born in the US.",
+            "back": "我在美国出生。(Wǒ zài Měiguó chūshēng.)"
         },
         {
             "front": "to grow up",
             "back": "长大 (zhǎng dà)"
         },
         {
+            "front": "I grew up in the US.",
+            "back": "我在美国长大。(Wǒ zài Měiguó zhǎng dà.)"
+        },
+        {
             "front": "Mexico",
             "back": "墨西哥 (Mòxīgē)"
+        },
+        {
+            "front": "My mom is Mexican.",
+            "back": "我妈妈是墨西哥人。(Wǒ māma shì Mòxīgē rén.)"
         },
         {
             "front": "Greece",
             "back": "希腊 (Xīlà)"
         },
         {
+            "front": "My dad is Greek.",
+            "back": "我爸爸是希腊人。(Wǒ bàba shì Xīlà rén.)"
+        },
+        {
             "front": "half (one half)",
             "back": "一半 (yībàn)"
+        },
+        {
+            "front": "I'm half Greek, half Mexican.",
+            "back": "我一半是希腊人，一半是墨西哥人。(Wǒ yībàn shì Xīlà rén, yībàn shì Mòxīgē rén.)"
         },
         {
             "front": "and (joins nouns: A 和 B)",
@@ -839,32 +871,12 @@
             "back": "混血 (hùnxiě)"
         },
         {
-            "front": "culture",
-            "back": "文化 (wénhuà)"
-        },
-        {
-            "front": "I was born in the US.",
-            "back": "我在美国出生。(Wǒ zài Měiguó chūshēng.)"
-        },
-        {
-            "front": "I grew up in the US.",
-            "back": "我在美国长大。(Wǒ zài Měiguó zhǎng dà.)"
-        },
-        {
-            "front": "My dad is Greek.",
-            "back": "我爸爸是希腊人。(Wǒ bàba shì Xīlà rén.)"
-        },
-        {
-            "front": "My mom is Mexican.",
-            "back": "我妈妈是墨西哥人。(Wǒ māma shì Mòxīgē rén.)"
-        },
-        {
-            "front": "I'm half Greek, half Mexican.",
-            "back": "我一半是希腊人，一半是墨西哥人。(Wǒ yībàn shì Xīlà rén, yībàn shì Mòxīgē rén.)"
-        },
-        {
             "front": "I'm mixed heritage.",
             "back": "我是混血。(Wǒ shì hùnxiě.)"
+        },
+        {
+            "front": "culture",
+            "back": "文化 (wénhuà)"
         },
         {
             "front": "My family has two cultures.",
@@ -875,12 +887,20 @@
             "back": "我喜欢这两种文化。(Wǒ xǐhuān zhè liǎng zhǒng wénhuà.)"
         },
         {
-            "front": "My mom and my dad are very different.",
-            "back": "我妈妈和我爸爸很不一样。(Wǒ māma hé wǒ bàba hěn bù yīyàng.)<div class=\"hint\">不一样 = different, not the same</div>"
-        },
-        {
             "front": "different / not the same",
             "back": "不一样 (bù yīyàng)"
+        },
+        {
+            "front": "My mom and my dad are very different.",
+            "back": "我妈妈和我爸爸很不一样。(Wǒ māma hé wǒ bàba hěn bù yīyàng.)"
+        },
+        {
+            "front": "Greek and Mexican food are very different.",
+            "back": "希腊菜和墨西哥菜很不一样。(Xīlà cài hé Mòxīgē cài hěn bù yīyàng.)"
+        },
+        {
+            "front": "I have a younger sister.",
+            "back": "我有一个妹妹。(Wǒ yǒu yīgè mèimei.)"
         },
         {
             "front": "English (language)",
@@ -891,16 +911,32 @@
             "back": "西班牙语 (Xībānyá yǔ)"
         },
         {
+            "front": "I speak a little Spanish.",
+            "back": "我会说一点西班牙语。(Wǒ huì shuō yīdiǎn Xībānyá yǔ.)"
+        },
+        {
             "front": "mother tongue",
             "back": "母语 (mǔyǔ)"
+        },
+        {
+            "front": "English is my mother tongue.",
+            "back": "英语是我的母语。(Yīngyǔ shì wǒ de mǔyǔ.)"
         },
         {
             "front": "since childhood / from a young age",
             "back": "从小 (cóngxiǎo)"
         },
         {
+            "front": "I grew up speaking Spanish at home.",
+            "back": "我从小在家说西班牙语。(Wǒ cóngxiǎo zài jiā shuō Xībānyá yǔ.)"
+        },
+        {
             "front": "grandparents (dad's side: grandpa + grandma)",
             "back": "爷爷奶奶 (yéye nǎinai)"
+        },
+        {
+            "front": "My grandparents are Greek.",
+            "back": "我爷爷奶奶是希腊人。(Wǒ yéye nǎinai shì Xīlà rén.)"
         },
         {
             "front": "hometown",
@@ -911,104 +947,24 @@
             "back": "应该 (yīnggāi)"
         },
         {
-            "front": "feelings / emotional bond",
-            "back": "感情 (gǎnqíng)"
-        },
-        {
-            "front": "Greek and Mexican food are very different.",
-            "back": "希腊菜和墨西哥菜很不一样。(Xīlà cài hé Mòxīgē cài hěn bù yīyàng.)"
-        },
-        {
-            "front": "English is my mother tongue.",
-            "back": "英语是我的母语。(Yīngyǔ shì wǒ de mǔyǔ.)"
-        },
-        {
-            "front": "I speak a little Spanish.",
-            "back": "我会说一点西班牙语。(Wǒ huì shuō yīdiǎn Xībānyá yǔ.)"
-        },
-        {
-            "front": "I grew up speaking Spanish at home.",
-            "back": "我从小在家说西班牙语。(Wǒ cóngxiǎo zài jiā shuō Xībānyá yǔ.)"
-        },
-        {
-            "front": "My grandparents are Greek.",
-            "back": "我爷爷奶奶是希腊人。(Wǒ yéye nǎinai shì Xīlà rén.)"
-        },
-        {
             "front": "You should visit my hometown.",
             "back": "你应该来我家乡看看。(Nǐ yīnggāi lái wǒ jiāxiāng kànkan.)"
+        },
+        {
+            "front": "feelings / emotional bond",
+            "back": "感情 (gǎnqíng)"
         },
         {
             "front": "My family is very close.",
             "back": "我家人感情很好。(Wǒ jiārén gǎnqíng hěn hǎo.)<div class=\"hint\">Literally: my family's bond is very good.</div>"
         },
         {
-            "front": "I have a younger sister.",
-            "back": "我有一个妹妹。(Wǒ yǒu yīgè mèimei.)"
-        },
-        {
             "front": "the oldest child (in a family)",
             "back": "老大 (lǎodà)"
         },
         {
-            "front": "the youngest child (in a family)",
-            "back": "老小 (lǎoxiǎo)"
-        },
-        {
-            "front": "single (not in a relationship)",
-            "back": "单身 (dānshēn)"
-        },
-        {
-            "front": "partner (romantic)",
-            "back": "伴侣 (bànlǚ)"
-        },
-        {
-            "front": "to be together (in a relationship)",
-            "back": "在一起 (zài yīqǐ)"
-        },
-        {
-            "front": "that side",
-            "back": "那边 (nà biān)"
-        },
-        {
-            "front": "taco",
-            "back": "塔可 (tǎkě)"
-        },
-        {
-            "front": "multicultural",
-            "back": "多元文化 (duōyuán wénhuà)"
-        },
-        {
             "front": "I'm the oldest.",
             "back": "我是老大。(Wǒ shì lǎodà.)"
-        },
-        {
-            "front": "I'm the youngest.",
-            "back": "我是老小。(Wǒ shì lǎoxiǎo.)"
-        },
-        {
-            "front": "I'm single.",
-            "back": "我是单身。(Wǒ shì dānshēn.)"
-        },
-        {
-            "front": "I have a partner.",
-            "back": "我有伴侣。(Wǒ yǒu bànlǚ.)"
-        },
-        {
-            "front": "We've been together for two years.",
-            "back": "我们在一起两年了。(Wǒmen zài yīqǐ liǎng nián le.)"
-        },
-        {
-            "front": "My mom's side is Mexican.",
-            "back": "我妈妈那边是墨西哥人。(Wǒ māma nà biān shì Mòxīgē rén.)"
-        },
-        {
-            "front": "My favorite is tacos.",
-            "back": "我最喜欢吃塔可。(Wǒ zuì xǐhuān chī tǎkě.)"
-        },
-        {
-            "front": "My family is multicultural.",
-            "back": "我家是多元文化的。(Wǒ jiā shì duōyuán wénhuà de.)"
         },
         {
             "front": "I love Greek food.",
@@ -1023,16 +979,84 @@
             "back": "我爷爷奶奶每天都喝茶。(Wǒ yéye nǎinai měitiān dōu hē chá.)"
         },
         {
+            "front": "single (not in a relationship)",
+            "back": "单身 (dānshēn)"
+        },
+        {
+            "front": "I'm single.",
+            "back": "我是单身。(Wǒ shì dānshēn.)"
+        },
+        {
+            "front": "partner (romantic)",
+            "back": "伴侣 (bànlǚ)"
+        },
+        {
+            "front": "I have a partner.",
+            "back": "我有伴侣。(Wǒ yǒu bànlǚ.)"
+        },
+        {
             "front": "My partner trains jiu jitsu too.",
             "back": "我的伴侣也练柔术。(Wǒ de bànlǚ yě liàn róushù.)"
+        },
+        {
+            "front": "to be together (in a relationship)",
+            "back": "在一起 (zài yīqǐ)"
+        },
+        {
+            "front": "We've been together for two years.",
+            "back": "我们在一起两年了。(Wǒmen zài yīqǐ liǎng nián le.)"
+        },
+        {
+            "front": "that side",
+            "back": "那边 (nà biān)"
+        },
+        {
+            "front": "My mom's side is Mexican.",
+            "back": "我妈妈那边是墨西哥人。(Wǒ māma nà biān shì Mòxīgē rén.)"
+        },
+        {
+            "front": "taco",
+            "back": "塔可 (tǎkě)"
+        },
+        {
+            "front": "My favorite is tacos.",
+            "back": "我最喜欢吃塔可。(Wǒ zuì xǐhuān chī tǎkě.)"
+        },
+        {
+            "front": "multicultural",
+            "back": "多元文化 (duōyuán wénhuà)"
+        },
+        {
+            "front": "My family is multicultural.",
+            "back": "我家是多元文化的。(Wǒ jiā shì duōyuán wénhuà de.)"
+        },
+        {
+            "front": "the youngest child (in a family)",
+            "back": "老小 (lǎoxiǎo)"
+        },
+        {
+            "front": "My sister is the youngest.",
+            "back": "我妹妹是老小。(Wǒ mèimei shì lǎoxiǎo.)"
         },
         {
             "front": "to cook (a meal)",
             "back": "做饭 (zuò fàn)"
         },
         {
+            "front": "I cooked this myself.",
+            "back": "这是我自己做的。(Zhè shì wǒ zìjǐ zuò de.)<div class=\"hint\">自己做的 = made by myself</div>"
+        },
+        {
+            "front": "How is it made?",
+            "back": "这个怎么做？(Zhège zěnme zuò?)"
+        },
+        {
             "front": "to teach",
             "back": "教 (jiāo)"
+        },
+        {
+            "front": "Can you teach me this dish?",
+            "back": "你能教我这个菜吗？(Nǐ néng jiāo wǒ zhège cài ma?)"
         },
         {
             "front": "egg",
@@ -1043,6 +1067,10 @@
             "back": "炒 (chǎo)"
         },
         {
+            "front": "I can make stir-fried eggs.",
+            "back": "我会炒鸡蛋。(Wǒ huì chǎo jīdàn.)"
+        },
+        {
             "front": "China",
             "back": "中国 (Zhōngguó)"
         },
@@ -1051,8 +1079,20 @@
             "back": "火锅 (huǒguō)"
         },
         {
+            "front": "I love hot pot.",
+            "back": "我很喜欢吃火锅。(Wǒ hěn xǐhuān chī huǒguō.)"
+        },
+        {
+            "front": "Have you had hot pot?",
+            "back": "你吃过火锅吗？(Nǐ chī guò huǒguō ma?)"
+        },
+        {
             "front": "handmade",
             "back": "手工 (shǒugōng)"
+        },
+        {
+            "front": "These dumplings are handmade.",
+            "back": "这饺子是手工做的。(Zhè jiǎozi shì shǒugōng zuò de.)"
         },
         {
             "front": "meal / cooked rice (short form, as in 吃饭)",
@@ -1067,44 +1107,8 @@
             "back": "我不太会做饭。(Wǒ bú tài huì zuò fàn.)"
         },
         {
-            "front": "I cooked this myself.",
-            "back": "这是我自己做的。(Zhè shì wǒ zìjǐ zuò de.)<div class=\"hint\">自己做的 = made by myself</div>"
-        },
-        {
-            "front": "Can you teach me this dish?",
-            "back": "你能教我这个菜吗？(Nǐ néng jiāo wǒ zhège cài ma?)"
-        },
-        {
-            "front": "How is it made?",
-            "back": "这个怎么做？(Zhège zěnme zuò?)"
-        },
-        {
             "front": "Next time I'll cook for you.",
             "back": "下次我给你做饭。(Xià cì wǒ gěi nǐ zuò fàn.)"
-        },
-        {
-            "front": "I can make stir-fried eggs.",
-            "back": "我会炒鸡蛋。(Wǒ huì chǎo jīdàn.)"
-        },
-        {
-            "front": "Chinese food",
-            "back": "中国菜 (Zhōngguó cài)"
-        },
-        {
-            "front": "I want to learn to cook Chinese food.",
-            "back": "我想学做中国菜。(Wǒ xiǎng xué zuò Zhōngguó cài.)"
-        },
-        {
-            "front": "I love hot pot.",
-            "back": "我很喜欢吃火锅。(Wǒ hěn xǐhuān chī huǒguō.)"
-        },
-        {
-            "front": "Have you had hot pot?",
-            "back": "你吃过火锅吗？(Nǐ chī guò huǒguō ma?)"
-        },
-        {
-            "front": "These dumplings are handmade.",
-            "back": "这饺子是手工做的。(Zhè jiǎozi shì shǒugōng zuò de.)"
         },
         {
             "front": "Dinner is ready!",
@@ -1115,12 +1119,40 @@
             "back": "来吃饭！(Lái chī fàn!)"
         },
         {
+            "front": "Chinese food",
+            "back": "中国菜 (Zhōngguó cài)"
+        },
+        {
+            "front": "I want to learn to cook Chinese food.",
+            "back": "我想学做中国菜。(Wǒ xiǎng xué zuò Zhōngguó cài.)"
+        },
+        {
             "front": "Sichuan food",
             "back": "川菜 (Chuāncài)"
         },
         {
+            "front": "Sichuan food is so spicy!",
+            "back": "川菜真辣！(Chuāncài zhēn là!)"
+        },
+        {
+            "front": "American food is a bit greasy.",
+            "back": "美国菜有点油腻。(Měiguó cài yǒudiǎn yóunì.)"
+        },
+        {
+            "front": "Do you like Chinese food?",
+            "back": "你喜欢吃中国菜吗？(Nǐ xǐhuān chī Zhōngguó cài ma?)"
+        },
+        {
+            "front": "Mexican food is my favorite.",
+            "back": "我最喜欢吃墨西哥菜。(Wǒ zuì xǐhuān chī Mòxīgē cài.)"
+        },
+        {
             "front": "kind / variety / type",
             "back": "种类 (zhǒnglèi)"
+        },
+        {
+            "front": "Chinese food has endless varieties.",
+            "back": "中国菜种类太多了。(Zhōngguó cài zhǒnglèi tài duō le.)"
         },
         {
             "front": "new",
@@ -1135,6 +1167,10 @@
             "back": "尝试 (chángshì)"
         },
         {
+            "front": "I love trying new foods.",
+            "back": "我喜欢尝试新食物。(Wǒ xǐhuān chángshì xīn shíwù.)"
+        },
+        {
             "front": "refreshing",
             "back": "清爽 (qīngshuǎng)"
         },
@@ -1143,108 +1179,24 @@
             "back": "沙拉 (shālā)"
         },
         {
-            "front": "chicken (meat)",
-            "back": "鸡肉 (jīròu)"
-        },
-        {
-            "front": "Sichuan food is so spicy!",
-            "back": "川菜真辣！(Chuāncài zhēn là!)"
-        },
-        {
-            "front": "Chinese food has endless varieties.",
-            "back": "中国菜种类太多了。(Zhōngguó cài zhǒnglèi tài duō le.)"
-        },
-        {
-            "front": "I love trying new foods.",
-            "back": "我喜欢尝试新食物。(Wǒ xǐhuān chángshì xīn shíwù.)"
-        },
-        {
             "front": "Greek salad is very refreshing.",
             "back": "希腊沙拉很清爽。(Xīlà shālā hěn qīngshuǎng.)"
         },
         {
-            "front": "American food is a bit greasy.",
-            "back": "美国菜有点油腻。(Měiguó cài yǒudiǎn yóunì.)"
+            "front": "chicken (meat)",
+            "back": "鸡肉 (jīròu)"
         },
         {
             "front": "I eat chicken often.",
             "back": "我经常吃鸡肉。(Wǒ jīngcháng chī jīròu.)"
         },
         {
-            "front": "Do you like Chinese food?",
-            "back": "你喜欢吃中国菜吗？(Nǐ xǐhuān chī Zhōngguó cài ma?)"
-        },
-        {
-            "front": "Mexican food is my favorite.",
-            "back": "我最喜欢吃墨西哥菜。(Wǒ zuì xǐhuān chī Mòxīgē cài.)"
-        },
-        {
             "front": "scallion, ginger and garlic (the classic stir-fry trio)",
             "back": "葱姜蒜 (cōng jiāng suàn)"
         },
         {
-            "front": "soy sauce",
-            "back": "酱油 (jiàngyóu)"
-        },
-        {
-            "front": "vinegar",
-            "back": "醋 (cù)"
-        },
-        {
-            "front": "sour",
-            "back": "酸 (suān)"
-        },
-        {
-            "front": "to steam",
-            "back": "蒸 (zhēng)"
-        },
-        {
-            "front": "fish",
-            "back": "鱼 (yú)"
-        },
-        {
-            "front": "to roast / bake",
-            "back": "烤 (kǎo)"
-        },
-        {
-            "front": "bread",
-            "back": "面包 (miànbāo)"
-        },
-        {
-            "front": "milk",
-            "back": "牛奶 (niúnǎi)"
-        },
-        {
             "front": "Stir-frying needs scallion, ginger and garlic.",
             "back": "炒菜要放葱姜蒜。(Chǎo cài yào fàng cōng jiāng suàn.)"
-        },
-        {
-            "front": "Add a bit of soy sauce.",
-            "back": "加一点酱油。(Jiā yīdiǎn jiàngyóu.)"
-        },
-        {
-            "front": "I add vinegar when I eat dumplings.",
-            "back": "我吃饺子要加醋。(Wǒ chī jiǎozi yào jiā cù.)"
-        },
-        {
-            "front": "Vinegar is sour.",
-            "back": "醋很酸。(Cù hěn suān.)"
-        },
-        {
-            "front": "Steamed fish is delicious.",
-            "back": "蒸鱼很好吃。(Zhēng yú hěn hǎochī.)"
-        },
-        {
-            "front": "Roast chicken smells great.",
-            "back": "烤鸡肉很香。(Kǎo jīròu hěn xiāng.)"
-        },
-        {
-            "front": "I make my own bread.",
-            "back": "我自己做面包。(Wǒ zìjǐ zuò miànbāo.)"
-        },
-        {
-            "front": "I don't drink milk.",
-            "back": "我不喝牛奶。(Wǒ bù hē niúnǎi.)"
         },
         {
             "front": "I cook food from both cultures.",
@@ -1255,20 +1207,88 @@
             "back": "我妈妈教我做饭。(Wǒ māma jiāo wǒ zuò fàn.)"
         },
         {
-            "front": "I want to try the steamed fish.",
-            "back": "我想尝尝蒸鱼。(Wǒ xiǎng chángchang zhēng yú.)"
+            "front": "soy sauce",
+            "back": "酱油 (jiàngyóu)"
+        },
+        {
+            "front": "Add a bit of soy sauce.",
+            "back": "加一点酱油。(Jiā yīdiǎn jiàngyóu.)"
+        },
+        {
+            "front": "vinegar",
+            "back": "醋 (cù)"
+        },
+        {
+            "front": "I add vinegar when I eat dumplings.",
+            "back": "我吃饺子要加醋。(Wǒ chī jiǎozi yào jiā cù.)"
+        },
+        {
+            "front": "sour",
+            "back": "酸 (suān)"
+        },
+        {
+            "front": "Vinegar is sour.",
+            "back": "醋很酸。(Cù hěn suān.)"
         },
         {
             "front": "This dish is a bit sour.",
             "back": "这道菜有点酸。(Zhè dào cài yǒudiǎn suān.)"
         },
         {
+            "front": "to steam",
+            "back": "蒸 (zhēng)"
+        },
+        {
+            "front": "fish",
+            "back": "鱼 (yú)"
+        },
+        {
+            "front": "Steamed fish is delicious.",
+            "back": "蒸鱼很好吃。(Zhēng yú hěn hǎochī.)"
+        },
+        {
+            "front": "I want to try the steamed fish.",
+            "back": "我想尝尝蒸鱼。(Wǒ xiǎng chángchang zhēng yú.)"
+        },
+        {
+            "front": "to roast / bake",
+            "back": "烤 (kǎo)"
+        },
+        {
+            "front": "Roast chicken smells great.",
+            "back": "烤鸡肉很香。(Kǎo jīròu hěn xiāng.)"
+        },
+        {
+            "front": "bread",
+            "back": "面包 (miànbāo)"
+        },
+        {
+            "front": "I make my own bread.",
+            "back": "我自己做面包。(Wǒ zìjǐ zuò miànbāo.)"
+        },
+        {
+            "front": "milk",
+            "back": "牛奶 (niúnǎi)"
+        },
+        {
+            "front": "I don't drink milk.",
+            "back": "我不喝牛奶。(Wǒ bù hē niúnǎi.)"
+        },
+        {
             "front": "tea ceremony / the way of tea",
             "back": "茶道 (chádào)"
         },
         {
+            "front": "I'm learning tea ceremony.",
+            "back": "我在学茶道。(Wǒ zài xué chádào.)"
+        },
+        {
             "front": "tea culture",
             "back": "茶文化 (chá wénhuà)"
+        },
+        {
+            "front": "Tea culture is fascinating.",
+            "back": "茶文化很有意思。(Chá wénhuà hěn yǒuyìsi.)"
         },
         {
             "front": "high mountain",
@@ -1279,12 +1299,24 @@
             "back": "台湾 (Táiwān)"
         },
         {
+            "front": "This tea is from Taiwan.",
+            "back": "这茶是台湾的。(Zhè chá shì Táiwān de.)"
+        },
+        {
             "front": "to produce (grown / made in a place)",
             "back": "产 (chǎn)"
         },
         {
+            "front": "Where is this tea from?",
+            "back": "这茶是哪里产的？(Zhè chá shì nǎlǐ chǎn de?)<div class=\"hint\">Literally: where is this tea produced?</div>"
+        },
+        {
             "front": "tea garden / plantation",
             "back": "茶园 (cháyuán)"
+        },
+        {
+            "front": "I want to visit a tea plantation.",
+            "back": "我想去茶园看看。(Wǒ xiǎng qù cháyuán kànkan.)"
         },
         {
             "front": "tea farmer",
@@ -1295,12 +1327,8 @@
             "back": "种 (zhòng)<div class=\"hint\">Same character as 种 zhǒng (kind), different tone: 两种茶 = two kinds of tea; 种茶 = to grow tea.</div>"
         },
         {
-            "front": "I'm learning tea ceremony.",
-            "back": "我在学茶道。(Wǒ zài xué chádào.)"
-        },
-        {
-            "front": "Tea culture is fascinating.",
-            "back": "茶文化很有意思。(Chá wénhuà hěn yǒuyìsi.)"
+            "front": "It's grown by the tea farmers themselves.",
+            "back": "这是茶农自己种的。(Zhè shì chánóng zìjǐ zhòng de.)"
         },
         {
             "front": "high-mountain oolong",
@@ -1311,80 +1339,64 @@
             "back": "这是高山乌龙茶。(Zhè shì gāoshān wūlóng chá.)"
         },
         {
-            "front": "Where is this tea from?",
-            "back": "这茶是哪里产的？(Zhè chá shì nǎlǐ chǎn de?)<div class=\"hint\">Literally: where is this tea produced?</div>"
-        },
-        {
-            "front": "This tea is from Taiwan.",
-            "back": "这茶是台湾的。(Zhè chá shì Táiwān de.)"
-        },
-        {
-            "front": "I want to visit a tea plantation.",
-            "back": "我想去茶园看看。(Wǒ xiǎng qù cháyuán kànkan.)"
-        },
-        {
-            "front": "It's grown by the tea farmers themselves.",
-            "back": "这是茶农自己种的。(Zhè shì chánóng zìjǐ zhòng de.)"
-        },
-        {
             "front": "loose-leaf tea",
             "back": "散茶 (sǎnchá)"
-        },
-        {
-            "front": "tea bag",
-            "back": "茶包 (chábāo)"
-        },
-        {
-            "front": "old / aged",
-            "back": "老 (lǎo)"
-        },
-        {
-            "front": "difficult / hard",
-            "back": "难 (nán)"
-        },
-        {
-            "front": "a long time",
-            "back": "很久 (hěn jiǔ)"
-        },
-        {
-            "front": "to pair with / to go with",
-            "back": "配 (pèi)"
-        },
-        {
-            "front": "body",
-            "back": "身体 (shēntǐ)"
-        },
-        {
-            "front": "to relax",
-            "back": "放松 (fàngsōng)"
         },
         {
             "front": "I bought some loose-leaf tea.",
             "back": "我买了一些散茶。(Wǒ mǎi le yīxiē sǎnchá.)"
         },
         {
+            "front": "tea bag",
+            "back": "茶包 (chábāo)"
+        },
+        {
             "front": "I prefer loose-leaf over tea bags.",
             "back": "我喜欢散茶，不喜欢茶包。(Wǒ xǐhuān sǎnchá, bù xǐhuān chábāo.)"
+        },
+        {
+            "front": "old / aged",
+            "back": "老 (lǎo)"
         },
         {
             "front": "Aged pu'er is more expensive.",
             "back": "老普洱茶比较贵。(Lǎo pǔ'ěr chá bǐjiào guì.)"
         },
         {
+            "front": "difficult / hard",
+            "back": "难 (nán)"
+        },
+        {
             "front": "This tea is hard to find.",
             "back": "这茶很难找。(Zhè chá hěn nán zhǎo.)"
+        },
+        {
+            "front": "a long time",
+            "back": "很久 (hěn jiǔ)"
         },
         {
             "front": "This tea has been aged a long time.",
             "back": "这茶放了很久。(Zhè chá fàng le hěn jiǔ.)<div class=\"hint\">放 here = left to sit / stored</div>"
         },
         {
+            "front": "to pair with / to go with",
+            "back": "配 (pèi)"
+        },
+        {
             "front": "This tea pairs well with desserts.",
             "back": "这茶配甜点很合适。(Zhè chá pèi tiándiǎn hěn héshì.)"
         },
         {
+            "front": "body",
+            "back": "身体 (shēntǐ)"
+        },
+        {
             "front": "Tea is good for your health.",
             "back": "喝茶对身体好。(Hē chá duì shēntǐ hǎo.)<div class=\"hint\">对...好 = good for</div>"
+        },
+        {
+            "front": "to relax",
+            "back": "放松 (fàngsōng)"
         },
         {
             "front": "Drinking tea relaxes me.",
@@ -1393,46 +1405,6 @@
         {
             "front": "art",
             "back": "艺术 (yìshù)"
-        },
-        {
-            "front": "authentic / genuine",
-            "back": "正宗 (zhèngzōng)"
-        },
-        {
-            "front": "famous",
-            "back": "有名 (yǒumíng)"
-        },
-        {
-            "front": "Yunnan",
-            "back": "云南 (Yúnnán)"
-        },
-        {
-            "front": "floral fragrance",
-            "back": "花香 (huāxiāng)"
-        },
-        {
-            "front": "mellow / rich (taste)",
-            "back": "醇厚 (chúnhòu)"
-        },
-        {
-            "front": "Brewing tea is an art.",
-            "back": "泡茶是一门艺术。(Pào chá shì yī mén yìshù.)<div class=\"hint\">门 is the measure word for arts and subjects.</div>"
-        },
-        {
-            "front": "I want to try authentic Chinese tea.",
-            "back": "我想喝正宗的中国茶。(Wǒ xiǎng hē zhèngzōng de Zhōngguó chá.)"
-        },
-        {
-            "front": "Yunnan is famous for pu'er tea.",
-            "back": "云南的普洱茶很有名。(Yúnnán de pǔ'ěr chá hěn yǒumíng.)"
-        },
-        {
-            "front": "This oolong has a floral aroma.",
-            "back": "这乌龙茶有花香。(Zhè wūlóng chá yǒu huāxiāng.)"
-        },
-        {
-            "front": "Aged pu'er is mellow.",
-            "back": "老普洱茶很醇厚。(Lǎo pǔ'ěr chá hěn chúnhòu.)"
         },
         {
             "front": "I want to try a new kind of tea.",
@@ -1447,20 +1419,80 @@
             "back": "我们去茶馆喝茶吧。(Wǒmen qù cháguǎn hē chá ba.)"
         },
         {
+            "front": "authentic / genuine",
+            "back": "正宗 (zhèngzōng)"
+        },
+        {
+            "front": "I want to try authentic Chinese tea.",
+            "back": "我想喝正宗的中国茶。(Wǒ xiǎng hē zhèngzōng de Zhōngguó chá.)"
+        },
+        {
+            "front": "famous",
+            "back": "有名 (yǒumíng)"
+        },
+        {
             "front": "Taiwan's oolong is famous.",
             "back": "台湾的乌龙茶很有名。(Táiwān de wūlóng chá hěn yǒumíng.)"
+        },
+        {
+            "front": "Yunnan",
+            "back": "云南 (Yúnnán)"
+        },
+        {
+            "front": "Yunnan is famous for pu'er tea.",
+            "back": "云南的普洱茶很有名。(Yúnnán de pǔ'ěr chá hěn yǒumíng.)"
+        },
+        {
+            "front": "floral fragrance",
+            "back": "花香 (huāxiāng)"
+        },
+        {
+            "front": "This oolong has a floral aroma.",
+            "back": "这乌龙茶有花香。(Zhè wūlóng chá yǒu huāxiāng.)"
+        },
+        {
+            "front": "mellow / rich (taste)",
+            "back": "醇厚 (chúnhòu)"
+        },
+        {
+            "front": "Aged pu'er is mellow.",
+            "back": "老普洱茶很醇厚。(Lǎo pǔ'ěr chá hěn chúnhòu.)"
+        },
+        {
+            "front": "an art (门 = measure word for arts and subjects)",
+            "back": "一门艺术 (yī mén yìshù)"
+        },
+        {
+            "front": "Brewing tea is an art.",
+            "back": "泡茶是一门艺术。(Pào chá shì yī mén yìshù.)"
         },
         {
             "front": "submission / to submit (someone)",
             "back": "降服 (xiángfú)"
         },
         {
+            "front": "He submitted me.",
+            "back": "他降服了我。(Tā xiángfú le wǒ.)"
+        },
+        {
+            "front": "I submitted a black belt today!",
+            "back": "我今天降服了一个黑带！(Wǒ jīntiān xiángfú le yīgè hēidài!)"
+        },
+        {
             "front": "to tap (out)",
             "back": "拍 (pāi)"
         },
         {
+            "front": "I had to tap.",
+            "back": "我拍了。(Wǒ pāi le.)"
+        },
+        {
             "front": "triangle choke",
             "back": "三角绞 (sānjiǎo jiǎo)"
+        },
+        {
+            "front": "He caught me in a triangle.",
+            "back": "他用三角绞降服了我。(Tā yòng sānjiǎo jiǎo xiángfú le wǒ.)"
         },
         {
             "front": "mount (position)",
@@ -1471,12 +1503,24 @@
             "back": "防守 (fángshǒu)"
         },
         {
+            "front": "I passed his guard.",
+            "back": "我过了他的防守。(Wǒ guò le tā de fángshǒu.)<div class=\"hint\">过 here = to get past (guò), not the 'have done before' 过.</div>"
+        },
+        {
             "front": "side control",
             "back": "侧位 (cè wèi)"
         },
         {
+            "front": "I love side control.",
+            "back": "我很喜欢侧位。(Wǒ hěn xǐhuān cè wèi.)"
+        },
+        {
             "front": "takedown",
             "back": "摔法 (shuāifǎ)"
+        },
+        {
+            "front": "I'm working on my takedowns.",
+            "back": "我在练摔法。(Wǒ zài liàn shuāifǎ.)"
         },
         {
             "front": "from",
@@ -1487,44 +1531,24 @@
             "back": "逃出来 (táo chū lái)"
         },
         {
-            "front": "I had to tap.",
-            "back": "我拍了。(Wǒ pāi le.)"
-        },
-        {
-            "front": "He submitted me.",
-            "back": "他降服了我。(Tā xiángfú le wǒ.)"
-        },
-        {
-            "front": "He caught me in a triangle.",
-            "back": "他用三角绞降服了我。(Tā yòng sānjiǎo jiǎo xiángfú le wǒ.)"
-        },
-        {
-            "front": "I submitted a black belt today!",
-            "back": "我今天降服了一个黑带！(Wǒ jīntiān xiángfú le yīgè hēidài!)"
-        },
-        {
             "front": "I escaped from mount.",
             "back": "我从骑乘位逃出来了。(Wǒ cóng qíchéng wèi táo chū lái le.)"
-        },
-        {
-            "front": "I passed his guard.",
-            "back": "我过了他的防守。(Wǒ guò le tā de fángshǒu.)<div class=\"hint\">过 here = to get past (guò), not the 'have done before' 过.</div>"
-        },
-        {
-            "front": "I love side control.",
-            "back": "我很喜欢侧位。(Wǒ hěn xǐhuān cè wèi.)"
-        },
-        {
-            "front": "I'm working on my takedowns.",
-            "back": "我在练摔法。(Wǒ zài liàn shuāifǎ.)"
         },
         {
             "front": "armbar",
             "back": "十字固 (shízì gù)"
         },
         {
+            "front": "My favorite is the armbar.",
+            "back": "我最喜欢十字固。(Wǒ zuì xǐhuān shízì gù.)"
+        },
+        {
             "front": "rear naked choke",
             "back": "裸绞 (luǒ jiǎo)"
+        },
+        {
+            "front": "He got me with a rear naked choke.",
+            "back": "他用裸绞降服了我。(Tā yòng luǒ jiǎo xiángfú le wǒ.)"
         },
         {
             "front": "opponent",
@@ -1535,12 +1559,20 @@
             "back": "强项 (qiángxiàng)"
         },
         {
+            "front": "Guard is my best position.",
+            "back": "防守是我的强项。(Fángshǒu shì wǒ de qiángxiàng.)"
+        },
+        {
             "front": "technique",
             "back": "技术 (jìshù)"
         },
         {
             "front": "to improve",
             "back": "提高 (tígāo)"
+        },
+        {
+            "front": "I want to improve my technique.",
+            "back": "我想提高技术。(Wǒ xiǎng tígāo jìshù.)"
         },
         {
             "front": "strength / force",
@@ -1551,6 +1583,14 @@
             "back": "比 (bǐ)"
         },
         {
+            "front": "He's bigger than me.",
+            "back": "他比我大。(Tā bǐ wǒ dà.)<div class=\"hint\">A 比 B + adjective = A is more ... than B</div>"
+        },
+        {
+            "front": "He's much bigger than me.",
+            "back": "他比我大很多。(Tā bǐ wǒ dà hěn duō.)"
+        },
+        {
             "front": "important",
             "back": "重要 (zhòngyào)"
         },
@@ -1559,32 +1599,8 @@
             "back": "重 (zhòng)"
         },
         {
-            "front": "My favorite is the armbar.",
-            "back": "我最喜欢十字固。(Wǒ zuì xǐhuān shízì gù.)"
-        },
-        {
-            "front": "He got me with a rear naked choke.",
-            "back": "他用裸绞降服了我。(Tā yòng luǒ jiǎo xiángfú le wǒ.)"
-        },
-        {
             "front": "My opponent is very heavy.",
             "back": "我的对手很重。(Wǒ de duìshǒu hěn zhòng.)"
-        },
-        {
-            "front": "Guard is my best position.",
-            "back": "防守是我的强项。(Fángshǒu shì wǒ de qiángxiàng.)"
-        },
-        {
-            "front": "I want to improve my technique.",
-            "back": "我想提高技术。(Wǒ xiǎng tígāo jìshù.)"
-        },
-        {
-            "front": "He's bigger than me.",
-            "back": "他比我大。(Tā bǐ wǒ dà.)<div class=\"hint\">A 比 B + adjective = A is more ... than B</div>"
-        },
-        {
-            "front": "He's much bigger than me.",
-            "back": "他比我大很多。(Tā bǐ wǒ dà hěn duō.)"
         },
         {
             "front": "Technique beats strength.",
@@ -1599,60 +1615,60 @@
             "back": "体型 (tǐxíng)"
         },
         {
-            "front": "calm",
-            "back": "冷静 (lěngjìng)"
-        },
-        {
-            "front": "balance",
-            "back": "平衡 (pínghéng)"
-        },
-        {
-            "front": "hip (in body movement)",
-            "back": "胯 (kuà)"
-        },
-        {
-            "front": "to move",
-            "back": "动 (dòng)"
-        },
-        {
-            "front": "to use force / to strain",
-            "back": "用力 (yòng lì)"
-        },
-        {
-            "front": "arm",
-            "back": "手臂 (shǒubì)"
-        },
-        {
-            "front": "posture",
-            "back": "姿势 (zīshì)"
-        },
-        {
             "front": "Size doesn't matter in jiu jitsu.",
             "back": "柔术不看体型。(Róushù bú kàn tǐxíng.)<div class=\"hint\">Literally: jiu jitsu doesn't look at build.</div>"
+        },
+        {
+            "front": "calm",
+            "back": "冷静 (lěngjìng)"
         },
         {
             "front": "Stay calm and breathe.",
             "back": "保持冷静，呼吸。(Bǎochí lěngjìng, hūxī.)"
         },
         {
+            "front": "balance",
+            "back": "平衡 (pínghéng)"
+        },
+        {
             "front": "Keep your balance.",
             "back": "保持平衡。(Bǎochí pínghéng.)"
+        },
+        {
+            "front": "hip (in body movement)",
+            "back": "胯 (kuà)"
         },
         {
             "front": "Use your hips.",
             "back": "用你的胯。(Yòng nǐ de kuà.)"
         },
         {
+            "front": "to move",
+            "back": "动 (dòng)"
+        },
+        {
             "front": "Move your hips first.",
             "back": "先动胯。(Xiān dòng kuà.)"
+        },
+        {
+            "front": "to use force / to strain",
+            "back": "用力 (yòng lì)"
         },
         {
             "front": "Don't use so much strength.",
             "back": "别太用力。(Bié tài yòng lì.)"
         },
         {
+            "front": "arm",
+            "back": "手臂 (shǒubì)"
+        },
+        {
             "front": "Relax your arms.",
             "back": "放松手臂。(Fàngsōng shǒubì.)"
+        },
+        {
+            "front": "posture",
+            "back": "姿势 (zīshì)"
         },
         {
             "front": "Keep good posture.",
@@ -1663,20 +1679,48 @@
             "back": "解释 (jiěshì)"
         },
         {
+            "front": "Can you explain it slowly?",
+            "back": "可以慢慢解释吗？(Kěyǐ mànman jiěshì ma?)"
+        },
+        {
+            "front": "Try it on me.",
+            "back": "在我身上试一下。(Zài wǒ shēn shàng shì yīxià.)<div class=\"hint\">身上 = on the body</div>"
+        },
+        {
             "front": "to understand",
             "back": "懂 (dǒng)"
+        },
+        {
+            "front": "I don't quite get this move.",
+            "back": "这个动作我不太懂。(Zhège dòngzuò wǒ bú tài dǒng.)"
         },
         {
             "front": "competition / match",
             "back": "比赛 (bǐsài)"
         },
         {
+            "front": "There's a competition this weekend.",
+            "back": "这周末有比赛。(Zhè zhōumò yǒu bǐsài.)"
+        },
+        {
+            "front": "The tournament was tough.",
+            "back": "比赛很难。(Bǐsài hěn nán.)"
+        },
+        {
             "front": "next month",
             "back": "下个月 (xià gè yuè)"
         },
         {
+            "front": "I'm competing next month.",
+            "back": "我下个月要比赛。(Wǒ xià gè yuè yào bǐsài.)"
+        },
+        {
             "front": "to win",
             "back": "赢 (yíng)"
+        },
+        {
+            "front": "I won the match.",
+            "back": "我赢了比赛。(Wǒ yíng le bǐsài.)"
         },
         {
             "front": "gold medal",
@@ -1687,44 +1731,16 @@
             "back": "得 (dé)<div class=\"hint\">dé = to get. The same character is de after a verb (说得对) and děi = must.</div>"
         },
         {
-            "front": "division / level",
-            "back": "级别 (jíbié)"
-        },
-        {
-            "front": "I don't quite get this move.",
-            "back": "这个动作我不太懂。(Zhège dòngzuò wǒ bú tài dǒng.)"
-        },
-        {
-            "front": "Can you explain it slowly?",
-            "back": "可以慢慢解释吗？(Kěyǐ mànman jiěshì ma?)"
-        },
-        {
-            "front": "Try it on me.",
-            "back": "在我身上试一下。(Zài wǒ shēn shàng shì yīxià.)<div class=\"hint\">身上 = on the body</div>"
-        },
-        {
-            "front": "I'm competing next month.",
-            "back": "我下个月要比赛。(Wǒ xià gè yuè yào bǐsài.)"
-        },
-        {
-            "front": "There's a competition this weekend.",
-            "back": "这周末有比赛。(Zhè zhōumò yǒu bǐsài.)"
-        },
-        {
-            "front": "I won the match.",
-            "back": "我赢了比赛。(Wǒ yíng le bǐsài.)"
-        },
-        {
-            "front": "I won my division.",
-            "back": "我在我的级别赢了。(Wǒ zài wǒ de jíbié yíng le.)"
-        },
-        {
             "front": "I got the gold medal.",
             "back": "我得了金牌。(Wǒ dé le jīnpái.)"
         },
         {
-            "front": "The tournament was tough.",
-            "back": "比赛很难。(Bǐsài hěn nán.)"
+            "front": "division / level",
+            "back": "级别 (jíbié)"
+        },
+        {
+            "front": "I won my division.",
+            "back": "我在我的级别赢了。(Wǒ zài wǒ de jíbié yíng le.)"
         },
         {
             "front": "to lose",
@@ -1735,52 +1751,52 @@
             "back": "决赛 (juésài)"
         },
         {
-            "front": "life",
-            "back": "生活 (shēnghuó)"
-        },
-        {
-            "front": "this sport",
-            "back": "这项运动 (zhè xiàng yùndòng)<div class=\"hint\">运动 = sport / exercise; 项 is its measure word.</div>"
-        },
-        {
-            "front": "community / circle (of people)",
-            "back": "圈子 (quānzi)"
-        },
-        {
-            "front": "to be like / to resemble",
-            "back": "像 (xiàng)"
-        },
-        {
-            "front": "to play chess",
-            "back": "下棋 (xià qí)"
-        },
-        {
-            "front": "anyone (lit. 'whoever, all')",
-            "back": "谁都 (shéi dōu)"
-        },
-        {
             "front": "I lost in the final.",
             "back": "我决赛输了。(Wǒ juésài shū le.)"
+        },
+        {
+            "front": "life",
+            "back": "生活 (shēnghuó)"
         },
         {
             "front": "Jiu jitsu has changed my life.",
             "back": "柔术改变了我的生活。(Róushù gǎibiàn le wǒ de shēnghuó.)"
         },
         {
+            "front": "this sport",
+            "back": "这项运动 (zhè xiàng yùndòng)<div class=\"hint\">运动 = sport / exercise; 项 is its measure word.</div>"
+        },
+        {
             "front": "I love this sport.",
             "back": "我很喜欢这项运动。(Wǒ hěn xǐhuān zhè xiàng yùndòng.)"
+        },
+        {
+            "front": "community / circle (of people)",
+            "back": "圈子 (quānzi)"
         },
         {
             "front": "The community is great.",
             "back": "这个圈子很好。(Zhège quānzi hěn hǎo.)"
         },
         {
+            "front": "to be like / to resemble",
+            "back": "像 (xiàng)"
+        },
+        {
             "front": "My teammates are like family.",
             "back": "我的队友像家人一样。(Wǒ de duìyǒu xiàng jiārén yīyàng.)<div class=\"hint\">像...一样 = just like ...</div>"
         },
         {
+            "front": "to play chess",
+            "back": "下棋 (xià qí)"
+        },
+        {
             "front": "Jiu jitsu is like a chess game.",
             "back": "柔术就像下棋。(Róushù jiù xiàng xià qí.)<div class=\"hint\">就像 = is just like</div>"
+        },
+        {
+            "front": "anyone (lit. 'whoever, all')",
+            "back": "谁都 (shéi dōu)"
         },
         {
             "front": "Anyone can train BJJ.",
@@ -1789,26 +1805,6 @@
         {
             "front": "to wear",
             "back": "穿 (chuān)"
-        },
-        {
-            "front": "gi / kimono",
-            "back": "道服 (dàofú)"
-        },
-        {
-            "front": "a class (节 = measure word for classes)",
-            "back": "一节课 (yī jié kè)"
-        },
-        {
-            "front": "Do you train with a gi?",
-            "back": "你穿道服训练吗？(Nǐ chuān dàofú xùnliàn ma?)"
-        },
-        {
-            "front": "I prefer no-gi.",
-            "back": "我比较喜欢不穿道服训练。(Wǒ bǐjiào xǐhuān bù chuān dàofú xùnliàn.)"
-        },
-        {
-            "front": "Want to try a class?",
-            "back": "想来试一节课吗？(Xiǎng lái shì yī jié kè ma?)"
         },
         {
             "front": "I still have so much to learn.",
@@ -1831,6 +1827,30 @@
             "back": "我的对手比我重。(Wǒ de duìshǒu bǐ wǒ zhòng.)"
         },
         {
+            "front": "We won, cheers!",
+            "back": "我们赢了，干杯！(Wǒmen yíng le, gānbēi!)"
+        },
+        {
+            "front": "gi / kimono",
+            "back": "道服 (dàofú)"
+        },
+        {
+            "front": "Do you train with a gi?",
+            "back": "你穿道服训练吗？(Nǐ chuān dàofú xùnliàn ma?)"
+        },
+        {
+            "front": "I prefer no-gi.",
+            "back": "我比较喜欢不穿道服训练。(Wǒ bǐjiào xǐhuān bù chuān dàofú xùnliàn.)"
+        },
+        {
+            "front": "a class (节 = measure word for classes)",
+            "back": "一节课 (yī jié kè)"
+        },
+        {
+            "front": "Want to try a class?",
+            "back": "想来试一节课吗？(Xiǎng lái shì yī jié kè ma?)"
+        },
+        {
             "front": "social work",
             "back": "社会工作 (shèhuì gōngzuò)"
         },
@@ -1839,8 +1859,16 @@
             "back": "临床 (línchuáng)"
         },
         {
+            "front": "I'm studying clinical social work.",
+            "back": "我在学临床社会工作。(Wǒ zài xué línchuáng shèhuì gōngzuò.)"
+        },
+        {
             "front": "major (course of study)",
             "back": "专业 (zhuānyè)"
+        },
+        {
+            "front": "My major is social work.",
+            "back": "我的专业是社会工作。(Wǒ de zhuānyè shì shèhuì gōngzuò.)"
         },
         {
             "front": "master's degree",
@@ -1851,24 +1879,16 @@
             "back": "读 (dú)"
         },
         {
+            "front": "I'm getting a master's degree.",
+            "back": "我在读硕士。(Wǒ zài dú shuòshì.)"
+        },
+        {
             "front": "to graduate",
             "back": "毕业 (bìyè)"
         },
         {
             "front": "next year",
             "back": "明年 (míngnián)"
-        },
-        {
-            "front": "I'm studying clinical social work.",
-            "back": "我在学临床社会工作。(Wǒ zài xué línchuáng shèhuì gōngzuò.)"
-        },
-        {
-            "front": "My major is social work.",
-            "back": "我的专业是社会工作。(Wǒ de zhuānyè shì shèhuì gōngzuò.)"
-        },
-        {
-            "front": "I'm getting a master's degree.",
-            "back": "我在读硕士。(Wǒ zài dú shuòshì.)"
         },
         {
             "front": "I'll graduate next year.",
@@ -1879,12 +1899,24 @@
             "back": "心理健康 (xīnlǐ jiànkāng)"
         },
         {
+            "front": "Mental health matters.",
+            "back": "心理健康很重要。(Xīnlǐ jiànkāng hěn zhòngyào.)"
+        },
+        {
+            "front": "I love my work.",
+            "back": "我很喜欢我的工作。(Wǒ hěn xǐhuān wǒ de gōngzuò.)"
+        },
+        {
             "front": "therapy / counseling",
             "back": "心理咨询 (xīnlǐ zīxún)"
         },
         {
             "front": "therapist / counselor",
             "back": "心理咨询师 (xīnlǐ zīxún shī)"
+        },
+        {
+            "front": "I want to become a therapist.",
+            "back": "我想做心理咨询师。(Wǒ xiǎng zuò xīnlǐ zīxún shī.)"
         },
         {
             "front": "client (in therapy)",
@@ -1895,64 +1927,68 @@
             "back": "实习 (shíxí)"
         },
         {
-            "front": "clinic",
-            "back": "诊所 (zhěnsuǒ)"
-        },
-        {
-            "front": "to help",
-            "back": "帮助 (bāngzhù)"
-        },
-        {
-            "front": "other people",
-            "back": "别人 (biérén)"
-        },
-        {
-            "front": "adult",
-            "back": "成年人 (chéngnián rén)"
-        },
-        {
-            "front": "I want to become a therapist.",
-            "back": "我想做心理咨询师。(Wǒ xiǎng zuò xīnlǐ zīxún shī.)"
-        },
-        {
-            "front": "Mental health matters.",
-            "back": "心理健康很重要。(Xīnlǐ jiànkāng hěn zhòngyào.)"
-        },
-        {
             "front": "I'm currently interning.",
             "back": "我现在在实习。(Wǒ xiànzài zài shíxí.)"
+        },
+        {
+            "front": "clinic",
+            "back": "诊所 (zhěnsuǒ)"
         },
         {
             "front": "I intern at a clinic.",
             "back": "我在诊所实习。(Wǒ zài zhěnsuǒ shíxí.)"
         },
         {
-            "front": "My clients are adults.",
-            "back": "我的来访者是成年人。(Wǒ de láifǎngzhě shì chéngnián rén.)"
-        },
-        {
-            "front": "I want to help people.",
-            "back": "我想帮助别人。(Wǒ xiǎng bāngzhù biérén.)"
+            "front": "to help",
+            "back": "帮助 (bāngzhù)"
         },
         {
             "front": "Many people need help.",
             "back": "很多人需要帮助。(Hěn duō rén xūyào bāngzhù.)"
         },
         {
-            "front": "I love my work.",
-            "back": "我很喜欢我的工作。(Wǒ hěn xǐhuān wǒ de gōngzuò.)"
+            "front": "other people",
+            "back": "别人 (biérén)"
+        },
+        {
+            "front": "I want to help people.",
+            "back": "我想帮助别人。(Wǒ xiǎng bāngzhù biérén.)"
+        },
+        {
+            "front": "adult",
+            "back": "成年人 (chéngnián rén)"
+        },
+        {
+            "front": "My clients are adults.",
+            "back": "我的来访者是成年人。(Wǒ de láifǎngzhě shì chéngnián rén.)"
         },
         {
             "front": "software engineer",
             "back": "软件工程师 (ruǎnjiàn gōngchéngshī)"
         },
         {
+            "front": "I'm also a software engineer.",
+            "back": "我也是软件工程师。(Wǒ yě shì ruǎnjiàn gōngchéngshī.)"
+        },
+        {
+            "front": "I work from home.",
+            "back": "我在家工作。(Wǒ zài jiā gōngzuò.)"
+        },
+        {
             "front": "code (source code)",
             "back": "代码 (dàimǎ)"
         },
         {
+            "front": "I write code every day.",
+            "back": "我每天写代码。(Wǒ měitiān xiě dàimǎ.)"
+        },
+        {
             "front": "to code / programming",
             "back": "编程 (biānchéng)"
+        },
+        {
+            "front": "Coding and therapy are very different.",
+            "back": "编程和心理咨询很不一样。(Biānchéng hé xīnlǐ zīxún hěn bù yīyàng.)"
         },
         {
             "front": "AI / artificial intelligence",
@@ -1963,12 +1999,20 @@
             "back": "感兴趣 (gǎn xìngqù)"
         },
         {
+            "front": "I'm interested in AI.",
+            "back": "我对人工智能感兴趣。(Wǒ duì réngōng zhìnéng gǎn xìngqù.)"
+        },
+        {
             "front": "company",
             "back": "公司 (gōngsī)"
         },
         {
             "front": "remote (work)",
             "back": "远程 (yuǎnchéng)"
+        },
+        {
+            "front": "My company is remote.",
+            "back": "我的公司是远程的。(Wǒ de gōngsī shì yuǎnchéng de.)"
         },
         {
             "front": "tech / technology",
@@ -1979,36 +2023,12 @@
             "back": "行业 (hángyè)"
         },
         {
-            "front": "change (noun)",
-            "back": "变化 (biànhuà)"
-        },
-        {
-            "front": "I'm also a software engineer.",
-            "back": "我也是软件工程师。(Wǒ yě shì ruǎnjiàn gōngchéngshī.)"
-        },
-        {
-            "front": "I write code every day.",
-            "back": "我每天写代码。(Wǒ měitiān xiě dàimǎ.)"
-        },
-        {
-            "front": "Coding and therapy are very different.",
-            "back": "编程和心理咨询很不一样。(Biānchéng hé xīnlǐ zīxún hěn bù yīyàng.)"
-        },
-        {
-            "front": "I'm interested in AI.",
-            "back": "我对人工智能感兴趣。(Wǒ duì réngōng zhìnéng gǎn xìngqù.)"
-        },
-        {
-            "front": "My company is remote.",
-            "back": "我的公司是远程的。(Wǒ de gōngsī shì yuǎnchéng de.)"
-        },
-        {
-            "front": "I work from home.",
-            "back": "我在家工作。(Wǒ zài jiā gōngzuò.)"
-        },
-        {
             "front": "I work in tech.",
             "back": "我在科技行业工作。(Wǒ zài kējì hángyè gōngzuò.)"
+        },
+        {
+            "front": "change (noun)",
+            "back": "变化 (biànhuà)"
         },
         {
             "front": "Tech changes very fast.",
@@ -2019,80 +2039,72 @@
             "back": "两份工作 (liǎng fèn gōngzuò)<div class=\"hint\">份 is the measure word for jobs.</div>"
         },
         {
-            "front": "full-time",
-            "back": "全职 (quánzhí)"
-        },
-        {
-            "front": "part-time",
-            "back": "兼职 (jiānzhí)"
-        },
-        {
-            "front": "at the same time",
-            "back": "同时 (tóngshí)"
-        },
-        {
-            "front": "all along / constantly / always (continuous)",
-            "back": "一直 (yīzhí)"
-        },
-        {
-            "front": "but (short form of 但是)",
-            "back": "但 (dàn)"
-        },
-        {
-            "front": "must / have to",
-            "back": "得 (děi)<div class=\"hint\">děi, not dé: 我得走了 = I have to go.</div>"
-        },
-        {
-            "front": "when ... / at the time of ... (goes after the clause)",
-            "back": "的时候 (de shíhou)"
-        },
-        {
-            "front": "in order to / for the sake of",
-            "back": "为了 (wèile)"
-        },
-        {
-            "front": "to combine",
-            "back": "结合 (jiéhé)"
-        },
-        {
             "front": "I have two jobs.",
             "back": "我有两份工作。(Wǒ yǒu liǎng fèn gōngzuò.)"
-        },
-        {
-            "front": "I work full-time.",
-            "back": "我做全职工作。(Wǒ zuò quánzhí gōngzuò.)"
-        },
-        {
-            "front": "I work part-time.",
-            "back": "我做兼职工作。(Wǒ zuò jiānzhí gōngzuò.)"
-        },
-        {
-            "front": "I do both at the same time.",
-            "back": "我同时做两份工作。(Wǒ tóngshí zuò liǎng fèn gōngzuò.)"
-        },
-        {
-            "front": "I'm always busy.",
-            "back": "我一直很忙。(Wǒ yīzhí hěn máng.)"
         },
         {
             "front": "It's a lot.",
             "back": "这挺多的。(Zhè tǐng duō de.)"
         },
         {
+            "front": "full-time",
+            "back": "全职 (quánzhí)"
+        },
+        {
+            "front": "I work full-time.",
+            "back": "我做全职工作。(Wǒ zuò quánzhí gōngzuò.)"
+        },
+        {
+            "front": "at the same time",
+            "back": "同时 (tóngshí)"
+        },
+        {
+            "front": "I do both at the same time.",
+            "back": "我同时做两份工作。(Wǒ tóngshí zuò liǎng fèn gōngzuò.)"
+        },
+        {
+            "front": "all along / constantly / always (continuous)",
+            "back": "一直 (yīzhí)"
+        },
+        {
+            "front": "I'm always busy.",
+            "back": "我一直很忙。(Wǒ yīzhí hěn máng.)"
+        },
+        {
+            "front": "but (short form of 但是)",
+            "back": "但 (dàn)"
+        },
+        {
             "front": "But I love what I do.",
             "back": "但我喜欢我做的事。(Dàn wǒ xǐhuān wǒ zuò de shì.)"
+        },
+        {
+            "front": "must / have to",
+            "back": "得 (děi)<div class=\"hint\">děi, not dé: 我得走了 = I have to go.</div>"
         },
         {
             "front": "I have to keep learning new things.",
             "back": "我得一直学新东西。(Wǒ děi yīzhí xué xīn dōngxi.)"
         },
         {
+            "front": "when ... / at the time of ... (goes after the clause)",
+            "back": "的时候 (de shíhou)"
+        },
+        {
             "front": "I use AI when I work.",
             "back": "我工作的时候用人工智能。(Wǒ gōngzuò de shíhou yòng réngōng zhìnéng.)"
         },
         {
+            "front": "in order to / for the sake of",
+            "back": "为了 (wèile)"
+        },
+        {
             "front": "But both are for helping people.",
             "back": "但都是为了帮助别人。(Dàn dōu shì wèile bāngzhù biérén.)"
+        },
+        {
+            "front": "to combine",
+            "back": "结合 (jiéhé)"
         },
         {
             "front": "I want to combine the two.",
@@ -2101,46 +2113,6 @@
         {
             "front": "long-term",
             "back": "长远 (chángyuǎn)"
-        },
-        {
-            "front": "goal",
-            "back": "目标 (mùbiāo)"
-        },
-        {
-            "front": "Greek (language)",
-            "back": "希腊语 (Xīlà yǔ)"
-        },
-        {
-            "front": "language",
-            "back": "语言 (yǔyán)"
-        },
-        {
-            "front": "immigrant",
-            "back": "移民 (yímín)"
-        },
-        {
-            "front": "tradition",
-            "back": "传统 (chuántǒng)"
-        },
-        {
-            "front": "That's my long-term goal.",
-            "back": "这是我长远的目标。(Zhè shì wǒ chángyuǎn de mùbiāo.)"
-        },
-        {
-            "front": "I speak a bit of Greek.",
-            "back": "我会说一点希腊语。(Wǒ huì shuō yīdiǎn Xīlà yǔ.)"
-        },
-        {
-            "front": "I speak three languages.",
-            "back": "我会说三种语言。(Wǒ huì shuō sān zhǒng yǔyán.)"
-        },
-        {
-            "front": "My mom is an immigrant.",
-            "back": "我妈妈是移民。(Wǒ māma shì yímín.)"
-        },
-        {
-            "front": "My family has many traditions.",
-            "back": "我家有很多传统。(Wǒ jiā yǒu hěn duō chuántǒng.)"
         },
         {
             "front": "I'm busy but happy.",
@@ -2155,40 +2127,56 @@
             "back": "我的伴侣也在家工作。(Wǒ de bànlǚ yě zài jiā gōngzuò.)"
         },
         {
+            "front": "goal",
+            "back": "目标 (mùbiāo)"
+        },
+        {
+            "front": "That's my long-term goal.",
+            "back": "这是我长远的目标。(Zhè shì wǒ chángyuǎn de mùbiāo.)"
+        },
+        {
+            "front": "Greek (language)",
+            "back": "希腊语 (Xīlà yǔ)"
+        },
+        {
+            "front": "I speak a bit of Greek.",
+            "back": "我会说一点希腊语。(Wǒ huì shuō yīdiǎn Xīlà yǔ.)"
+        },
+        {
+            "front": "language",
+            "back": "语言 (yǔyán)"
+        },
+        {
+            "front": "I speak three languages.",
+            "back": "我会说三种语言。(Wǒ huì shuō sān zhǒng yǔyán.)"
+        },
+        {
+            "front": "immigrant",
+            "back": "移民 (yímín)"
+        },
+        {
+            "front": "My mom is an immigrant.",
+            "back": "我妈妈是移民。(Wǒ māma shì yímín.)"
+        },
+        {
+            "front": "tradition",
+            "back": "传统 (chuántǒng)"
+        },
+        {
+            "front": "My family has many traditions.",
+            "back": "我家有很多传统。(Wǒ jiā yǒu hěn duō chuántǒng.)"
+        },
+        {
+            "front": "part-time",
+            "back": "兼职 (jiānzhí)"
+        },
+        {
+            "front": "My sister works part-time.",
+            "back": "我妹妹做兼职工作。(Wǒ mèimei zuò jiānzhí gōngzuò.)"
+        },
+        {
             "front": "hobby",
             "back": "爱好 (àihào)"
-        },
-        {
-            "front": "good food / cuisine (as a hobby)",
-            "back": "美食 (měishí)"
-        },
-        {
-            "front": "interest",
-            "back": "兴趣 (xìngqù)"
-        },
-        {
-            "front": "new things (in general)",
-            "back": "新事物 (xīn shìwù)"
-        },
-        {
-            "front": "pressure / stress",
-            "back": "压力 (yālì)"
-        },
-        {
-            "front": "focused / attentive",
-            "back": "专心 (zhuānxīn)"
-        },
-        {
-            "front": "learn while watching (边 A 边 B = do B while doing A)",
-            "back": "边看边学 (biān kàn biān xué)"
-        },
-        {
-            "front": "finished (after a verb: 吃完 = finish eating)",
-            "back": "完 (wán)"
-        },
-        {
-            "front": "My hobbies are tea, food, and jiu jitsu.",
-            "back": "我的爱好是茶、美食和柔术。(Wǒ de àihào shì chá, měishí hé róushù.)"
         },
         {
             "front": "What are your hobbies?",
@@ -2199,28 +2187,60 @@
             "back": "你有空的时候做什么？(Nǐ yǒu kòng de shíhou zuò shénme?)"
         },
         {
+            "front": "Cooking relaxes me.",
+            "back": "做饭让我放松。(Zuò fàn ràng wǒ fàngsōng.)"
+        },
+        {
+            "front": "good food / cuisine (as a hobby)",
+            "back": "美食 (měishí)"
+        },
+        {
+            "front": "My hobbies are tea, food, and jiu jitsu.",
+            "back": "我的爱好是茶、美食和柔术。(Wǒ de àihào shì chá, měishí hé róushù.)"
+        },
+        {
+            "front": "interest",
+            "back": "兴趣 (xìngqù)"
+        },
+        {
             "front": "I have a lot of interests.",
             "back": "我兴趣很多。(Wǒ xìngqù hěn duō.)"
+        },
+        {
+            "front": "new things (in general)",
+            "back": "新事物 (xīn shìwù)"
         },
         {
             "front": "I love trying new things.",
             "back": "我喜欢尝试新事物。(Wǒ xǐhuān chángshì xīn shìwù.)"
         },
         {
-            "front": "Cooking relaxes me.",
-            "back": "做饭让我放松。(Zuò fàn ràng wǒ fàngsōng.)"
+            "front": "pressure / stress",
+            "back": "压力 (yālì)"
         },
         {
             "front": "I cook when I'm stressed.",
             "back": "我压力大的时候做饭。(Wǒ yālì dà de shíhou zuò fàn.)<div class=\"hint\">压力大 = stressed (lit. pressure is big)</div>"
         },
         {
+            "front": "focused / attentive",
+            "back": "专心 (zhuānxīn)"
+        },
+        {
             "front": "Tea helps me focus.",
             "back": "喝茶让我专心。(Hē chá ràng wǒ zhuānxīn.)"
         },
         {
+            "front": "code while drinking tea (边 A 边 B = do A while doing B)",
+            "back": "边写代码边喝茶 (biān xiě dàimǎ biān hē chá)"
+        },
+        {
             "front": "I drink tea while I code.",
             "back": "我边写代码边喝茶。(Wǒ biān xiě dàimǎ biān hē chá.)"
+        },
+        {
+            "front": "finished (after a verb: 吃完 = finish eating)",
+            "back": "完 (wán)"
         },
         {
             "front": "After training, I'm starving.",
@@ -2239,16 +2259,36 @@
             "back": "主要 (zhǔyào)"
         },
         {
+            "front": "Jiu jitsu is my main exercise.",
+            "back": "柔术是我主要的运动。(Róushù shì wǒ zhǔyào de yùndòng.)"
+        },
+        {
+            "front": "I rarely do other workouts.",
+            "back": "我很少做别的运动。(Wǒ hěn shǎo zuò bié de yùndòng.)"
+        },
+        {
             "front": "to lift weights",
             "back": "举重 (jǔzhòng)"
+        },
+        {
+            "front": "I lift weights sometimes.",
+            "back": "我有时候举重。(Wǒ yǒu shíhou jǔzhòng.)"
         },
         {
             "front": "stretching / to stretch",
             "back": "拉伸 (lāshēn)"
         },
         {
+            "front": "I should stretch more.",
+            "back": "我应该多拉伸。(Wǒ yīnggāi duō lāshēn.)"
+        },
+        {
             "front": "to ride a bike",
             "back": "骑车 (qí chē)"
+        },
+        {
+            "front": "I bike to the gym.",
+            "back": "我骑车去道馆。(Wǒ qí chē qù dàoguǎn.)"
         },
         {
             "front": "to start / to begin",
@@ -2259,38 +2299,6 @@
             "back": "冥想 (míngxiǎng)"
         },
         {
-            "front": "book",
-            "back": "书 (shū)"
-        },
-        {
-            "front": "podcast",
-            "back": "播客 (bōkè)"
-        },
-        {
-            "front": "a book (本 = measure word for books)",
-            "back": "一本书 (yī běn shū)"
-        },
-        {
-            "front": "Jiu jitsu is my main exercise.",
-            "back": "柔术是我主要的运动。(Róushù shì wǒ zhǔyào de yùndòng.)"
-        },
-        {
-            "front": "I rarely do other workouts.",
-            "back": "我很少做别的运动。(Wǒ hěn shǎo zuò bié de yùndòng.)"
-        },
-        {
-            "front": "I lift weights sometimes.",
-            "back": "我有时候举重。(Wǒ yǒu shíhou jǔzhòng.)"
-        },
-        {
-            "front": "I should stretch more.",
-            "back": "我应该多拉伸。(Wǒ yīnggāi duō lāshēn.)"
-        },
-        {
-            "front": "I bike to the gym.",
-            "back": "我骑车去道馆。(Wǒ qí chē qù dàoguǎn.)"
-        },
-        {
             "front": "I want to start meditating.",
             "back": "我想开始冥想。(Wǒ xiǎng kāishǐ míngxiǎng.)"
         },
@@ -2299,12 +2307,24 @@
             "back": "喝茶很像冥想。(Hē chá hěn xiàng míngxiǎng.)"
         },
         {
+            "front": "book",
+            "back": "书 (shū)"
+        },
+        {
             "front": "I read books about mental health.",
             "back": "我读心理健康的书。(Wǒ dú xīnlǐ jiànkāng de shū.)"
         },
         {
+            "front": "podcast",
+            "back": "播客 (bōkè)"
+        },
+        {
             "front": "I listen to podcasts.",
             "back": "我听播客。(Wǒ tīng bōkè.)"
+        },
+        {
+            "front": "a Chinese book (本 = measure word for books)",
+            "back": "一本中文书 (yī běn Zhōngwén shū)"
         },
         {
             "front": "I'm reading a Chinese book.",
@@ -2313,42 +2333,6 @@
         {
             "front": "fluent",
             "back": "流利 (liúlì)"
-        },
-        {
-            "front": "challenge",
-            "back": "挑战 (tiǎozhàn)"
-        },
-        {
-            "front": "for me / as far as I'm concerned",
-            "back": "对我来说 (duì wǒ lái shuō)"
-        },
-        {
-            "front": "tones (of Mandarin)",
-            "back": "声调 (shēngdiào)"
-        },
-        {
-            "front": "Chinese characters",
-            "back": "汉字 (hànzì)"
-        },
-        {
-            "front": "always / keeps on (mildly annoyed tone)",
-            "back": "老是 (lǎoshì)"
-        },
-        {
-            "front": "easy",
-            "back": "容易 (róngyì)"
-        },
-        {
-            "front": "language exchange",
-            "back": "语言交换 (yǔyán jiāohuàn)"
-        },
-        {
-            "front": "or (in statements)",
-            "back": "或者 (huòzhě)"
-        },
-        {
-            "front": "okay / works / will do",
-            "back": "行 (xíng)"
         },
         {
             "front": "I practice Chinese every day.",
@@ -2363,40 +2347,12 @@
             "back": "学中文挺难的。(Xué Zhōngwén tǐng nán de.)"
         },
         {
-            "front": "But I love the challenge.",
-            "back": "但我喜欢挑战。(Dàn wǒ xǐhuān tiǎozhàn.)"
-        },
-        {
-            "front": "Tones are hard for me.",
-            "back": "声调对我来说很难。(Shēngdiào duì wǒ lái shuō hěn nán.)"
-        },
-        {
-            "front": "I forget characters all the time.",
-            "back": "我老是忘汉字。(Wǒ lǎoshì wàng hànzì.)"
-        },
-        {
-            "front": "Writing characters is the hardest part.",
-            "back": "写汉字最难。(Xiě hànzì zuì nán.)"
-        },
-        {
-            "front": "Speaking is easier for me.",
-            "back": "说比较容易。(Shuō bǐjiào róngyì.)"
-        },
-        {
             "front": "I learn from my Chinese friends.",
             "back": "我从中国朋友那里学。(Wǒ cóng Zhōngguó péngyou nàlǐ xué.)"
         },
         {
-            "front": "Want to do a language exchange with me?",
-            "back": "你想跟我做语言交换吗？(Nǐ xiǎng gēn wǒ zuò yǔyán jiāohuàn ma?)"
-        },
-        {
             "front": "I can teach you English.",
             "back": "我可以教你英语。(Wǒ kěyǐ jiāo nǐ Yīngyǔ.)"
-        },
-        {
-            "front": "Or Spanish, that works too.",
-            "back": "或者西班牙语也行。(Huòzhě Xībānyá yǔ yě xíng.)"
         },
         {
             "front": "I read while drinking tea.",
@@ -2411,48 +2367,72 @@
             "back": "我的爱好都有点贵。(Wǒ de àihào dōu yǒudiǎn guì.)"
         },
         {
+            "front": "challenge",
+            "back": "挑战 (tiǎozhàn)"
+        },
+        {
+            "front": "But I love the challenge.",
+            "back": "但我喜欢挑战。(Dàn wǒ xǐhuān tiǎozhàn.)"
+        },
+        {
+            "front": "for me / as far as I'm concerned",
+            "back": "对我来说 (duì wǒ lái shuō)"
+        },
+        {
+            "front": "tones (of Mandarin)",
+            "back": "声调 (shēngdiào)"
+        },
+        {
+            "front": "Tones are hard for me.",
+            "back": "声调对我来说很难。(Shēngdiào duì wǒ lái shuō hěn nán.)"
+        },
+        {
+            "front": "Chinese characters",
+            "back": "汉字 (hànzì)"
+        },
+        {
+            "front": "Writing characters is the hardest part.",
+            "back": "写汉字最难。(Xiě hànzì zuì nán.)"
+        },
+        {
+            "front": "always / keeps on (mildly annoyed tone)",
+            "back": "老是 (lǎoshì)"
+        },
+        {
+            "front": "I forget characters all the time.",
+            "back": "我老是忘汉字。(Wǒ lǎoshì wàng hànzì.)"
+        },
+        {
+            "front": "easy",
+            "back": "容易 (róngyì)"
+        },
+        {
+            "front": "Speaking is easier for me.",
+            "back": "说比较容易。(Shuō bǐjiào róngyì.)"
+        },
+        {
+            "front": "language exchange",
+            "back": "语言交换 (yǔyán jiāohuàn)"
+        },
+        {
+            "front": "Want to do a language exchange with me?",
+            "back": "你想跟我做语言交换吗？(Nǐ xiǎng gēn wǒ zuò yǔyán jiāohuàn ma?)"
+        },
+        {
+            "front": "or (in statements)",
+            "back": "或者 (huòzhě)"
+        },
+        {
+            "front": "okay / works / will do",
+            "back": "行 (xíng)"
+        },
+        {
+            "front": "Or Spanish, that works too.",
+            "back": "或者西班牙语也行。(Huòzhě Xībānyá yǔ yě xíng.)"
+        },
+        {
             "front": "to introduce",
             "back": "介绍 (jièshào)"
-        },
-        {
-            "front": "afterwards / after that",
-            "back": "之后 (zhīhòu)"
-        },
-        {
-            "front": "to find time",
-            "back": "找时间 (zhǎo shíjiān)"
-        },
-        {
-            "front": "country",
-            "back": "国家 (guójiā)"
-        },
-        {
-            "front": "or (in questions: A or B?)",
-            "back": "还是 (háishi)"
-        },
-        {
-            "front": "alcohol",
-            "back": "酒 (jiǔ)"
-        },
-        {
-            "front": "a few years",
-            "back": "几年 (jǐ nián)"
-        },
-        {
-            "front": "during the pandemic",
-            "back": "疫情期间 (yìqíng qījiān)<div class=\"hint\">疫情 = pandemic; 期间 = during (a period)</div>"
-        },
-        {
-            "front": "to become",
-            "back": "成 (chéng)"
-        },
-        {
-            "front": "habit",
-            "back": "习惯 (xíguàn)"
-        },
-        {
-            "front": "Let's meet up sometime.",
-            "back": "我们找时间见面吧。(Wǒmen zhǎo shíjiān jiànmiàn ba.)"
         },
         {
             "front": "I'd love to introduce you to my friends.",
@@ -2461,10 +2441,6 @@
         {
             "front": "They're really nice.",
             "back": "他们人都很好。(Tāmen rén dōu hěn hǎo.)<div class=\"hint\">Literally: as people they're all very good.</div>"
-        },
-        {
-            "front": "We can grab food afterward.",
-            "back": "我们之后可以一起吃饭。(Wǒmen zhīhòu kěyǐ yīqǐ chīfàn.)"
         },
         {
             "front": "Want to come watch me train?",
@@ -2479,14 +2455,6 @@
             "back": "你要一起去吗？(Nǐ yào yīqǐ qù ma?)"
         },
         {
-            "front": "What's your favorite cuisine?",
-            "back": "你最喜欢哪个国家的菜？(Nǐ zuì xǐhuān nǎge guójiā de cài?)"
-        },
-        {
-            "front": "Are you a tea or coffee person?",
-            "back": "你喜欢茶还是咖啡？(Nǐ xǐhuān chá háishi kāfēi?)<div class=\"hint\">还是 = or, only in questions; 或者 = or, in statements.</div>"
-        },
-        {
             "front": "I'm a tea person.",
             "back": "我是喝茶的。(Wǒ shì hē chá de.)"
         },
@@ -2495,20 +2463,72 @@
             "back": "咖啡对我来说太浓了。(Kāfēi duì wǒ lái shuō tài nóng le.)"
         },
         {
+            "front": "I prefer tea or water.",
+            "back": "我比较喜欢茶或者水。(Wǒ bǐjiào xǐhuān chá huòzhě shuǐ.)"
+        },
+        {
+            "front": "afterwards / after that",
+            "back": "之后 (zhīhòu)"
+        },
+        {
+            "front": "We can grab food afterward.",
+            "back": "我们之后可以一起吃饭。(Wǒmen zhīhòu kěyǐ yīqǐ chīfàn.)"
+        },
+        {
+            "front": "to find time",
+            "back": "找时间 (zhǎo shíjiān)"
+        },
+        {
+            "front": "Let's meet up sometime.",
+            "back": "我们找时间见面吧。(Wǒmen zhǎo shíjiān jiànmiàn ba.)"
+        },
+        {
+            "front": "country",
+            "back": "国家 (guójiā)"
+        },
+        {
+            "front": "What's your favorite cuisine?",
+            "back": "你最喜欢哪个国家的菜？(Nǐ zuì xǐhuān nǎge guójiā de cài?)"
+        },
+        {
+            "front": "or (in questions: A or B?)",
+            "back": "还是 (háishi)"
+        },
+        {
+            "front": "Are you a tea or coffee person?",
+            "back": "你喜欢茶还是咖啡？(Nǐ xǐhuān chá háishi kāfēi?)<div class=\"hint\">还是 = or, only in questions; 或者 = or, in statements.</div>"
+        },
+        {
+            "front": "alcohol",
+            "back": "酒 (jiǔ)"
+        },
+        {
             "front": "I rarely drink alcohol.",
             "back": "我很少喝酒。(Wǒ hěn shǎo hē jiǔ.)"
         },
         {
-            "front": "I prefer tea or water.",
-            "back": "我比较喜欢茶或者水。(Wǒ bǐjiào xǐhuān chá huòzhě shuǐ.)"
+            "front": "a few years",
+            "back": "几年 (jǐ nián)"
         },
         {
             "front": "I've been into tea for a few years.",
             "back": "我喝茶几年了。(Wǒ hē chá jǐ nián le.)"
         },
         {
+            "front": "during the pandemic",
+            "back": "疫情期间 (yìqíng qījiān)<div class=\"hint\">疫情 = pandemic; 期间 = during (a period)</div>"
+        },
+        {
             "front": "I started drinking tea during the pandemic.",
             "back": "我是疫情期间开始喝茶的。(Wǒ shì yìqíng qījiān kāishǐ hē chá de.)"
+        },
+        {
+            "front": "to become",
+            "back": "成 (chéng)"
+        },
+        {
+            "front": "habit",
+            "back": "习惯 (xíguàn)"
         },
         {
             "front": "It's become a daily habit.",
@@ -2517,42 +2537,6 @@
         {
             "front": "Hangzhou",
             "back": "杭州 (Hángzhōu)"
-        },
-        {
-            "front": "Longjing (Dragon Well) tea",
-            "back": "龙井 (Lóngjǐng)"
-        },
-        {
-            "front": "to judge / to assess",
-            "back": "判断 (pànduàn)"
-        },
-        {
-            "front": "quality",
-            "back": "质量 (zhìliàng)"
-        },
-        {
-            "front": "whole / intact",
-            "back": "完整 (wánzhěng)"
-        },
-        {
-            "front": "aroma",
-            "back": "香气 (xiāngqì)"
-        },
-        {
-            "front": "natural",
-            "back": "自然 (zìrán)"
-        },
-        {
-            "front": "Chengdu",
-            "back": "成都 (Chéngdū)"
-        },
-        {
-            "front": "before bed",
-            "back": "睡前 (shuì qián)"
-        },
-        {
-            "front": "digestion",
-            "back": "消化 (xiāohuà)"
         },
         {
             "front": "Have you been to America?",
@@ -2571,88 +2555,84 @@
             "back": "在中国应该去哪里？(Zài Zhōngguó yīnggāi qù nǎlǐ?)"
         },
         {
-            "front": "I hear Hangzhou's Longjing is great.",
-            "back": "听说杭州的龙井很好。(Tīngshuō Hángzhōu de Lóngjǐng hěn hǎo.)"
-        },
-        {
-            "front": "I judge tea quality by the leaves.",
-            "back": "我看茶叶判断质量。(Wǒ kàn cháyè pànduàn zhìliàng.)"
-        },
-        {
-            "front": "The leaves should be whole.",
-            "back": "茶叶应该是完整的。(Cháyè yīnggāi shì wánzhěng de.)"
-        },
-        {
-            "front": "The aroma should be natural.",
-            "back": "香气应该是自然的。(Xiāngqì yīnggāi shì zìrán de.)"
-        },
-        {
             "front": "The aftertaste should be sweet.",
             "back": "回甘应该是甜的。(Huígān yīnggāi shì tián de.)"
-        },
-        {
-            "front": "Have you been to a teahouse in Chengdu?",
-            "back": "你去过成都的茶馆吗？(Nǐ qù guò Chéngdū de cháguǎn ma?)"
-        },
-        {
-            "front": "Sometimes I drink tea before bed.",
-            "back": "我有时候睡前喝茶。(Wǒ yǒu shíhou shuì qián hē chá.)"
-        },
-        {
-            "front": "Tea helps with digestion.",
-            "back": "茶帮助消化。(Chá bāngzhù xiāohuà.)"
         },
         {
             "front": "I drink tea after a heavy meal.",
             "back": "吃完油腻的饭我喝茶。(Chī wán yóunì de fàn wǒ hē chá.)"
         },
         {
+            "front": "Longjing (Dragon Well) tea",
+            "back": "龙井 (Lóngjǐng)"
+        },
+        {
+            "front": "I hear Hangzhou's Longjing is great.",
+            "back": "听说杭州的龙井很好。(Tīngshuō Hángzhōu de Lóngjǐng hěn hǎo.)"
+        },
+        {
+            "front": "to judge / to assess",
+            "back": "判断 (pànduàn)"
+        },
+        {
+            "front": "quality",
+            "back": "质量 (zhìliàng)"
+        },
+        {
+            "front": "I judge tea quality by the leaves.",
+            "back": "我看茶叶判断质量。(Wǒ kàn cháyè pànduàn zhìliàng.)"
+        },
+        {
+            "front": "whole / intact",
+            "back": "完整 (wánzhěng)"
+        },
+        {
+            "front": "The leaves should be whole.",
+            "back": "茶叶应该是完整的。(Cháyè yīnggāi shì wánzhěng de.)"
+        },
+        {
+            "front": "aroma",
+            "back": "香气 (xiāngqì)"
+        },
+        {
+            "front": "natural",
+            "back": "自然 (zìrán)"
+        },
+        {
+            "front": "The aroma should be natural.",
+            "back": "香气应该是自然的。(Xiāngqì yīnggāi shì zìrán de.)"
+        },
+        {
+            "front": "Chengdu",
+            "back": "成都 (Chéngdū)"
+        },
+        {
+            "front": "Have you been to a teahouse in Chengdu?",
+            "back": "你去过成都的茶馆吗？(Nǐ qù guò Chéngdū de cháguǎn ma?)"
+        },
+        {
+            "front": "before bed",
+            "back": "睡前 (shuì qián)"
+        },
+        {
+            "front": "Sometimes I drink tea before bed.",
+            "back": "我有时候睡前喝茶。(Wǒ yǒu shíhou shuì qián hē chá.)"
+        },
+        {
+            "front": "digestion",
+            "back": "消化 (xiāohuà)"
+        },
+        {
+            "front": "Tea helps with digestion.",
+            "back": "茶帮助消化。(Chá bāngzhù xiāohuà.)"
+        },
+        {
             "front": "some (of them)",
             "back": "有些 (yǒuxiē)"
         },
         {
-            "front": "thermos",
-            "back": "保温杯 (bǎowēn bēi)"
-        },
-        {
-            "front": "special",
-            "back": "特别 (tèbié)"
-        },
-        {
-            "front": "to learn (and take in): 学 + 到",
-            "back": "学到 (xué dào)"
-        },
-        {
-            "front": "patience",
-            "back": "耐心 (nàixīn)"
-        },
-        {
-            "front": "so / this (degree: 这么好 = this good)",
-            "back": "这么 (zhème)"
-        },
-        {
-            "front": "to chat",
-            "back": "聊天 (liáotiān)"
-        },
-        {
-            "front": "to chat (short form)",
-            "back": "聊 (liáo)"
-        },
-        {
-            "front": "pleasant / happy",
-            "back": "愉快 (yúkuài)"
-        },
-        {
-            "front": "to hope",
-            "back": "希望 (xīwàng)"
-        },
-        {
             "front": "Some teas don't have much caffeine.",
             "back": "有些茶咖啡因不多。(Yǒuxiē chá kāfēiyīn bù duō.)"
-        },
-        {
-            "front": "I always bring a thermos.",
-            "back": "我总是带保温杯。(Wǒ zǒngshì dài bǎowēn bēi.)"
         },
         {
             "front": "Do you have a recommendation?",
@@ -2663,24 +2643,8 @@
             "back": "推荐一个便宜的。(Tuījiàn yīgè piányí de.)"
         },
         {
-            "front": "Recommend something special.",
-            "back": "推荐一个特别的。(Tuījiàn yīgè tèbié de.)"
-        },
-        {
             "front": "I trust your recommendation.",
             "back": "我相信你的推荐。(Wǒ xiāngxìn nǐ de tuījiàn.)"
-        },
-        {
-            "front": "I really learned a lot today.",
-            "back": "我今天学到很多。(Wǒ jīntiān xué dào hěn duō.)"
-        },
-        {
-            "front": "Thanks for being so patient.",
-            "back": "谢谢你这么有耐心。(Xièxie nǐ zhème yǒu nàixīn.)"
-        },
-        {
-            "front": "I really enjoy chatting with you.",
-            "back": "我很喜欢和你聊天。(Wǒ hěn xǐhuān hé nǐ liáotiān.)"
         },
         {
             "front": "I have to head out now.",
@@ -2699,24 +2663,80 @@
             "back": "我到家给你发消息。(Wǒ dào jiā gěi nǐ fā xiāoxi.)"
         },
         {
+            "front": "Rest well.",
+            "back": "好好休息。(Hǎohǎo xiūxi.)"
+        },
+        {
+            "front": "thermos",
+            "back": "保温杯 (bǎowēn bēi)"
+        },
+        {
+            "front": "I always bring a thermos.",
+            "back": "我总是带保温杯。(Wǒ zǒngshì dài bǎowēn bēi.)"
+        },
+        {
+            "front": "special",
+            "back": "特别 (tèbié)"
+        },
+        {
+            "front": "Recommend something special.",
+            "back": "推荐一个特别的。(Tuījiàn yīgè tèbié de.)"
+        },
+        {
+            "front": "to learn (and take in): 学 + 到",
+            "back": "学到 (xué dào)"
+        },
+        {
+            "front": "I really learned a lot today.",
+            "back": "我今天学到很多。(Wǒ jīntiān xué dào hěn duō.)"
+        },
+        {
+            "front": "patience",
+            "back": "耐心 (nàixīn)"
+        },
+        {
+            "front": "so / this (degree: 这么好 = this good)",
+            "back": "这么 (zhème)"
+        },
+        {
+            "front": "Thanks for being so patient.",
+            "back": "谢谢你这么有耐心。(Xièxie nǐ zhème yǒu nàixīn.)"
+        },
+        {
+            "front": "to chat",
+            "back": "聊天 (liáotiān)"
+        },
+        {
+            "front": "to chat (short form)",
+            "back": "聊 (liáo)"
+        },
+        {
+            "front": "I really enjoy chatting with you.",
+            "back": "我很喜欢和你聊天。(Wǒ hěn xǐhuān hé nǐ liáotiān.)"
+        },
+        {
             "front": "Talk to you tomorrow.",
             "back": "明天再聊。(Míngtiān zài liáo.)"
+        },
+        {
+            "front": "pleasant / happy",
+            "back": "愉快 (yúkuài)"
         },
         {
             "front": "Have a good evening.",
             "back": "晚上愉快。(Wǎnshang yúkuài.)"
         },
         {
-            "front": "Rest well.",
-            "back": "好好休息。(Hǎohǎo xiūxi.)"
+            "front": "It was great chatting with you.",
+            "back": "跟你聊天很愉快。(Gēn nǐ liáotiān hěn yúkuài.)"
+        },
+        {
+            "front": "to hope",
+            "back": "希望 (xīwàng)"
         },
         {
             "front": "I hope we meet again.",
             "back": "希望我们再见面。(Xīwàng wǒmen zài jiànmiàn.)"
-        },
-        {
-            "front": "It was great chatting with you.",
-            "back": "跟你聊天很愉快。(Gēn nǐ liáotiān hěn yúkuài.)"
         }
     ]
 }
