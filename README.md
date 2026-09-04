@@ -96,10 +96,19 @@ python generate_deck.py decks/recall_my_deck.json --audio --voice zh-CN-Xiaoxiao
 
 | Field | Description | Default |
 |---|---|---|
+| `description` | Text shown in Anki's deck overview (prerequisites, recommended settings) | empty |
 | `deck_id` | Stable numeric ID for the deck | Auto-generated from `deck_name` |
 | `model_id` | Stable numeric ID for the card model | Auto-generated from `model_name` |
 | `model_name` | Name for the card template | `"{deck_name} Model"` |
 | `css` | Custom CSS for card styling | Clean centered layout, 24px font |
+
+### Subtext on the back
+
+Append `<div class="hint">…</div>` to a card's `back` for a short explanation (meaning nuance, stem change, regional usage). It renders small and gray under the answer and is never read by the TTS.
+
+```json
+{ "front": "to stand up", "back": "pararse<div class=\"hint\">In Mexico pararse = to stand up; in Spain it means to stop.</div>" }
+```
 
 ### Encoding
 

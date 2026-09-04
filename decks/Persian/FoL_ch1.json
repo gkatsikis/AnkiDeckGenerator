@@ -1,0 +1,318 @@
+{
+  "deck_name": "FoL_ch1 - Hafez",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">هر چند پیر و خسته‌دل و ناتوان شدم</div>",
+      "back": "However old, incapable,<br>And heart-sick I may be,<br>The moment I recall your face<br>My youth's restored to me;"
+    },
+    {
+      "front": "<div class=\"fa\">زلف آشفته و خوی‌کرده و خندان‌لب و مست</div>",
+      "back": "Last night she brought me wine, and sat beside my pillow;<br>Her hair hung loose, her dress was torn, her face perspired –<br>She smiled and sang of love, with mischief in her eyes,<br>And whispering in my ear, she drunkenly inquired:"
+    },
+    {
+      "front": "<div class=\"fa\">گل بی رخ یار خوش نباشد</div>",
+      "back": "A flower, without a friend's face there, I think<br>that isn't good"
+    },
+    {
+      "front": "<div class=\"fa\">یاری اندر کس نمی‌بینم یاران را چه شد</div>",
+      "back": "I see no love in anyone,<br>Where, then, have all the lovers gone?"
+    },
+    {
+      "front": "<div class=\"fa\">صحن بستان ذوق‌بخش و صحبت یاران خوش است</div>",
+      "back": "The orchard charms our hearts, and chatter when<br>our dearest friends appear – is sweet;"
+    },
+    {
+      "front": "<div class=\"fa\">برد از من قرار و طاقت و هوش</div>",
+      "back": "Sweet lips and silver ears – that idol's elegance<br>Has snatched away my fortitude, and my good sense;"
+    },
+    {
+      "front": "<div class=\"fa\">الا یا ایها الساقی ادر کاسا و ناولها</div>",
+      "back": "Come, boy, and pass the wine around –"
+    },
+    {
+      "front": "<div class=\"fa\">روی تو کس ندید و هزارت رقیب هست</div>",
+      "back": "No one has seen your face, and yet<br>Thousands of rivals seek you;"
+    },
+    {
+      "front": "<div class=\"fa\">حال دل با تو گفتنم هوس است</div>",
+      "back": "To tell you now my poor heart's state<br>is what I long for"
+    },
+    {
+      "front": "<div class=\"fa\">المنة لله که در میکده باز است</div>",
+      "back": "Thanks be to God now that the wine-shop door<br>Is open, since it's there I'm heading for;"
+    },
+    {
+      "front": "<div class=\"fa\">گل در بر و می در کف و معشوقه به کام است</div>",
+      "back": "Wine in my glass, and roses in my arms,<br>my lover near me –"
+    },
+    {
+      "front": "<div class=\"fa\">برو به کار خود ای واعظ این چه فریادست</div>",
+      "back": "Go, mind your own business, preacher! What's all<br>This hullabaloo?"
+    },
+    {
+      "front": "<div class=\"fa\">خوش آمد گل و زان خوشتر نباشد</div>",
+      "back": "Welcome, sweet flower, no one's<br>More welcome in this land –"
+    },
+    {
+      "front": "<div class=\"fa\">بیا تا گل برافشانیم و می در ساغر اندازیم</div>",
+      "back": "Come, so that we can scatter flowers<br>and fill the glass with wine,"
+    },
+    {
+      "front": "<div class=\"fa\">منم که گوشهٔ میخانه خانقاه من است</div>",
+      "back": "A corner of the wine-shop is<br>the temple where I pray;"
+    },
+    {
+      "front": "<div class=\"fa\">بغیر از آنکه بشد دین و دانش از دستم</div>",
+      "back": "Come, tell me what it is that I have gained<br>From loving you,<br>Apart from losing all the faith I had<br>And knowledge too?"
+    },
+    {
+      "front": "<div class=\"fa\">روز وصل دوستداران یاد باد</div>",
+      "back": "Those days when loving friends would meet –<br>long may they be recalled!"
+    },
+    {
+      "front": "<div class=\"fa\">یوسف گمگشته بازآید به کنعان غم مخور</div>",
+      "back": "Lost Joseph will return to Canaan's land again<br>– do not despair"
+    },
+    {
+      "front": "<div class=\"fa\">دوش آگهی ز یار سفرکرده داد باد</div>",
+      "back": "Last night, news of my departed friend<br>Was brought to me upon the wind;"
+    },
+    {
+      "front": "<div class=\"fa\">شراب و عیش نهان چیست کار بی‌بنیاد</div>",
+      "back": "What's all this hiding happiness and wine away?"
+    },
+    {
+      "front": "<div class=\"fa\">درد عشقی کشیده‌ام که مپرس</div>",
+      "back": "I've known the pains of love's frustration – ah, don't ask!"
+    },
+    {
+      "front": "<div class=\"fa\">عیب رندان مکن ای زاهد پاکیزه‌سرشت</div>",
+      "back": "That you're a pious prig by nature<br>Doesn't mean you have to blame<br>Libertines for their faults; those sins<br>Won't be imputed to your name."
+    },
+    {
+      "front": "<div class=\"fa\">مزرع سبز فلک دیدم و داس مه نو</div>",
+      "back": "I saw the green fields of the sky,<br>and there a sickle moon –"
+    },
+    {
+      "front": "<div class=\"fa\">خوشتر ز عیش و صحبت و باغ و بهار چیست</div>",
+      "back": "What's sweeter than a garden and good talk<br>When spring's new flowers appear?"
+    },
+    {
+      "front": "<div class=\"fa\">دوش دیدم که ملایک در میخانه زدند</div>",
+      "back": "Last night I saw the angels<br>tapping at the wine-shop's door,"
+    },
+    {
+      "front": "<div class=\"fa\">سال‌ها دل طلب جام جم از ما می‌کرد</div>",
+      "back": "For years my heart inquired of me<br>Where Jamshid's sacred cup might be,"
+    },
+    {
+      "front": "<div class=\"fa\">دوش وقت سحر از غصه نجاتم دادند</div>",
+      "back": "Last night, at dawn, in my distress, salvation<br>was given to me;"
+    },
+    {
+      "front": "<div class=\"fa\">یارم چو قدح به دست گیرد</div>",
+      "back": "When my love lifts his glass,<br>throughout the town<br>Love's market suddenly<br>comes tumbling down."
+    },
+    {
+      "front": "<div class=\"fa\">درخت دوستی بنشان که کام دل به بار آرد</div>",
+      "back": "Plant friendship’s tree – the heart’s desire<br>Is the fruit it bears;"
+    },
+    {
+      "front": "<div class=\"fa\">من ترک عشق و شاهد و ساغر نمی‌کنم</div>",
+      "back": "To give up wine, and human beauty? And to give up love?<br>No, I won’t do it."
+    },
+    {
+      "front": "<div class=\"fa\">مرا به رندی و عشق آن فضول عیب کند</div>",
+      "back": "That busybody criticizes me<br>For loving love and revelry –"
+    },
+    {
+      "front": "<div class=\"fa\">نوش کن جام شراب یک منی</div>",
+      "back": "Drink wine down by the glassful, and you’ll tear<br>Out of your heart the roots of your despair –"
+    },
+    {
+      "front": "<div class=\"fa\">عشق تو نهال حیرت آمد</div>",
+      "back": "My love for you is like a youthful tree<br>of wonder"
+    },
+    {
+      "front": "<div class=\"fa\">صبا وقت سحر بویی ز زلف یار می‌آورد</div>",
+      "back": "At dawn, upon the breeze, I caught<br>the scent of my belovèd’s hair,"
+    },
+    {
+      "front": "<div class=\"fa\">دانی که چنگ و عود چه تقریر می‌کنند</div>",
+      "back": "Do you know what our harps and lutes advise us,<br>when heard aright?"
+    },
+    {
+      "front": "<div class=\"fa\">یاد باد آنکه سر کوی توام منزل بود</div>",
+      "back": "What memories! I once lived on<br>the street that you lived on,"
+    },
+    {
+      "front": "<div class=\"fa\">اگرچه باده فرح‌بخش و باد گل‌بیز است</div>",
+      "back": "Though wine is pleasurable, and though the breeze<br>Seems soaked in roses,"
+    },
+    {
+      "front": "<div class=\"fa\">تنت به ناز طبیبان نیازمند مباد</div>",
+      "back": "May your dear body never need<br>A doctor’s expertise,"
+    },
+    {
+      "front": "<div class=\"fa\">گداخت جان که شود کار دل تمام و نشد</div>",
+      "back": "To have my heart achieve its goal<br>grief melted my sad soul – to no effect;"
+    },
+    {
+      "front": "<div class=\"fa\">حسب حالی ننوشتی و شد ایامی چند</div>",
+      "back": "You’ve sent no word of how you are<br>It’s been a few days…quite a few –"
+    },
+    {
+      "front": "<div class=\"fa\">نقد صوفی نه همه صافی بی‌غش باشد</div>",
+      "back": "Not every Sufi’s trustworthy, or pure in spirit,"
+    },
+    {
+      "front": "<div class=\"fa\">مژده ای دل که مسیحا نفسی می‌آید</div>",
+      "back": "Good news, my heart! The breath of Christ is wafting here;"
+    },
+    {
+      "front": "<div class=\"fa\">دیر است که دلدار پیامی نفرستاد</div>",
+      "back": "My love has sent no letter for<br>A long time now – I’ve heard<br>No salutations from him, no<br>Inquiries, not one word;"
+    },
+    {
+      "front": "<div class=\"fa\">شراب بی‌غش و ساقی خوش دو دام رهند</div>",
+      "back": "Good wine, that doesn’t stupefy,<br>That’s served by someone pretty – who<br>Among the wise men of this world<br>Escapes the snares set by these two?"
+    },
+    {
+      "front": "<div class=\"fa\">آنکه رخسار تو را رنگ گل و نسرین داد</div>",
+      "back": "The one who gave your lovely face its rosy<br>red and white<br>Can give me peace, and patience to endure<br>my wretched plight;"
+    },
+    {
+      "front": "<div class=\"fa\">یاد باد آنکه نهانت نظری با ما بود</div>",
+      "back": "May I remember always when<br>Your glance in secrecy met mine,"
+    },
+    {
+      "front": "<div class=\"fa\">واعظان کاین جلوه در محراب و منبر می‌کنند</div>",
+      "back": "These preachers who make such a show<br>Of pulpit piety<br>Act in a wholly different way<br>When no one’s there to see."
+    },
+    {
+      "front": "<div class=\"fa\">شکفته شد گل خمری و گشت بلبل مست</div>",
+      "back": "The nightingales are drunk, wine-red roses appear,"
+    },
+    {
+      "front": "<div class=\"fa\">مسلمانان مرا وقتی دلی بود</div>",
+      "back": "Moslems, time was I had a heart –<br>a good one too,"
+    },
+    {
+      "front": "<div class=\"fa\">باشد ای دل که در میکده‌ها بگشایند</div>",
+      "back": "Perhaps, my heart, the wine-shops’ doors<br>will soon be opened wide,"
+    },
+    {
+      "front": "<div class=\"fa\">ما بدین در نه پی حشمت و جاه آمده‌ایم</div>",
+      "back": "We haven’t traveled to this door<br>For wealth or mastery,"
+    },
+    {
+      "front": "<div class=\"fa\">گفتم غم تو دارم گفتا غمت سر آید</div>",
+      "back": "I said, “The grief I feel is all for you”;<br>she said, “Your grief will end”;"
+    },
+    {
+      "front": "<div class=\"fa\">معاشران ز حریف شبانه یاد آرید</div>",
+      "back": "Dear friends, that friend with whom we once<br>Caroused at night –<br>His willing services to us<br>And our delight…remember this."
+    },
+    {
+      "front": "<div class=\"fa\">شب قدر است و طی شد نامهٔ هجر</div>",
+      "back": "It is the Night of Power,<br>Grief’s scroll is rolled away,"
+    },
+    {
+      "front": "<div class=\"fa\">ای خرم از فروغ رخت لاله‌زار عمر</div>",
+      "back": "Life’s garden flourishes when your<br>Bright countenance is here."
+    },
+    {
+      "front": "<div class=\"fa\">گل‌عذاری ز گلستان جهان ما را بس</div>",
+      "back": "Of all the roses in the world<br>A rosy face…is quite enough for me;"
+    },
+    {
+      "front": "<div class=\"fa\">مقام امن و می بی‌غش و رفیق شفیق</div>",
+      "back": "A loving friend, good wine, a place secure<br>From enemies –"
+    },
+    {
+      "front": "<div class=\"fa\">دوش پنهان گفت با من کاردانی تیزهوش</div>",
+      "back": "Last night the wine-seller, a man<br>Of great experience,<br>Conversed with me (and here I share<br>With you his secret sense):"
+    },
+    {
+      "front": "<div class=\"fa\">راهیست راه عشق که هیچش کناره نیست</div>",
+      "back": "Love's road's an endless road<br>where there's no place to rest,"
+    },
+    {
+      "front": "<div class=\"fa\">دلا رفیق سفر بخت نیک‌خواهت بس</div>",
+      "back": "My heart, good fortune is the only friend<br>Going along beside you that you need;"
+    },
+    {
+      "front": "<div class=\"fa\">گرچه بر واعظ شهر این سخن آسان نشود</div>",
+      "back": "Although our preacher might not like<br>to hear me mention it,<br>He'll never be a Moslem while<br>he's such a hypocrite."
+    },
+    {
+      "front": "<div class=\"fa\">اگر شراب خوری جرعه‌ای فشان بر خاک</div>",
+      "back": "When you drink wine, sprinkle<br>A few drops on the ground –"
+    },
+    {
+      "front": "<div class=\"fa\">دلم ربوده لولی‌وشیست شورانگیز</div>",
+      "back": "My heart was stolen by a lout,<br>A gypsy-featured lad"
+    },
+    {
+      "front": "<div class=\"fa\">رسید مژده که ایام غم نخواهد ماند</div>",
+      "back": "Good news! The days of grief and pain<br>won't stay like this –"
+    },
+    {
+      "front": "<div class=\"fa\">فاش می‌گویم و از گفته خود دلشادم</div>",
+      "back": "I'll say it openly, and be<br>Happy to speak my mind –"
+    },
+    {
+      "front": "<div class=\"fa\">حاشا که من به موسم گل ترک می کنم</div>",
+      "back": "Ah, God forbid that I relinquish wine<br>When roses are in season;"
+    },
+    {
+      "front": "<div class=\"fa\">صبا به لطف بگو آن غزال رعنا را</div>",
+      "back": "Mild breeze of morning, gently tell<br>That errant, elegant gazelle"
+    },
+    {
+      "front": "<div class=\"fa\">مژده وصل تو کو کز سر جان برخیزم</div>",
+      "back": "Where is the news we'll meet, that from<br>This life to greet you there<br>I may arise?"
+    },
+    {
+      "front": "<div class=\"fa\">من دوستدار روی خوش و موی دلکشم</div>",
+      "back": "My love's for pretty faces,<br>For heart-bewitching hair;"
+    },
+    {
+      "front": "<div class=\"fa\">حجاب چهره جان می‌شود غبار تنم</div>",
+      "back": "My body's dust is as a veil<br>Spread out to hide<br>My soul – happy that moment when<br>It's drawn aside!"
+    },
+    {
+      "front": "<div class=\"fa\">نفس باد صبا مشک‌فشان خواهد شد</div>",
+      "back": "The musky morning breeze<br>Will gently blow again,<br>Once more the old world will<br>Turn young and grow again;"
+    },
+    {
+      "front": "<div class=\"fa\">اگر آن ترک شیرازی به دست آرد دل ما را</div>",
+      "back": "If that Shirazi Turk would take<br>My heart within his loving hand"
+    },
+    {
+      "front": "<div class=\"fa\">عشق‌بازی و جوانی و شراب لعل‌فام</div>",
+      "back": "Flirtatious games, and youth,<br>And wine like rubies glowing;"
+    },
+    {
+      "front": "<div class=\"fa\">چون جامه ز تن برکشد آن مشکین‌خال</div>",
+      "back": "A black mole graced his face; he stripped, and shone<br>Incomparable in splendor as the moon;"
+    },
+    {
+      "front": "<div class=\"fa\">عمری ز پی مراد ضایع دارم</div>",
+      "back": "Desire's destroyed my life; what gifts have I<br>Been given by the blindly turning sky?"
+    },
+    {
+      "front": "<div class=\"fa\">من حاصل عمر خود ندارم جز غم</div>",
+      "back": "What does life give me in the end but sorrow?"
+    },
+    {
+      "front": "<div class=\"fa\">هر دوست که دم زد ز وفا دشمن شد</div>",
+      "back": "Each friend turned out to be an enemy,"
+    },
+    {
+      "front": "<div class=\"fa\">با می به کنار جوی می‌باید بود</div>",
+      "back": "With wine beside a gently flowing brook – this is best;"
+    }
+  ]
+}

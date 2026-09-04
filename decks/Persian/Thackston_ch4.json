@@ -1,0 +1,162 @@
+{
+  "deck_name": "Thackston_ch4",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">من</div>",
+      "back": "I (man)"
+    },
+    {
+      "front": "<div class=\"fa\">تو</div>",
+      "back": "you (to)"
+    },
+    {
+      "front": "<div class=\"fa\">او</div>",
+      "back": "he, she (u)"
+    },
+    {
+      "front": "<div class=\"fa\">آن</div>",
+      "back": "he, she, it (ân)"
+    },
+    {
+      "front": "<div class=\"fa\">ما</div>",
+      "back": "we (mâ)"
+    },
+    {
+      "front": "<div class=\"fa\">شما</div>",
+      "back": "you (shomâ)"
+    },
+    {
+      "front": "<div class=\"fa\">ایشان</div>",
+      "back": "they (ishân)"
+    },
+    {
+      "front": "<div class=\"fa\">آنها</div>",
+      "back": "they (ânhâ)"
+    },
+    {
+      "front": "<div class=\"fa\">ـم</div>",
+      "back": "I am (-am)"
+    },
+    {
+      "front": "<div class=\"fa\">ـی</div>",
+      "back": "you are (-i)"
+    },
+    {
+      "front": "<div class=\"fa\">است</div>",
+      "back": "he/she/it is (-ast)"
+    },
+    {
+      "front": "<div class=\"fa\">ـیم</div>",
+      "back": "we are (-im)"
+    },
+    {
+      "front": "<div class=\"fa\">ـید</div>",
+      "back": "you are (-id)"
+    },
+    {
+      "front": "<div class=\"fa\">ـند</div>",
+      "back": "they are (-and)"
+    },
+    {
+      "front": "<div class=\"fa\">آن چیست؟</div>",
+      "back": "What's that? (ân chist?)"
+    },
+    {
+      "front": "<div class=\"fa\">آن بچهٔ کیست؟</div>",
+      "back": "Whose child is that? (ân bachche-ye kist?)"
+    },
+    {
+      "front": "<div class=\"fa\">آن بچه‌ها کیستند؟</div>",
+      "back": "Who are those children? (ân bachchehâ kístand?)"
+    },
+    {
+      "front": "<div class=\"fa\">این کتابها دربارهٔ چیست؟</div>",
+      "back": "What are these books about? (in ketâbhâ darbâre-ye chist?)"
+    },
+    {
+      "front": "<div class=\"fa\">آبی</div>",
+      "back": "light blue (âbi)"
+    },
+    {
+      "front": "<div class=\"fa\">آقا</div>",
+      "back": "gentleman, sir, Mr. (âqâ)"
+    },
+    {
+      "front": "<div class=\"fa\">خانم</div>",
+      "back": "lady, Miss/Mrs./Ms. (khânom)"
+    },
+    {
+      "front": "<div class=\"fa\">پزشک</div>",
+      "back": "doctor, physician (pezeshk)"
+    },
+    {
+      "front": "<div class=\"fa\">جعبه</div>",
+      "back": "box (ja'be)"
+    },
+    {
+      "front": "<div class=\"fa\">چه</div>",
+      "back": "what? (che) — combines with -ast as چیست chist and with -and as چیستند chistand"
+    },
+    {
+      "front": "<div class=\"fa\">زرد</div>",
+      "back": "yellow (zard)"
+    },
+    {
+      "front": "<div class=\"fa\">سبز</div>",
+      "back": "green (sabz)"
+    },
+    {
+      "front": "<div class=\"fa\">سرمه‌ای</div>",
+      "back": "dark blue (sormei)"
+    },
+    {
+      "front": "<div class=\"fa\">سفید</div>",
+      "back": "white (sefid)"
+    },
+    {
+      "front": "<div class=\"fa\">سیاه</div>",
+      "back": "black (siâh)"
+    },
+    {
+      "front": "<div class=\"fa\">قرمز</div>",
+      "back": "red (qermez)"
+    },
+    {
+      "front": "<div class=\"fa\">کی</div>",
+      "back": "who? (ki) — combines with -ast as کیست kist and with -and as کیستند kístand"
+    },
+    {
+      "front": "<div class=\"fa\">معلم</div>",
+      "back": "teacher (mo'allem)"
+    },
+    {
+      "front": "<div class=\"fa\">همیشه</div>",
+      "back": "always (hamishe)"
+    },
+    {
+      "front": "<div class=\"fa\">خوش آمدید</div>",
+      "back": "Welcome (in greeting). (khósh-âmadid)"
+    },
+    {
+      "front": "<div class=\"fa\">متشکرم</div>",
+      "back": "Thank you. (motashakker-am)"
+    },
+    {
+      "front": "<div class=\"fa\">مرسی</div>",
+      "back": "Thanks (the French merci has become a very common casual \"thank you\"). (mérsi)"
+    },
+    {
+      "front": "<div class=\"fa\">خیلی ممنون</div>",
+      "back": "Much obliged (this phrase has a slightly old-fashioned ring to it, but it is still quite common). (kháyli mamnun)"
+    },
+    {
+      "front": "<div class=\"fa\">خواهش میکنم</div>",
+      "back": "You're welcome (as a reply to \"thank you\"). Please (as a request). (khâhésh-mikonam)"
+    },
+    {
+      "front": "<div class=\"fa\">بفرمائید</div>",
+      "back": "Please, be my guest (used when offering something). (béfarmâid)"
+    }
+  ]
+}

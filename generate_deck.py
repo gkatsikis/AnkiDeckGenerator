@@ -11,6 +11,7 @@ Usage:
 JSON format:
 {
     "deck_name": "My Deck",
+    "description": "...",          // optional, shown in Anki's deck overview
     "deck_id": 1234567890,         // optional, auto-generated from name if omitted
     "model_id": 9876543210,        // optional, auto-generated from name if omitted
     "model_name": "Basic Card",    // optional
@@ -73,8 +74,11 @@ def extract_tts_text(back: str) -> str:
     """Extract speakable text from a 'Chinese characters (pinyin)' back field.
 
     Strips the parenthetical pinyin so TTS reads only the characters,
-    producing cleaner pronunciation output.
+    producing cleaner pronunciation output. Also drops <div class="hint">
+    subtext and any other HTML so explanations are never read aloud.
     """
+    back = re.sub(r'<div class="hint">.*?</div>', '', back, flags=re.S)
+    back = re.sub(r'<[^>]+>', ' ', back)
     match = re.match(r'^(.+?)\s*\(', back)
     if match:
         return match.group(1).strip()
@@ -146,7 +150,7 @@ def build_deck(data: dict, audio_paths: list = None) -> tuple:
         css=css,
     )
 
-    deck = genanki.Deck(deck_id, deck_name)
+    deck = genanki.Deck(deck_id, deck_name, data.get("description", ""))
 
     for i, card in enumerate(data["cards"]):
         back = card["back"]

@@ -1,0 +1,238 @@
+{
+  "deck_name": "FoL_ch2 - Jahan Malek Khatun",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">تو تا کی همچو سرو از ما کشی سر</div>",
+      "back": "How long will you be like<br>A cypress tree,<br>And lean your lovely head<br>Away from me?"
+    },
+    {
+      "front": "<div class=\"fa\">الهی تو بگشا دری از بهشت</div>",
+      "back": "O God, I beg you, open wide<br>The gates of heaven"
+    },
+    {
+      "front": "<div class=\"fa\">هرگه که گلی تازه به صبحم بنمود</div>",
+      "back": "Each new flower opening in the morning light,"
+    },
+    {
+      "front": "<div class=\"fa\">با درد تو درمان نپذیرد دل من</div>",
+      "back": "My heart will take no drug to dull this pain,"
+    },
+    {
+      "front": "<div class=\"fa\">در جوانی قدر خود نشناختم</div>",
+      "back": "I didn't know my value then, when I<br>Was young, so long ago;"
+    },
+    {
+      "front": "<div class=\"fa\">دلا در باغ حسنش عندلیبم</div>",
+      "back": "Heart, in his beauty's garden, I –<br>Like nightingales – complain,"
+    },
+    {
+      "front": "<div class=\"fa\">گرم بوسی دهی از لعل پرنوش</div>",
+      "back": "If you should kiss me with<br>Your ruby lips, my dear,<br>I'd be your slave and wear<br>Your earring in my ear."
+    },
+    {
+      "front": "<div class=\"fa\">دلم همچو سر زلفت درهم</div>",
+      "back": "My heart is tangled like thick curls<br>And no one hears me grieve;"
+    },
+    {
+      "front": "<div class=\"fa\">صبا باز آ که درمانم تو داری</div>",
+      "back": "Sweet breeze return to me, you bear<br>The scent of my belovèd's hair."
+    },
+    {
+      "front": "<div class=\"fa\">ای برده آتش رخ تو آب و رنگ گل</div>",
+      "back": "Your face usurps the fiery glow and hue<br>of roses;"
+    },
+    {
+      "front": "<div class=\"fa\">عهد کردم که ازین پس ندهم دل به خیال</div>",
+      "back": "From now on I have sworn<br>I won't let dreams deceive me,"
+    },
+    {
+      "front": "<div class=\"fa\">خوابی خوش است اینکه شب دوش دیده‌ام</div>",
+      "back": "How sweet sleep is! I dreamed I saw<br>My friend last night,"
+    },
+    {
+      "front": "<div class=\"fa\">بیا بنشین مرو در خواب امشب</div>",
+      "back": "Come here a moment, sit with me, don't sleep tonight,"
+    },
+    {
+      "front": "<div class=\"fa\">بگو چگونه دهم شرح آرزومندی</div>",
+      "back": "How can I tell you what I want from you<br>When you'll be angry with me if I do?"
+    },
+    {
+      "front": "<div class=\"fa\">به باغ شد دل من صبحدم به گل چیدن</div>",
+      "back": "At dawn my heart said I should go<br>Into the garden where<br>I'd pick fresh flowers, and hope to see<br>His flower-like beauty there."
+    },
+    {
+      "front": "<div class=\"fa\">گر آید نسیمی ز سوی نگار</div>",
+      "back": "Suppose a breeze should bring to me<br>My lover's scent –"
+    },
+    {
+      "front": "<div class=\"fa\">الهی تو بگشا به لطفت دری</div>",
+      "back": "O God, be kind, and open wide Your door,"
+    },
+    {
+      "front": "<div class=\"fa\">یاری که همه میل دلش سوی وفا بود</div>",
+      "back": "My friend, who was so kind and faithful once,<br>Has changed his mind now, and I don't know why;"
+    },
+    {
+      "front": "<div class=\"fa\">مگر با ما سر یاری نداری</div>",
+      "back": "Have all your feelings for me gone?"
+    },
+    {
+      "front": "<div class=\"fa\">عاقبت کار فروبسته خدا بگشاید</div>",
+      "back": "It will be God who opens up,<br>At last, these bonds that hamper me,"
+    },
+    {
+      "front": "<div class=\"fa\">یاد باد آنکه عزیزان همه با هم بودیم</div>",
+      "back": "How sweet those days when we were still<br>together;"
+    },
+    {
+      "front": "<div class=\"fa\">جانا چه باشد ار دل ما را دوا کنی</div>",
+      "back": "How would it be, my soul's love, if you healed<br>My heart for me,"
+    },
+    {
+      "front": "<div class=\"fa\">به عالم غیر تو یاری ندارم</div>",
+      "back": "In all the world, my love,<br>I've no one else but you;"
+    },
+    {
+      "front": "<div class=\"fa\">چرا به کار من ناتوان نپردازی</div>",
+      "back": "Why is it you neglect me so? Why is it<br>You never pay your captive wretch a visit?"
+    },
+    {
+      "front": "<div class=\"fa\">بیشتر خلق جهان در پی جاه و درمند</div>",
+      "back": "Most people in the world want power and money,"
+    },
+    {
+      "front": "<div class=\"fa\">تا به چند آن غمزه از من دلربایی می‌کند</div>",
+      "back": "His glances trap my heart within their snare,"
+    },
+    {
+      "front": "<div class=\"fa\">چرا کردی مرا از دل فراموش</div>",
+      "back": "Why, in your heart, have you forgotten me<br>And put your loving arms round someone new?"
+    },
+    {
+      "front": "<div class=\"fa\">نگارا رسم دلداری نداری</div>",
+      "back": "You don't know how you ought to treat a lover,"
+    },
+    {
+      "front": "<div class=\"fa\">به رخ چون ماه تابانی به قد چون سرو آزادی</div>",
+      "back": "Your face is like a shining sun,<br>your stature's like a cypress tree<br>That grows in paradise, and I'm<br>your slave; I've no wish to be free."
+    },
+    {
+      "front": "<div class=\"fa\">هنوز از بادهٔ وصل تو مستم</div>",
+      "back": "I am still drunk that you were here,<br>and you were mine,"
+    },
+    {
+      "front": "<div class=\"fa\">ای که پنداری که ما را جز تو یاری هست، نیست</div>",
+      "back": "I know you think that there are other friends for me than you:<br>Not so."
+    },
+    {
+      "front": "<div class=\"fa\">این جور و جفای چرخ تا چند</div>",
+      "back": "How long will heaven's heartless tyranny<br>Which keeps both rich and poor in agony<br>Go on?"
+    },
+    {
+      "front": "<div class=\"fa\">دوش در خواب چنان دید دو چشم بختم</div>",
+      "back": "Last night I dreamed I saw with fortune's eyes<br>The garden of my hopes revive its reign;"
+    },
+    {
+      "front": "<div class=\"fa\">گل رفت و وداع گل ز جان باید کرد</div>",
+      "back": "The roses have all gone; \"Goodbye,\" we say; we must;"
+    },
+    {
+      "front": "<div class=\"fa\">به کنج مدرسه‌ای کز دلم خراب‌تر است</div>",
+      "back": "Here, in the corner of a ruined school<br>(More ruined even than my heart), I wait"
+    },
+    {
+      "front": "<div class=\"fa\">گفتم که دگر چشم به دلبر نکنم</div>",
+      "back": "I swore I'd never look at him again,"
+    },
+    {
+      "front": "<div class=\"fa\">در باغ برهنه گشتی ای شاهد شنگ</div>",
+      "back": "You wandered through my garden, naked and alone"
+    },
+    {
+      "front": "<div class=\"fa\">در دیده خیال توست ما را همه جا</div>",
+      "back": "Wherever my eyes look I see your image there,"
+    },
+    {
+      "front": "<div class=\"fa\">من دوش قضا یار و قدر پشتم بود</div>",
+      "back": "Last night, my love, my life, you lay with me,"
+    },
+    {
+      "front": "<div class=\"fa\">مشکل که به درد عشق درمانم نیست</div>",
+      "back": "My love's an ache no ointments can allay now;"
+    },
+    {
+      "front": "<div class=\"fa\">ای دل ستم از یار جفاپیشه بسیست</div>",
+      "back": "I told my heart, \"I can't endure this tyranny!<br>He's nothing, no one! What's this bully's love to me?\""
+    },
+    {
+      "front": "<div class=\"fa\">ای دل بنشین و با غم یار بساز</div>",
+      "back": "My heart, sit down, welcome love's pain,<br>and make the best of it:"
+    },
+    {
+      "front": "<div class=\"fa\">بر درد دلم طبیب ار آگاه شود</div>",
+      "back": "I feel so heart-sick. Should my doctor hear,<br>He'll sigh and groan and want to interfere:"
+    },
+    {
+      "front": "<div class=\"fa\">زردم ز فراق روی دلدار چو شمع</div>",
+      "back": "Your face's absence leaves mine waxy-white,<br>like a candle;"
+    },
+    {
+      "front": "<div class=\"fa\">پروانه‌صفت پیش تو در پروازم</div>",
+      "back": "I'm like the moth that flutters round a light,"
+    },
+    {
+      "front": "<div class=\"fa\">زنهار بکوش تا توانی ای دل</div>",
+      "back": "Always, whatever else you do, my heart,<br>Try to be kind, try to be true, my heart:"
+    },
+    {
+      "front": "<div class=\"fa\">ای دل به جهانت ار بود راز و نیاز</div>",
+      "back": "My heart, if you have words you need to say,<br>Be warned! Keep would-be confidants away."
+    },
+    {
+      "front": "<div class=\"fa\">از عمر عزیزم حاصلم چیست بگو</div>",
+      "back": "What has this life we long for given me? Tell me."
+    },
+    {
+      "front": "<div class=\"fa\">اگر به بند زمانه کسی شود محبوس</div>",
+      "back": "When someone is imprisoned for a while<br>Men ask about his fate, and want to know his crimes;"
+    },
+    {
+      "front": "<div class=\"fa\">با ندیمان خوش و صحبت یاران لطیف</div>",
+      "back": "A picnic at the desert's edge, with witty friends,<br>And tambourines, and harps, and lutes, is very sweet."
+    },
+    {
+      "front": "<div class=\"fa\">ای دل گل روی یار دیدن چه خوش است</div>",
+      "back": "To see the blossom of his face, my heart – how sweet;"
+    },
+    {
+      "front": "<div class=\"fa\">تدبیر و صواب از دل خوش باید جست</div>",
+      "back": "A happy heart's the place for plans and piety,"
+    },
+    {
+      "front": "<div class=\"fa\">تا بر درت ای دوست مرا باری نیست</div>",
+      "back": "If I can't even get beyond your door,<br>that's hard for me –"
+    },
+    {
+      "front": "<div class=\"fa\">بیچاره کسی که از وطن دور شود</div>",
+      "back": "Pity the wretch, forced from her native land,"
+    },
+    {
+      "front": "<div class=\"fa\">از دل نالم یا ز فلک یا ز فراق</div>",
+      "back": "Shall I complain of absence? Of my heart? Or of the skies?"
+    },
+    {
+      "front": "<div class=\"fa\">گل گفت به خنده صبحدم با بلبل</div>",
+      "back": "Laughing, the rose said to the nightingale one day,"
+    },
+    {
+      "front": "<div class=\"fa\">از تهمت خصم نیستم آسوده</div>",
+      "back": "My enemies' glib lies are never done –"
+    },
+    {
+      "front": "<div class=\"fa\">شیراز خوش است خاصه در فصل بهار</div>",
+      "back": "Shiraz when spring is here – what pleasure equals this?"
+    }
+  ]
+}

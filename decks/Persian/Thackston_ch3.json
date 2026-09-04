@@ -1,0 +1,218 @@
+{
+  "deck_name": "Thackston_ch3",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">کتاب نو</div>",
+      "back": "the new book (ketâb-e naw)"
+    },
+    {
+      "front": "<div class=\"fa\">میز کهنه</div>",
+      "back": "the old table (miz-e kohne)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابهای خوب</div>",
+      "back": "the good books (ketâbhâ-ye khub)"
+    },
+    {
+      "front": "<div class=\"fa\">دانشجوی زرنگ</div>",
+      "back": "the clever student (dâneshju-ye zerang)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ بزرگ</div>",
+      "back": "the big house (khâne-ye bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">بچه بد</div>",
+      "back": "the bad child (bachche-ye bad)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ قدیمی بزرگ قرمز</div>",
+      "back": "the big old red house (khâne-ye qadimi-e bozorg-e qermez)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ بزرگ قدیمی قرمز</div>",
+      "back": "the big old red house (khâne-ye bozorg-e qadimi-e qermez)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ قرمز بزرگ قدیمی</div>",
+      "back": "the big old red house (khâne-ye qermez-e bozorg-e qadimi)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ قدیمی قرمز بزرگ</div>",
+      "back": "the big old red house (khâne-ye qadimi-e qermez-e bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه‌ای قدیمی و بزرگ و قرمز</div>",
+      "back": "a big old red house (khâne-i qadimi-o bozorg-o qermez)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ قدیمی بزرگی</div>",
+      "back": "a big old house (khâne-ye qadimi-e bozorg-i)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه‌ای قدیمی و بزرگ</div>",
+      "back": "a big old house (khâne-i qadimi-o bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه‌ای بسیار بزرگ</div>",
+      "back": "a very big house (khâne-i besyâr bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ بسیار بزرگی</div>",
+      "back": "a very big house (khâne-ye besyâr bozorg-i)"
+    },
+    {
+      "front": "<div class=\"fa\">پزشکی نسبة مشهور</div>",
+      "back": "a relatively famous physician (pezeshk-i nesbatan mashhur)"
+    },
+    {
+      "front": "<div class=\"fa\">پزشک نسبة مشهوری</div>",
+      "back": "a relatively famous physician (pezeshk-e nesbatan mashhur-i)"
+    },
+    {
+      "front": "<div class=\"fa\">این کتاب است.</div>",
+      "back": "This is a book. (in ketâb-ast)"
+    },
+    {
+      "front": "<div class=\"fa\">اینها کتابند.</div>",
+      "back": "These are books. (inhâ ketâb-and)"
+    },
+    {
+      "front": "<div class=\"fa\">علی دانشجو است.</div>",
+      "back": "Ali is a student. (ali dâneshju-ast)"
+    },
+    {
+      "front": "<div class=\"fa\">علی و اکبر دانشجو اند.</div>",
+      "back": "Ali and Akbar are students. (ali-o akbar dâneshju-and)"
+    },
+    {
+      "front": "<div class=\"fa\">پدر علی پزشک بود.</div>",
+      "back": "Ali's father was a physician. (pedar-e ali pezeshk-bud)"
+    },
+    {
+      "front": "<div class=\"fa\">پدرهای آن بچه‌ها پزشک بودند.</div>",
+      "back": "Those children's fathers were physicians. (pedarhâ-ye ân bachche-hâ pezeshk-budand)"
+    },
+    {
+      "front": "<div class=\"fa\">علی دانشجوئی زرنگ است.</div>",
+      "back": "Ali is a clever student. (ali dâneshju-i zerang-ast)"
+    },
+    {
+      "front": "<div class=\"fa\">علی دانشجوی زرنگیست.</div>",
+      "back": "Ali is a clever student. (ali dâneshju-ye zerang-i-st)"
+    },
+    {
+      "front": "<div class=\"fa\">آقای جعفری پزشکی مهربان بود.</div>",
+      "back": "Mr. Ja'fari was a kind physician. (âqâ-ye ja'fari pezeshk-i mehrbân-bud)"
+    },
+    {
+      "front": "<div class=\"fa\">آقای جعفری پزشک مهربانی بود.</div>",
+      "back": "Mr. Ja'fari was a kind physician. (âqâ-ye ja'fari pezeshk-e mehrbân-i-bud)"
+    },
+    {
+      "front": "<div class=\"fa\">علی دانشجوی زرنگی نیست.</div>",
+      "back": "Ali is not a clever student. (ali dâneshju-ye zerang-i nist)"
+    },
+    {
+      "front": "<div class=\"fa\">آقای جعفری پزشک مشهوری نبود.</div>",
+      "back": "Mr. Ja'fari was not a famous physician. (âqâ-ye ja'fari pezeshk-e mashhur-i nábud)"
+    },
+    {
+      "front": "<div class=\"fa\">علی دانشجوئیست زرنگ.</div>",
+      "back": "Ali is a clever student. (ali dâneshju-i-st zerang) [literary]"
+    },
+    {
+      "front": "<div class=\"fa\">پزشک مهربانی بود.</div>",
+      "back": "He was a kind physician. (pezeshk-e mehrbân-i-bud)"
+    },
+    {
+      "front": "<div class=\"fa\">پزشکی بود مهربان.</div>",
+      "back": "He was a kind physician. (pezeshk-i-bud mehrbân) [literary]"
+    },
+    {
+      "front": "<div class=\"fa\">معلم خوبیست.</div>",
+      "back": "He is a good teacher. (mo'allem-e khub-i-st)"
+    },
+    {
+      "front": "<div class=\"fa\">معلمیست خوب.</div>",
+      "back": "He is a good teacher. (mo'allem-i-st khub) [literary]"
+    },
+    {
+      "front": "<div class=\"fa\">اینها کتاب است (اند).</div>",
+      "back": "These are books. (inhâ ketâb-ast/-and)"
+    },
+    {
+      "front": "<div class=\"fa\">اینها کتابهای مفیدی است (اند).</div>",
+      "back": "These are useful books. (inhâ ketâbhâ-ye mofid-i-ast/and)"
+    },
+    {
+      "front": "<div class=\"fa\">اینها کتابهای مفیدی نیست.</div>",
+      "back": "These are not useful books. (inhâ ketâbhâ-ye mofid-i nist)"
+    },
+    {
+      "front": "<div class=\"fa\">علی دانشجوی خوبیست.</div>",
+      "back": "Ali is a good student. (ali dâneshju-ye khub-i-st)"
+    },
+    {
+      "front": "<div class=\"fa\">علی و اکبر دانشجوهای خوبی اند.</div>",
+      "back": "Ali and Akbar are good students. (ali-o akbar dâneshjuhâ-ye khub-i-and)"
+    },
+    {
+      "front": "<div class=\"fa\">پسر</div>",
+      "back": "boy, son (pesar)"
+    },
+    {
+      "front": "<div class=\"fa\">تنبل</div>",
+      "back": "lazy (tambal)"
+    },
+    {
+      "front": "<div class=\"fa\">خراب</div>",
+      "back": "broken, ruined (kharâb)"
+    },
+    {
+      "front": "<div class=\"fa\">خوشحال</div>",
+      "back": "happy (khoshhâl)"
+    },
+    {
+      "front": "<div class=\"fa\">دانشجو</div>",
+      "back": "(university) student (dâneshju)"
+    },
+    {
+      "front": "<div class=\"fa\">دانشگاه</div>",
+      "back": "university (dâneshgâh)"
+    },
+    {
+      "front": "<div class=\"fa\">دربارهٔ</div>",
+      "back": "about, concerning (darbâre-ye)"
+    },
+    {
+      "front": "<div class=\"fa\">زرنگ</div>",
+      "back": "clever, smart (zerang)"
+    },
+    {
+      "front": "<div class=\"fa\">زن</div>",
+      "back": "woman, wife (zan)"
+    },
+    {
+      "front": "<div class=\"fa\">کهنه</div>",
+      "back": "old, worn-out (kohne)"
+    },
+    {
+      "front": "<div class=\"fa\">مرد</div>",
+      "back": "man (not woman) (mard)"
+    },
+    {
+      "front": "<div class=\"fa\">مشهور</div>",
+      "back": "famous, well-known (mashhur)"
+    },
+    {
+      "front": "<div class=\"fa\">مفید</div>",
+      "back": "useful (mofid)"
+    },
+    {
+      "front": "<div class=\"fa\">نسبة</div>",
+      "back": "relatively, fairly (nesbatan)"
+    }
+  ]
+}

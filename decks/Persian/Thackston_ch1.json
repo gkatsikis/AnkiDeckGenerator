@@ -1,0 +1,170 @@
+{
+  "deck_name": "Thackston_ch1",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">کتاب خوب است</div>",
+      "back": "The book (specific) is good. / Books (generic) are good. (ketâb khub-ast)"
+    },
+    {
+      "front": "<div class=\"fa\">کوه بزرگ است</div>",
+      "back": "The mountain (specific) is large. / Mountains (generic) are large. (kuh bozorg-ast)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابی</div>",
+      "back": "a book, any book, one book, a certain book, some book or other, some particular book (ketâb-i)"
+    },
+    {
+      "front": "<div class=\"fa\">میزی</div>",
+      "back": "a table, any table, one table, a certain table, some table or other, some particular table (miz-i)"
+    },
+    {
+      "front": "<div class=\"fa\">دانائی</div>",
+      "back": "a sage (dânâ-i)"
+    },
+    {
+      "front": "<div class=\"fa\">دانشجوئی</div>",
+      "back": "a student (dâneshju-i)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه‌ای</div>",
+      "back": "a house (khâne-i)"
+    },
+    {
+      "front": "<div class=\"fa\">صندلی‌ای</div>",
+      "back": "a chair (sandali-i)"
+    },
+    {
+      "front": "<div class=\"fa\">کوهی</div>",
+      "back": "a mountain (kuh-i)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابی خوب</div>",
+      "back": "a good book (ketâb-i khub)"
+    },
+    {
+      "front": "<div class=\"fa\">کشوری قدیمی</div>",
+      "back": "an old country (keshvar-i qadimi)"
+    },
+    {
+      "front": "<div class=\"fa\">کوهی بزرگ</div>",
+      "back": "a large mountain (kuh-i bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">کتاب</div>",
+      "back": "the book (ketâb); books (generic) (ketấb)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابها</div>",
+      "back": "the books (ketâbhấ)"
+    },
+    {
+      "front": "<div class=\"fa\">کشور</div>",
+      "back": "the country (keshvar)"
+    },
+    {
+      "front": "<div class=\"fa\">کشورها</div>",
+      "back": "the countries (keshvarhấ)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه</div>",
+      "back": "the house (khâné)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه‌ها</div>",
+      "back": "the houses (khânehấ)"
+    },
+    {
+      "front": "<div class=\"fa\">کوه</div>",
+      "back": "the mountain (kúh)"
+    },
+    {
+      "front": "<div class=\"fa\">کوهها، کوه‌ها</div>",
+      "back": "the mountains (kuhhấ) — two spellings"
+    },
+    {
+      "front": "<div class=\"fa\">کتابهائی</div>",
+      "back": "some books, several books (ketâbhấ-i)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه‌هائی</div>",
+      "back": "some houses, several houses (khânehấ-i)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابهائی خوب</div>",
+      "back": "some good books (ketâbhấ-i khub)"
+    },
+    {
+      "front": "<div class=\"fa\">کشورهائی قدیمی</div>",
+      "back": "some old countries (keshvarhấ-i qadimi)"
+    },
+    {
+      "front": "<div class=\"fa\">کوههائی بزرگ</div>",
+      "back": "some large mountains (kuhhấ-i bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">بد</div>",
+      "back": "bad (bad)"
+    },
+    {
+      "front": "<div class=\"fa\">بزرگ</div>",
+      "back": "big, large, great (bozorg)"
+    },
+    {
+      "front": "<div class=\"fa\">پاک‌کن</div>",
+      "back": "eraser (pâkkon)"
+    },
+    {
+      "front": "<div class=\"fa\">خانه</div>",
+      "back": "house (khâne)"
+    },
+    {
+      "front": "<div class=\"fa\">خوب</div>",
+      "back": "good, well (khub)"
+    },
+    {
+      "front": "<div class=\"fa\">در</div>",
+      "back": "door (dar)"
+    },
+    {
+      "front": "<div class=\"fa\">صندلی</div>",
+      "back": "chair (sandali)"
+    },
+    {
+      "front": "<div class=\"fa\">قدیمی</div>",
+      "back": "old, ancient (qadimi)"
+    },
+    {
+      "front": "<div class=\"fa\">قلم</div>",
+      "back": "pen (qalam)"
+    },
+    {
+      "front": "<div class=\"fa\">کتاب</div>",
+      "back": "book (ketâb)"
+    },
+    {
+      "front": "<div class=\"fa\">کشور</div>",
+      "back": "country (keshvar)"
+    },
+    {
+      "front": "<div class=\"fa\">کوچک</div>",
+      "back": "small, little (kuchek)"
+    },
+    {
+      "front": "<div class=\"fa\">کوه</div>",
+      "back": "mountain (kuh)"
+    },
+    {
+      "front": "<div class=\"fa\">گچ</div>",
+      "back": "chalk (gach)"
+    },
+    {
+      "front": "<div class=\"fa\">میز</div>",
+      "back": "table (miz)"
+    },
+    {
+      "front": "<div class=\"fa\">نو</div>",
+      "back": "new (naw)"
+    }
+  ]
+}

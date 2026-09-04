@@ -1,0 +1,910 @@
+{
+    "deck_name": "Recall Mexican Spanish Reflexive Verbs",
+    "description": "Mexican Spanish reflexive verbs, scaffolded: the pronouns, then each verb as infinitive → conjugated chunk → sentences, then commands, past tense and mixed review. Uses ustedes (no vosotros) and Mexican vocabulary; gray subtext explains stem changes, meaning shifts and regional usage. Assumes present-tense basics at the level of Recall 500 Common Spanish Phrases. Study in order: in deck options set New card gather order = Ascending position and New card sort order = Order gathered.",
+    "cards": [
+        {
+            "front": "to get up (out of bed)",
+            "back": "levantarse<div class=\"hint\">Reflexive verbs end in -se. The -se becomes me / te / se / nos / se to match the subject.</div>"
+        },
+        {
+            "front": "I get up",
+            "back": "me levanto"
+        },
+        {
+            "front": "you get up (tú)",
+            "back": "te levantas"
+        },
+        {
+            "front": "he / she gets up",
+            "back": "se levanta<div class=\"hint\">Also the usted form: ¿usted se levanta...?</div>"
+        },
+        {
+            "front": "we get up",
+            "back": "nos levantamos"
+        },
+        {
+            "front": "you all / they get up",
+            "back": "se levantan<div class=\"hint\">Mexican Spanish uses ustedes for 'you all', so there are no vosotros / os forms anywhere in this deck.</div>"
+        },
+        {
+            "front": "I get up early.",
+            "back": "Me levanto temprano."
+        },
+        {
+            "front": "I get up at six.",
+            "back": "Me levanto a las seis."
+        },
+        {
+            "front": "I don't get up early.",
+            "back": "No me levanto temprano.<div class=\"hint\">'no' goes in front of the pronoun.</div>"
+        },
+        {
+            "front": "What time do you get up?",
+            "back": "¿A qué hora te levantas?"
+        },
+        {
+            "front": "My mom gets up very early.",
+            "back": "Mi mamá se levanta muy temprano."
+        },
+        {
+            "front": "On weekends we get up late.",
+            "back": "Los fines de semana nos levantamos tarde."
+        },
+        {
+            "front": "My parents get up at five.",
+            "back": "Mis papás se levantan a las cinco.<div class=\"hint\">mis papás (Mex.) = my parents</div>"
+        },
+        {
+            "front": "to wake up",
+            "back": "despertarse<div class=\"hint\">despertarse = wake up; levantarse = get out of bed.</div>"
+        },
+        {
+            "front": "I wake up",
+            "back": "me despierto<div class=\"hint\">Stem change e→ie in every form except nosotros: nos despertamos.</div>"
+        },
+        {
+            "front": "I wake up at six but I get up at six thirty.",
+            "back": "Me despierto a las seis, pero me levanto a las seis y media."
+        },
+        {
+            "front": "to shower / to bathe",
+            "back": "bañarse<div class=\"hint\">In Mexico bañarse covers showering; ducharse is rarely said.</div>"
+        },
+        {
+            "front": "I shower in the morning.",
+            "back": "Me baño en la mañana.<div class=\"hint\">Mexico says en la mañana (Spain: por la mañana).</div>"
+        },
+        {
+            "front": "Do you shower at night or in the morning?",
+            "back": "¿Te bañas en la noche o en la mañana?"
+        },
+        {
+            "front": "to get dressed",
+            "back": "vestirse<div class=\"hint\">Stem change e→i: me visto, te vistes, se viste, nos vestimos, se visten.</div>"
+        },
+        {
+            "front": "I get dressed fast.",
+            "back": "Me visto rápido."
+        },
+        {
+            "front": "She gets dressed in five minutes.",
+            "back": "Se viste en cinco minutos."
+        },
+        {
+            "front": "to wash (oneself)",
+            "back": "lavarse"
+        },
+        {
+            "front": "I wash my hands.",
+            "back": "Me lavo las manos.<div class=\"hint\">Body parts take las / los, not mis: the pronoun already says whose.</div>"
+        },
+        {
+            "front": "I brush my teeth.",
+            "back": "Me lavo los dientes."
+        },
+        {
+            "front": "We wake up at the same time.",
+            "back": "Nos despertamos a la misma hora."
+        },
+        {
+            "front": "I wake up, I shower, and I get dressed.",
+            "back": "Me despierto, me baño y me visto."
+        },
+        {
+            "front": "to go to bed",
+            "back": "acostarse<div class=\"hint\">Stem change o→ue: me acuesto; nosotros keeps the o: nos acostamos.</div>"
+        },
+        {
+            "front": "I go to bed late.",
+            "back": "Me acuesto tarde."
+        },
+        {
+            "front": "What time do you go to bed?",
+            "back": "¿A qué hora te acuestas?"
+        },
+        {
+            "front": "to fall asleep",
+            "back": "dormirse<div class=\"hint\">dormir = to sleep; dormirse = to fall asleep. o→ue: me duermo.</div>"
+        },
+        {
+            "front": "I fall asleep right away.",
+            "back": "Me duermo luego luego.<div class=\"hint\">luego luego (Mex.) = right away</div>"
+        },
+        {
+            "front": "I sleep eight hours.",
+            "back": "Duermo ocho horas.<div class=\"hint\">Not reflexive: this is sleeping, not falling asleep.</div>"
+        },
+        {
+            "front": "The kids fall asleep in the car.",
+            "back": "Los niños se duermen en el carro.<div class=\"hint\">carro (Mex.) = car</div>"
+        },
+        {
+            "front": "to sit down",
+            "back": "sentarse<div class=\"hint\">e→ie: me siento. Same form as sentirse (to feel); context tells them apart.</div>"
+        },
+        {
+            "front": "I sit down to eat.",
+            "back": "Me siento a comer."
+        },
+        {
+            "front": "We sit down to eat together.",
+            "back": "Nos sentamos a comer juntos."
+        },
+        {
+            "front": "to stand up",
+            "back": "pararse<div class=\"hint\">In Mexico pararse = to stand up. In Spain it means to stop.</div>"
+        },
+        {
+            "front": "I stand up.",
+            "back": "Me paro."
+        },
+        {
+            "front": "My partner goes to bed early and gets up early.",
+            "back": "Mi pareja se acuesta temprano y se levanta temprano."
+        },
+        {
+            "front": "I'm going to get up early tomorrow.",
+            "back": "Voy a levantarme temprano mañana.<div class=\"hint\">With ir a + infinitive the pronoun attaches to the infinitive or goes before voy: Me voy a levantar temprano mañana. Both are fine.</div>"
+        },
+        {
+            "front": "I want to go to bed.",
+            "back": "Quiero acostarme.<div class=\"hint\">also: Me quiero acostar.</div>"
+        },
+        {
+            "front": "I have to shower.",
+            "back": "Tengo que bañarme."
+        },
+        {
+            "front": "I need to sit down.",
+            "back": "Necesito sentarme."
+        },
+        {
+            "front": "I'm getting dressed. (right now)",
+            "back": "Me estoy vistiendo.<div class=\"hint\">also: Estoy vistiéndome. Attached to a gerund, the pronoun needs an accent to keep the stress.</div>"
+        },
+        {
+            "front": "She's falling asleep.",
+            "back": "Se está durmiendo."
+        },
+        {
+            "front": "We're going to sit down here.",
+            "back": "Nos vamos a sentar aquí."
+        },
+        {
+            "front": "to be called / to be named",
+            "back": "llamarse"
+        },
+        {
+            "front": "My name is...",
+            "back": "Me llamo..."
+        },
+        {
+            "front": "What's your name?",
+            "back": "¿Cómo te llamas?"
+        },
+        {
+            "front": "What's your name? (usted, formal)",
+            "back": "¿Cómo se llama usted?"
+        },
+        {
+            "front": "His name is Carlos.",
+            "back": "Se llama Carlos."
+        },
+        {
+            "front": "to leave / to go away",
+            "back": "irse<div class=\"hint\">ir = to go (somewhere); irse = to leave. Forms: me voy, te vas, se va, nos vamos, se van.</div>"
+        },
+        {
+            "front": "I'm leaving.",
+            "back": "Me voy."
+        },
+        {
+            "front": "Are you leaving already?",
+            "back": "¿Ya te vas?"
+        },
+        {
+            "front": "I have to go.",
+            "back": "Me tengo que ir.<div class=\"hint\">also: Tengo que irme.</div>"
+        },
+        {
+            "front": "We're leaving at eight.",
+            "back": "Nos vamos a las ocho."
+        },
+        {
+            "front": "to stay",
+            "back": "quedarse<div class=\"hint\">quedar = to be left over / to meet up; quedarse = to stay.</div>"
+        },
+        {
+            "front": "I'm staying home today.",
+            "back": "Hoy me quedo en la casa.<div class=\"hint\">Mexico says en la casa or en casa; both are fine.</div>"
+        },
+        {
+            "front": "How long are you staying?",
+            "back": "¿Cuánto tiempo te quedas?"
+        },
+        {
+            "front": "to feel (well, bad, tired)",
+            "back": "sentirse<div class=\"hint\">e→ie: me siento. sentir without se = to feel something / to be sorry.</div>"
+        },
+        {
+            "front": "I feel good.",
+            "back": "Me siento bien."
+        },
+        {
+            "front": "I don't feel well.",
+            "back": "No me siento bien."
+        },
+        {
+            "front": "How do you feel?",
+            "back": "¿Cómo te sientes?"
+        },
+        {
+            "front": "to put on (clothes)",
+            "back": "ponerse<div class=\"hint\">poner = to put (something somewhere); ponerse = to put on oneself. yo: me pongo.</div>"
+        },
+        {
+            "front": "I put on my jacket.",
+            "back": "Me pongo la chamarra.<div class=\"hint\">chamarra (Mex.) = jacket</div>"
+        },
+        {
+            "front": "to take off (clothes)",
+            "back": "quitarse"
+        },
+        {
+            "front": "I take off my shoes.",
+            "back": "Me quito los zapatos."
+        },
+        {
+            "front": "We take off our shoes at the door.",
+            "back": "Nos quitamos los zapatos en la puerta."
+        },
+        {
+            "front": "I put on my shoes and I leave.",
+            "back": "Me pongo los zapatos y me voy."
+        },
+        {
+            "front": "I feel bad, I'm going to bed.",
+            "back": "Me siento mal, me voy a acostar."
+        },
+        {
+            "front": "She puts on her gi before class.",
+            "back": "Se pone el gi antes de la clase.<div class=\"hint\">gi (BJJ uniform) is the same word in Spanish</div>"
+        },
+        {
+            "front": "to get angry",
+            "back": "enojarse<div class=\"hint\">Mexico: enojarse. Spain: enfadarse.</div>"
+        },
+        {
+            "front": "I get angry when I lose.",
+            "back": "Me enojo cuando pierdo.<div class=\"hint\">pierdo, from perder = to lose</div>"
+        },
+        {
+            "front": "My mom gets angry when I arrive late.",
+            "back": "Mi mamá se enoja cuando llego tarde."
+        },
+        {
+            "front": "to worry (about)",
+            "back": "preocuparse (por)"
+        },
+        {
+            "front": "I worry a lot.",
+            "back": "Me preocupo mucho."
+        },
+        {
+            "front": "My mom worries when I don't write to her.",
+            "back": "Mi mamá se preocupa cuando no le escribo."
+        },
+        {
+            "front": "to have fun",
+            "back": "divertirse<div class=\"hint\">e→ie: me divierto; nosotros: nos divertimos.</div>"
+        },
+        {
+            "front": "I have a lot of fun in class.",
+            "back": "Me divierto mucho en la clase."
+        },
+        {
+            "front": "Are you having fun?",
+            "back": "¿Te estás divirtiendo?<div class=\"hint\">In the gerund the stem changes e→i: divirtiendo.</div>"
+        },
+        {
+            "front": "to get bored",
+            "back": "aburrirse"
+        },
+        {
+            "front": "I get bored at home.",
+            "back": "Me aburro en la casa."
+        },
+        {
+            "front": "to relax",
+            "back": "relajarse"
+        },
+        {
+            "front": "I relax with a cup of tea.",
+            "back": "Me relajo con una taza de té."
+        },
+        {
+            "front": "to become / to get (+ adjective)",
+            "back": "ponerse<div class=\"hint\">ponerse + adjective = a sudden change of state: ponerse nervioso, ponerse triste, ponerse rojo.</div>"
+        },
+        {
+            "front": "I get sad when it rains.",
+            "back": "Me pongo triste cuando llueve."
+        },
+        {
+            "front": "My friend gets nervous before a competition.",
+            "back": "Mi amigo se pone nervioso antes de una competencia.<div class=\"hint\">competencia (Mex.) = competition (Spain: competición)</div>"
+        },
+        {
+            "front": "to calm down",
+            "back": "calmarse"
+        },
+        {
+            "front": "I calm down when I breathe.",
+            "back": "Me calmo cuando respiro.<div class=\"hint\">respirar = to breathe</div>"
+        },
+        {
+            "front": "to get scared",
+            "back": "asustarse<div class=\"hint\">Mexico also says espantarse.</div>"
+        },
+        {
+            "front": "I get scared easily.",
+            "back": "Me asusto fácil.<div class=\"hint\">fácil as an adverb is colloquial Mexican (standard: fácilmente).</div>"
+        },
+        {
+            "front": "to get excited / to get emotional",
+            "back": "emocionarse"
+        },
+        {
+            "front": "I get emotional when I see my family.",
+            "back": "Me emociono cuando veo a mi familia."
+        },
+        {
+            "front": "to get along (with)",
+            "back": "llevarse bien (con)<div class=\"hint\">llevar = to carry / take; llevarse bien or mal con = to get along well or badly with.</div>"
+        },
+        {
+            "front": "I get along well with my mom.",
+            "back": "Me llevo bien con mi mamá."
+        },
+        {
+            "front": "Do you get along with your brother?",
+            "back": "¿Te llevas bien con tu hermano?"
+        },
+        {
+            "front": "to remember",
+            "back": "acordarse (de)<div class=\"hint\">o→ue: me acuerdo. Same meaning as recordar. acordar without se = to agree on.</div>"
+        },
+        {
+            "front": "I remember.",
+            "back": "Me acuerdo."
+        },
+        {
+            "front": "I don't remember his name.",
+            "back": "No me acuerdo de su nombre."
+        },
+        {
+            "front": "Do you remember me?",
+            "back": "¿Te acuerdas de mí?"
+        },
+        {
+            "front": "to forget",
+            "back": "olvidarse (de)"
+        },
+        {
+            "front": "It always slips my mind.",
+            "back": "Siempre se me olvida.<div class=\"hint\">se me olvida: the thing forgotten is the subject and me marks who forgot. Very common in Mexico.</div>"
+        },
+        {
+            "front": "to look like (resemble)",
+            "back": "parecerse (a)<div class=\"hint\">parecer = to seem; parecerse a = to look like. yo: me parezco.</div>"
+        },
+        {
+            "front": "I look like my dad.",
+            "back": "Me parezco a mi papá."
+        },
+        {
+            "front": "to realize",
+            "back": "darse cuenta (de)<div class=\"hint\">Literally 'to give oneself account'. yo: me doy cuenta.</div>"
+        },
+        {
+            "front": "I realize that I need to rest.",
+            "back": "Me doy cuenta de que necesito descansar."
+        },
+        {
+            "front": "to go back (home)",
+            "back": "regresarse<div class=\"hint\">regresar = to return; Mexicans often add se when heading back home.</div>"
+        },
+        {
+            "front": "I'm going back home.",
+            "back": "Me regreso a la casa."
+        },
+        {
+            "front": "to get on / to get in (a vehicle)",
+            "back": "subirse (a)<div class=\"hint\">subir = to go up; subirse a = to get on or into.</div>"
+        },
+        {
+            "front": "I get on the bus.",
+            "back": "Me subo al camión.<div class=\"hint\">camión (Mex.) = city bus</div>"
+        },
+        {
+            "front": "to get off / to get out (of a vehicle)",
+            "back": "bajarse (de)"
+        },
+        {
+            "front": "I get off here.",
+            "back": "Me bajo aquí."
+        },
+        {
+            "front": "to eat up (the whole thing)",
+            "back": "comerse<div class=\"hint\">The se here just intensifies: comerse todo = eat it all.</div>"
+        },
+        {
+            "front": "He eats up everything.",
+            "back": "Se come todo."
+        },
+        {
+            "front": "to go crazy",
+            "back": "volverse loco<div class=\"hint\">volver = to return; volverse + adjective = to become (a lasting change).</div>"
+        },
+        {
+            "front": "I'm going crazy with so much work.",
+            "back": "Me estoy volviendo loco con tanto trabajo.<div class=\"hint\">loco / loca agrees with the speaker.</div>"
+        },
+        {
+            "front": "to park",
+            "back": "estacionarse<div class=\"hint\">Mexico: estacionarse (Spain: aparcar).</div>"
+        },
+        {
+            "front": "I park on the street.",
+            "back": "Me estaciono en la calle."
+        },
+        {
+            "front": "we see each other",
+            "back": "nos vemos<div class=\"hint\">With nos and se the pronoun can mean 'each other'.</div>"
+        },
+        {
+            "front": "See you tomorrow!",
+            "back": "¡Nos vemos mañana!"
+        },
+        {
+            "front": "See you later!",
+            "back": "¡Nos vemos al rato!<div class=\"hint\">al rato (Mex.) = in a bit / later</div>"
+        },
+        {
+            "front": "to meet / to know each other",
+            "back": "conocerse"
+        },
+        {
+            "front": "We know each other well.",
+            "back": "Nos conocemos bien."
+        },
+        {
+            "front": "to love each other",
+            "back": "quererse"
+        },
+        {
+            "front": "They love each other a lot.",
+            "back": "Se quieren mucho."
+        },
+        {
+            "front": "to help each other",
+            "back": "ayudarse"
+        },
+        {
+            "front": "We help each other.",
+            "back": "Nos ayudamos."
+        },
+        {
+            "front": "to hug (each other)",
+            "back": "abrazarse"
+        },
+        {
+            "front": "They hug.",
+            "back": "Se abrazan."
+        },
+        {
+            "front": "to get married (to)",
+            "back": "casarse (con)"
+        },
+        {
+            "front": "My friend is getting married next year.",
+            "back": "Mi amigo se casa el año que viene."
+        },
+        {
+            "front": "We text each other every day.",
+            "back": "Nos mandamos mensajes todos los días."
+        },
+        {
+            "front": "Get up!",
+            "back": "¡Levántate!<div class=\"hint\">Affirmative tú commands attach the pronoun; add an accent to keep the stress where it was.</div>"
+        },
+        {
+            "front": "Sit down.",
+            "back": "Siéntate."
+        },
+        {
+            "front": "Sit down. (usted, formal)",
+            "back": "Siéntese."
+        },
+        {
+            "front": "Stand up.",
+            "back": "Párate."
+        },
+        {
+            "front": "Calm down.",
+            "back": "Cálmate."
+        },
+        {
+            "front": "Take care!",
+            "back": "¡Cuídate!<div class=\"hint\">from cuidarse = to take care of oneself</div>"
+        },
+        {
+            "front": "Go to bed! (to a child)",
+            "back": "¡Acuéstate!"
+        },
+        {
+            "front": "Don't get up.",
+            "back": "No te levantes.<div class=\"hint\">Negative commands: no + pronoun + the subjunctive form.</div>"
+        },
+        {
+            "front": "Don't leave.",
+            "back": "No te vayas."
+        },
+        {
+            "front": "Don't worry.",
+            "back": "No te preocupes."
+        },
+        {
+            "front": "Don't fall asleep.",
+            "back": "No te duermas."
+        },
+        {
+            "front": "Don't get angry.",
+            "back": "No te enojes."
+        },
+        {
+            "front": "Let's go!",
+            "back": "¡Vámonos!<div class=\"hint\">vamos + nos drops the s: vámonos.</div>"
+        },
+        {
+            "front": "to get sick",
+            "back": "enfermarse<div class=\"hint\">Mexico: enfermarse. Spain: ponerse enfermo.</div>"
+        },
+        {
+            "front": "I almost never get sick.",
+            "back": "Casi nunca me enfermo."
+        },
+        {
+            "front": "to take care of oneself",
+            "back": "cuidarse"
+        },
+        {
+            "front": "I take care of myself.",
+            "back": "Me cuido."
+        },
+        {
+            "front": "to get hurt / to injure oneself",
+            "back": "lastimarse"
+        },
+        {
+            "front": "Sometimes I get hurt training.",
+            "back": "A veces me lastimo entrenando.<div class=\"hint\">entrenar = to train</div>"
+        },
+        {
+            "front": "to fall down",
+            "back": "caerse<div class=\"hint\">caer = to fall (things); caerse = to fall down (people). yo: me caigo. Not the same as me cae bien = I like him.</div>"
+        },
+        {
+            "front": "Careful, you're going to fall.",
+            "back": "Cuidado, te vas a caer."
+        },
+        {
+            "front": "to get better (health)",
+            "back": "mejorarse"
+        },
+        {
+            "front": "Get better soon!",
+            "back": "¡Que te mejores!<div class=\"hint\">Mexico also says ¡Que te alivies!</div>"
+        },
+        {
+            "front": "to hurry",
+            "back": "apurarse<div class=\"hint\">Mexico: apurarse. Spain: darse prisa.</div>"
+        },
+        {
+            "front": "Hurry up!",
+            "back": "¡Apúrate!"
+        },
+        {
+            "front": "to get used to",
+            "back": "acostumbrarse (a)"
+        },
+        {
+            "front": "I'm getting used to the schedule.",
+            "back": "Me estoy acostumbrando al horario.<div class=\"hint\">horario = schedule</div>"
+        },
+        {
+            "front": "to move (to a new home)",
+            "back": "mudarse<div class=\"hint\">In Mexico cambiarse de casa is just as common.</div>"
+        },
+        {
+            "front": "We're moving next month.",
+            "back": "Nos mudamos el próximo mes."
+        },
+        {
+            "front": "to oversleep / to doze off",
+            "back": "quedarse dormido<div class=\"hint\">Literally 'to stay asleep'. dormido / dormida agrees with the speaker.</div>"
+        },
+        {
+            "front": "I doze off watching TV.",
+            "back": "Me quedo dormido viendo la tele."
+        },
+        {
+            "front": "to make a mistake / to be wrong",
+            "back": "equivocarse"
+        },
+        {
+            "front": "Everyone makes mistakes.",
+            "back": "Todos se equivocan."
+        },
+        {
+            "front": "to get lost",
+            "back": "perderse<div class=\"hint\">e→ie: me pierdo. perder = to lose; perderse = to get lost, or to miss out on something.</div>"
+        },
+        {
+            "front": "I always get lost downtown.",
+            "back": "Siempre me pierdo en el centro."
+        },
+        {
+            "front": "to complain (about)",
+            "back": "quejarse (de)"
+        },
+        {
+            "front": "She never complains.",
+            "back": "Nunca se queja."
+        },
+        {
+            "front": "to notice / to pay attention (to)",
+            "back": "fijarse (en)<div class=\"hint\">¡Fíjate! (Mex.) = check this out / would you believe it.</div>"
+        },
+        {
+            "front": "Notice how he moves his hips.",
+            "back": "Fíjate cómo mueve la cadera.<div class=\"hint\">mover = to move; cadera = hip</div>"
+        },
+        {
+            "front": "to laugh (at)",
+            "back": "reírse (de)<div class=\"hint\">me río, te ríes, se ríe, nos reímos, se ríen (note the accents).</div>"
+        },
+        {
+            "front": "We laugh a lot together.",
+            "back": "Nos reímos mucho juntos."
+        },
+        {
+            "front": "Don't laugh at me.",
+            "back": "No te rías de mí."
+        },
+        {
+            "front": "to say goodbye (to)",
+            "back": "despedirse (de)<div class=\"hint\">e→i: me despido.</div>"
+        },
+        {
+            "front": "I say goodbye to my mom before leaving.",
+            "back": "Me despido de mi mamá antes de irme."
+        },
+        {
+            "front": "to find out (about)",
+            "back": "enterarse (de)"
+        },
+        {
+            "front": "I just found out.",
+            "back": "Me acabo de enterar.<div class=\"hint\">also: Acabo de enterarme.</div>"
+        },
+        {
+            "front": "to get into / to meddle (in)",
+            "back": "meterse (en)"
+        },
+        {
+            "front": "Stay out of it.",
+            "back": "No te metas."
+        },
+        {
+            "front": "to dare (to)",
+            "back": "atreverse (a)"
+        },
+        {
+            "front": "I don't dare to compete yet.",
+            "back": "Todavía no me atrevo a competir."
+        },
+        {
+            "front": "to back out / to chicken out",
+            "back": "rajarse<div class=\"hint\">Mexican slang.</div>"
+        },
+        {
+            "front": "Don't back out!",
+            "back": "¡No te rajes!"
+        },
+        {
+            "front": "to go for it / to throw oneself in",
+            "back": "aventarse<div class=\"hint\">Mexican: aventar = to throw; aventarse = to dare, to just go for it.</div>"
+        },
+        {
+            "front": "Go for it!",
+            "back": "¡Aviéntate!"
+        },
+        {
+            "front": "to behave",
+            "back": "portarse (bien / mal)"
+        },
+        {
+            "front": "The kids behave well.",
+            "back": "Los niños se portan bien."
+        },
+        {
+            "front": "I got up late today.",
+            "back": "Hoy me levanté tarde.<div class=\"hint\">Same pronouns, past-tense endings.</div>"
+        },
+        {
+            "front": "I went to bed at midnight.",
+            "back": "Me acosté a medianoche."
+        },
+        {
+            "front": "I fell asleep on the couch.",
+            "back": "Me dormí en el sillón.<div class=\"hint\">sillón (Mex.) = couch</div>"
+        },
+        {
+            "front": "She got mad at me.",
+            "back": "Se enojó conmigo."
+        },
+        {
+            "front": "We had a lot of fun.",
+            "back": "Nos divertimos mucho."
+        },
+        {
+            "front": "I hurt my knee at training.",
+            "back": "Me lastimé la rodilla en el entrenamiento.<div class=\"hint\">rodilla = knee</div>"
+        },
+        {
+            "front": "I fell.",
+            "back": "Me caí."
+        },
+        {
+            "front": "I didn't realize.",
+            "back": "No me di cuenta."
+        },
+        {
+            "front": "I forgot.",
+            "back": "Se me olvidó."
+        },
+        {
+            "front": "I forgot my keys.",
+            "back": "Se me olvidaron las llaves.<div class=\"hint\">Plural keys, plural verb: the keys 'forgot themselves on me'.</div>"
+        },
+        {
+            "front": "I overslept.",
+            "back": "Me quedé dormido."
+        },
+        {
+            "front": "I was wrong.",
+            "back": "Me equivoqué.<div class=\"hint\">-car verbs spell c→qu in the yo preterite.</div>"
+        },
+        {
+            "front": "We met at the gym.",
+            "back": "Nos conocimos en el gimnasio.<div class=\"hint\">conocerse in the past = to meet for the first time.</div>"
+        },
+        {
+            "front": "They got married last year.",
+            "back": "Se casaron el año pasado."
+        },
+        {
+            "front": "I got used to it already.",
+            "back": "Ya me acostumbré."
+        },
+        {
+            "front": "I got sick last week.",
+            "back": "Me enfermé la semana pasada."
+        },
+        {
+            "front": "I put on my gi.",
+            "back": "Me puse el gi.<div class=\"hint\">poner has an irregular preterite: puse.</div>"
+        },
+        {
+            "front": "I left early.",
+            "back": "Me fui temprano.<div class=\"hint\">irse in the preterite: me fui, te fuiste, se fue, nos fuimos, se fueron.</div>"
+        },
+        {
+            "front": "I stayed home all day.",
+            "back": "Me quedé en la casa todo el día."
+        },
+        {
+            "front": "I got scared.",
+            "back": "Me asusté."
+        },
+        {
+            "front": "I got lost on the way there.",
+            "back": "Me perdí en el camino."
+        },
+        {
+            "front": "I get up early to train.",
+            "back": "Me levanto temprano para entrenar."
+        },
+        {
+            "front": "After training I shower and relax with a tea.",
+            "back": "Después de entrenar me baño y me relajo con un té."
+        },
+        {
+            "front": "I go to bed late when I work a lot.",
+            "back": "Me acuesto tarde cuando trabajo mucho."
+        },
+        {
+            "front": "I get along well with my teammates.",
+            "back": "Me llevo bien con mis compañeros."
+        },
+        {
+            "front": "I feel better when I meditate.",
+            "back": "Me siento mejor cuando medito."
+        },
+        {
+            "front": "I'm going to stay home this weekend.",
+            "back": "Me voy a quedar en la casa este fin de semana."
+        },
+        {
+            "front": "I get nervous when I speak Spanish.",
+            "back": "Me pongo nervioso cuando hablo español.<div class=\"hint\">nervioso / nerviosa agrees with the speaker.</div>"
+        },
+        {
+            "front": "I have to hurry, I'm running late.",
+            "back": "Tengo que apurarme, se me hizo tarde.<div class=\"hint\">se me hizo tarde (Mex.) = I'm running late</div>"
+        },
+        {
+            "front": "We see each other on Saturday.",
+            "back": "Nos vemos el sábado."
+        },
+        {
+            "front": "I don't remember where I parked.",
+            "back": "No me acuerdo dónde me estacioné."
+        },
+        {
+            "front": "I'm getting used to waking up at five.",
+            "back": "Me estoy acostumbrando a despertarme a las cinco."
+        },
+        {
+            "front": "Take care and get better soon.",
+            "back": "Cuídate y que te mejores."
+        },
+        {
+            "front": "Don't complain, keep going.",
+            "back": "No te quejes, sigue."
+        },
+        {
+            "front": "Sit down and calm down.",
+            "back": "Siéntate y cálmate."
+        },
+        {
+            "front": "My sister and I look alike.",
+            "back": "Mi hermana y yo nos parecemos."
+        },
+        {
+            "front": "We're leaving, see you tomorrow!",
+            "back": "Ya nos vamos, ¡nos vemos mañana!"
+        }
+    ]
+}

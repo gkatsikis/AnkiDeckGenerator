@@ -1,0 +1,246 @@
+{
+  "deck_name": "Thackston_ch5",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">بچه</div>",
+      "back": "child (bachché); Hey, kid! (báchche)"
+    },
+    {
+      "front": "<div class=\"fa\">خانم علوی</div>",
+      "back": "Ms. Alavi (khânom-e alaví); O Ms. Alavi! (khấnom-e alavi)"
+    },
+    {
+      "front": "<div class=\"fa\">خانهٔ علی</div>",
+      "back": "Ali's house (khâne-ye ali)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابهای بچه</div>",
+      "back": "the child's books (ketâbhâ-ye bachche)"
+    },
+    {
+      "front": "<div class=\"fa\">کتاب بزرگ بچهٔ کوچک</div>",
+      "back": "the small child's big book ([ketâb-e bozorg]-e [bachche-ye kuchek])"
+    },
+    {
+      "front": "<div class=\"fa\">قلمهای کهنهٔ دانشجوی تنبل</div>",
+      "back": "the lazy student's old pens ([qalamhâ-ye kohne]-ye [dâneshju-ye tambal])"
+    },
+    {
+      "front": "<div class=\"fa\">کتاب من</div>",
+      "back": "my book (ketâb-e man)"
+    },
+    {
+      "front": "<div class=\"fa\">مادر مهربان شما</div>",
+      "back": "your kind mother (mâdar-e mehrbân-e shomâ)"
+    },
+    {
+      "front": "<div class=\"fa\">قلمهای نو آنها</div>",
+      "back": "their new pens (qalamhâ-ye naw-e ânhâ)"
+    },
+    {
+      "front": "<div class=\"fa\">بچهٔ کیست؟</div>",
+      "back": "Whose child is s/he? (bachche-ye kist?)"
+    },
+    {
+      "front": "<div class=\"fa\">راه تبریز</div>",
+      "back": "the road to Tabriz, Tabriz Road (râh-e tabriz)"
+    },
+    {
+      "front": "<div class=\"fa\">دانشجوی دانشگاه</div>",
+      "back": "university student (dâneshju-ye dâneshgâh)"
+    },
+    {
+      "front": "<div class=\"fa\">کجای ایران</div>",
+      "back": "whereabouts in Iran? (kojâ-ye irân)"
+    },
+    {
+      "front": "<div class=\"fa\">دربارهٔ</div>",
+      "back": "about (darbâre-ye)"
+    },
+    {
+      "front": "<div class=\"fa\">دریای مدیترانه</div>",
+      "back": "the Mediterranean Sea (daryâ-ye mediterâne)"
+    },
+    {
+      "front": "<div class=\"fa\">کوه دماوند</div>",
+      "back": "Mount Damavand (kuh-e damâvand)"
+    },
+    {
+      "front": "<div class=\"fa\">شهر تهران</div>",
+      "back": "the city Tehran (shahr-e tehrân)"
+    },
+    {
+      "front": "<div class=\"fa\">خیابان اصفهان</div>",
+      "back": "Isfahan Avenue (khiâbân-e esfahân)"
+    },
+    {
+      "front": "<div class=\"fa\">کشور ایران</div>",
+      "back": "the country Iran (keshvar-e irân)"
+    },
+    {
+      "front": "<div class=\"fa\">یکی از</div>",
+      "back": "one of (yek-i az)"
+    },
+    {
+      "front": "<div class=\"fa\">یکی از کتابهای من</div>",
+      "back": "one of my books, a book of mine (yek-i az ketâbhâ-ye man)"
+    },
+    {
+      "front": "<div class=\"fa\">یک دانشجوی دانشگاه</div>",
+      "back": "one (a) university student (yek dâneshju-ye dâneshgâh)"
+    },
+    {
+      "front": "<div class=\"fa\">یکی از دانشجوهای دانشگاه تهران</div>",
+      "back": "one of the students of Tehran University (yek-i az dâneshjuhâ-ye dâneshgâh-e tehrân)"
+    },
+    {
+      "front": "<div class=\"fa\">هستم</div>",
+      "back": "I am (hástam)"
+    },
+    {
+      "front": "<div class=\"fa\">هستی</div>",
+      "back": "you are (hásti)"
+    },
+    {
+      "front": "<div class=\"fa\">هست</div>",
+      "back": "he/she/it is (hást)"
+    },
+    {
+      "front": "<div class=\"fa\">هستیم</div>",
+      "back": "we are (hástim)"
+    },
+    {
+      "front": "<div class=\"fa\">هستید</div>",
+      "back": "you are (hástid)"
+    },
+    {
+      "front": "<div class=\"fa\">هستند</div>",
+      "back": "they are (hástand)"
+    },
+    {
+      "front": "<div class=\"fa\">علی هست.</div>",
+      "back": "Ali is (exists). (ali hast.)"
+    },
+    {
+      "front": "<div class=\"fa\">در آشپزخانه غذائی هست.</div>",
+      "back": "There is some food in the kitchen. (dar âshpazkhâne qazâ-i hast.)"
+    },
+    {
+      "front": "<div class=\"fa\">در آشپزخانه غذائی نیست.</div>",
+      "back": "There is no food in the kitchen. (dar âshpazkhane qazâ-i nist.)"
+    },
+    {
+      "front": "<div class=\"fa\">در خانهٔ او کتابهای خوبی هست.</div>",
+      "back": "There are some good books in his house. (dar khâne-ye u ketâbhâ-ye khub-i hast.)"
+    },
+    {
+      "front": "<div class=\"fa\">در خانهٔ او کتابهای خوبی نیست.</div>",
+      "back": "There are no good books in his house. (dar khâne-ye u ketâbhâ-ye khub-i nist.)"
+    },
+    {
+      "front": "<div class=\"fa\">علی ایرانی است.</div>",
+      "back": "Ali is Iranian. (ali irâní-ast.)"
+    },
+    {
+      "front": "<div class=\"fa\">نخیر، ایرانی نیست.</div>",
+      "back": "No, he isn't Iranian. (nákhayr, irâni níst.)"
+    },
+    {
+      "front": "<div class=\"fa\">چرا، ایرانی هست!</div>",
+      "back": "Oh yes he is Iranian! (chérâ, irâní hást!)"
+    },
+    {
+      "front": "<div class=\"fa\">من ایرانی هستم.</div>",
+      "back": "I'm Iranian. (man irâní-hastam.)"
+    },
+    {
+      "front": "<div class=\"fa\">آنها کجا هستند؟</div>",
+      "back": "Where are they? (ânhâ kojâ-hastand?)"
+    },
+    {
+      "front": "<div class=\"fa\">شما آمریکائی هستید؟</div>",
+      "back": "Are you American? (shomâ âmrikâi-hastid?)"
+    },
+    {
+      "front": "<div class=\"fa\">اینها کتابهای خوبی هستند.</div>",
+      "back": "These are good books. (inhâ, ketâbhâ-ye khub-i hastand.)"
+    },
+    {
+      "front": "<div class=\"fa\">از</div>",
+      "back": "from (prep.) (az)"
+    },
+    {
+      "front": "<div class=\"fa\">اسم</div>",
+      "back": "name (esm)"
+    },
+    {
+      "front": "<div class=\"fa\">امروز</div>",
+      "back": "today (emruz)"
+    },
+    {
+      "front": "<div class=\"fa\">با</div>",
+      "back": "with, by (preposition) (bâ)"
+    },
+    {
+      "front": "<div class=\"fa\">برای</div>",
+      "back": "for (preposition) (barâ-ye)"
+    },
+    {
+      "front": "<div class=\"fa\">به، بـ</div>",
+      "back": "to (preposition; may be written as a separate word or joined directly to following word) (be)"
+    },
+    {
+      "front": "<div class=\"fa\">پدر</div>",
+      "back": "father (pedar)"
+    },
+    {
+      "front": "<div class=\"fa\">جا</div>",
+      "back": "place (jâ)"
+    },
+    {
+      "front": "<div class=\"fa\">جدید</div>",
+      "back": "new (jadid)"
+    },
+    {
+      "front": "<div class=\"fa\">دختر</div>",
+      "back": "girl, daughter (dokhtar)"
+    },
+    {
+      "front": "<div class=\"fa\">دور</div>",
+      "back": "distant, far (az from) (dur)"
+    },
+    {
+      "front": "<div class=\"fa\">راه</div>",
+      "back": "road, way (râh)"
+    },
+    {
+      "front": "<div class=\"fa\">علی</div>",
+      "back": "Ali (masc. given name) (ali)"
+    },
+    {
+      "front": "<div class=\"fa\">علیزاده</div>",
+      "back": "Alizadeh (family name) (alizâde)"
+    },
+    {
+      "front": "<div class=\"fa\">مادر</div>",
+      "back": "mother (mâdar)"
+    },
+    {
+      "front": "<div class=\"fa\">مریم</div>",
+      "back": "Maryam (fem. name) (maryam)"
+    },
+    {
+      "front": "<div class=\"fa\">نزدیک</div>",
+      "back": "near, close (with ezâfe or be, to) (nazdik)"
+    },
+    {
+      "front": "<div class=\"fa\">یک</div>",
+      "back": "one, a (adj., precedes word it modifies) (yek)"
+    },
+    {
+      "front": "<div class=\"fa\">یکی</div>",
+      "back": "one (pronoun) (yek-i)"
+    }
+  ]
+}

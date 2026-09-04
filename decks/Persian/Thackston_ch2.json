@@ -1,0 +1,278 @@
+{
+  "deck_name": "Thackston_ch2",
+  "css": ".card {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    font-size: 26px;\n    text-align: center;\n    color: #333;\n    background-color: #fff;\n    padding: 20px;\n}\n.fa { font-size: 34px; direction: rtl; line-height: 1.8; }\n",
+  "cards": [
+    {
+      "front": "<div class=\"fa\">این کتاب</div>",
+      "back": "this book (in ketâb)"
+    },
+    {
+      "front": "<div class=\"fa\">این کتابها</div>",
+      "back": "these books (in ketâbhâ)"
+    },
+    {
+      "front": "<div class=\"fa\">آن قلم</div>",
+      "back": "that pen (ân qalam)"
+    },
+    {
+      "front": "<div class=\"fa\">آن قلمها</div>",
+      "back": "those pens (ân qalamhâ)"
+    },
+    {
+      "front": "<div class=\"fa\">این خوب است.</div>",
+      "back": "This is good. (in khub-ast.)"
+    },
+    {
+      "front": "<div class=\"fa\">اینها خوبند.</div>",
+      "back": "These are good. (inhâ khub-and.)"
+    },
+    {
+      "front": "<div class=\"fa\">آن بد نیست.</div>",
+      "back": "That isn't bad. (ân bad nist.)"
+    },
+    {
+      "front": "<div class=\"fa\">آنها بد نیستند.</div>",
+      "back": "Those/they aren't bad. (ânhâ bad nistand.)"
+    },
+    {
+      "front": "<div class=\"fa\">این کتابها خوب است.</div>",
+      "back": "These books are good. (in ketâbhâ khub-ast.)"
+    },
+    {
+      "front": "<div class=\"fa\">آن کشورها قدیمی نیست.</div>",
+      "back": "Those countries are not old. (ân keshvarhâ qadimi nist.)"
+    },
+    {
+      "front": "<div class=\"fa\">این کتابها خوبند.</div>",
+      "back": "These books are good. (in ketâbhâ khub-and.)"
+    },
+    {
+      "front": "<div class=\"fa\">این کتابها خوب نیست.</div>",
+      "back": "These books aren't good. (in ketâbhâ khub nist.)"
+    },
+    {
+      "front": "<div class=\"fa\">این پسرها زرنگند.</div>",
+      "back": "These boys are clever. (in pesarhâ zerang-and.)"
+    },
+    {
+      "front": "<div class=\"fa\">این پسرها ایرانی نیستند.</div>",
+      "back": "These boys aren't Iranian. (in pesarhâ irâni nistand.)"
+    },
+    {
+      "front": "<div class=\"fa\">کتاب و قلم</div>",
+      "back": "book(s) and pen(s) (ketâb-o qalam or ketâb va-qalam)"
+    },
+    {
+      "front": "<div class=\"fa\">میز و صندلی</div>",
+      "back": "table(s) and chair(s) (miz-o sandali or miz va-sandali)"
+    },
+    {
+      "front": "<div class=\"fa\">کتاب و قلمی</div>",
+      "back": "a book and pen ({ketâb-o qalam}-i)"
+    },
+    {
+      "front": "<div class=\"fa\">گچ و پاک‌کنی</div>",
+      "back": "a piece of chalk and (an) eraser ({gach-o pâkkon}-i)"
+    },
+    {
+      "front": "<div class=\"fa\">بسیار خوب</div>",
+      "back": "very good (besyâr khub)"
+    },
+    {
+      "front": "<div class=\"fa\">کاملاً نو</div>",
+      "back": "brand new (kâmelan naw)"
+    },
+    {
+      "front": "<div class=\"fa\">قلمی بسیار خوب</div>",
+      "back": "a very good pen (qalam-i besyâr khub)"
+    },
+    {
+      "front": "<div class=\"fa\">کتابهائی کاملاً نو</div>",
+      "back": "some brand new books (ketâbhâ-i kâmelan naw)"
+    },
+    {
+      "front": "<div class=\"fa\">این خوب است؟</div>",
+      "back": "Is this good? (in khub-ast?)"
+    },
+    {
+      "front": "<div class=\"fa\">آن چه بود؟</div>",
+      "back": "What was that? (ân che bud?)"
+    },
+    {
+      "front": "<div class=\"fa\">آن جوان کی بود؟</div>",
+      "back": "Who was that young man? (ân javân ki bud?)"
+    },
+    {
+      "front": "<div class=\"fa\">ایران کجاست؟</div>",
+      "back": "Where is Iran? (irân kojâ-st?)"
+    },
+    {
+      "front": "<div class=\"fa\">علی کی آمد؟</div>",
+      "back": "When did Ali come? (ali kay âmad?)"
+    },
+    {
+      "front": "<div class=\"fa\">چرا اینجا نیست؟</div>",
+      "back": "Why isn't he/she/it here? (chérâ injâ nist?)"
+    },
+    {
+      "front": "<div class=\"fa\">آمریکا</div>",
+      "back": "America (âmrikâ)"
+    },
+    {
+      "front": "<div class=\"fa\">آمریکائی</div>",
+      "back": "American (âmrikâi)"
+    },
+    {
+      "front": "<div class=\"fa\">آن</div>",
+      "back": "that, those (adj.); that (pronoun) (ân)"
+    },
+    {
+      "front": "<div class=\"fa\">آنها</div>",
+      "back": "those (pronoun) (ânhâ)"
+    },
+    {
+      "front": "<div class=\"fa\">ایران</div>",
+      "back": "Iran (irân)"
+    },
+    {
+      "front": "<div class=\"fa\">ایرانی</div>",
+      "back": "Iranian (irâni)"
+    },
+    {
+      "front": "<div class=\"fa\">این</div>",
+      "back": "this, these (adj.); this (pronoun) (in)"
+    },
+    {
+      "front": "<div class=\"fa\">اینها</div>",
+      "back": "these (pronoun) (inhâ)"
+    },
+    {
+      "front": "<div class=\"fa\">بچه</div>",
+      "back": "child (bachche)"
+    },
+    {
+      "front": "<div class=\"fa\">پنجره</div>",
+      "back": "window (panjare)"
+    },
+    {
+      "front": "<div class=\"fa\">تهران</div>",
+      "back": "Tehran (tehrân)"
+    },
+    {
+      "front": "<div class=\"fa\">جوان</div>",
+      "back": "young, young person (javân)"
+    },
+    {
+      "front": "<div class=\"fa\">شهر</div>",
+      "back": "town, city (shahr)"
+    },
+    {
+      "front": "<div class=\"fa\">آنجا</div>",
+      "back": "there (ânjâ)"
+    },
+    {
+      "front": "<div class=\"fa\">اینجا</div>",
+      "back": "here (injâ)"
+    },
+    {
+      "front": "<div class=\"fa\">بسیار</div>",
+      "back": "very, very much (besyâr)"
+    },
+    {
+      "front": "<div class=\"fa\">بله، بلی</div>",
+      "back": "yes (bále)"
+    },
+    {
+      "front": "<div class=\"fa\">چرا</div>",
+      "back": "why? (chérâ)"
+    },
+    {
+      "front": "<div class=\"fa\">خیلی</div>",
+      "back": "very, much, many, a lot; too much, too many (kháyli)"
+    },
+    {
+      "front": "<div class=\"fa\">در</div>",
+      "back": "in (prep.) (dar)"
+    },
+    {
+      "front": "<div class=\"fa\">کاملاً</div>",
+      "back": "completely (kâmelan)"
+    },
+    {
+      "front": "<div class=\"fa\">کجا</div>",
+      "back": "where? (kojâ)"
+    },
+    {
+      "front": "<div class=\"fa\">نخیر</div>",
+      "back": "no (nákhayr)"
+    },
+    {
+      "front": "<div class=\"fa\">ولی</div>",
+      "back": "but (váli)"
+    },
+    {
+      "front": "<div class=\"fa\">است</div>",
+      "back": "(he, she, it) is (-ast; after -â and unstressed i, -st without the alef)"
+    },
+    {
+      "front": "<div class=\"fa\">اند</div>",
+      "back": "(they) are (-and)"
+    },
+    {
+      "front": "<div class=\"fa\">بود</div>",
+      "back": "(he, she, it) was (-bud)"
+    },
+    {
+      "front": "<div class=\"fa\">بودند</div>",
+      "back": "(they) were (-budand)"
+    },
+    {
+      "front": "<div class=\"fa\">نبود</div>",
+      "back": "(he, she, it) was not (nábud)"
+    },
+    {
+      "front": "<div class=\"fa\">نبودند</div>",
+      "back": "(they) were not (nábudand)"
+    },
+    {
+      "front": "<div class=\"fa\">نیست</div>",
+      "back": "(he, she, it) is not (níst)"
+    },
+    {
+      "front": "<div class=\"fa\">نیستند</div>",
+      "back": "(they) are not (nístand)"
+    },
+    {
+      "front": "<div class=\"fa\">سلام</div>",
+      "back": "Hello. (salâm)"
+    },
+    {
+      "front": "<div class=\"fa\">صبح بخیر</div>",
+      "back": "Good morning. (sobh bekhayr)"
+    },
+    {
+      "front": "<div class=\"fa\">صبح شما بخیر.</div>",
+      "back": "Good morning to you (in response). (sobh-e shomâ bekhayr.)"
+    },
+    {
+      "front": "<div class=\"fa\">حالتان چطور است؟</div>",
+      "back": "How are you? (hâletân chetawr-ast?)"
+    },
+    {
+      "front": "<div class=\"fa\">حال شما چطور است؟</div>",
+      "back": "How are you? (hâl-e shomâ chetawr-ast?)"
+    },
+    {
+      "front": "<div class=\"fa\">بد نیست. حال شما چطور است؟</div>",
+      "back": "Not bad. How are you? (bad nist. hâl-e shomâ chetawr-ast?)"
+    },
+    {
+      "front": "<div class=\"fa\">حال من هم بد نیست، قربان شما.</div>",
+      "back": "Not bad either, thanks. (hâl-e man-ham bad nist, qorbân-e shomâ.)"
+    },
+    {
+      "front": "<div class=\"fa\">خدا حافظ</div>",
+      "back": "Goodbye. (khodâ hâfez)"
+    }
+  ]
+}
